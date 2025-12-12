@@ -1,0 +1,1047 @@
+Game_id,Date,Day_of_week,Game_type,Home_team,Away_team,City,Attendance,Caitlin_played,Caitlin_points_lag3,Caitlin_minutes_lag3,Caitlin_3pts_made_lag3,stadium_norm,stadium_mean_prior,stadium_rolling_k_mean_prior,stadium_prev_game_attendance,stadium_prior_games_count,stadium_mean_prior_filled
+14,2022-05-24,Tuesday,Regular season,Dallas Wings,Washington Mystics,Arlington,3035,0,,,,arlington,,,,0,5139.049382716049
+24,2022-06-03,Saturday,Regular season,Dallas Wings,Minnesota Lynx,Arlington,3813,0,,,,arlington,3035.0,3035.0,3035.0,1,3035.0
+64,2022-07-13,Friday,Regular season,Dallas Wings,Seattle Storm,Arlington,3292,0,,,,arlington,3424.0,3424.0,3813.0,2,3424.0
+69,2022-07-18,Sunday,Regular season,Dallas Wings,Seattle Storm,Arlington,3273,0,,,,arlington,3380.0,3380.0,3292.0,3,3380.0
+74,2022-07-23,Wednesday,Regular season,Dallas Wings,Las Vegas Aces,Arlington,4375,0,,,,arlington,3353.25,3353.25,3273.0,4,3353.25
+79,2022-07-28,Friday,Regular season,Dallas Wings,Phoenix Mercury,Arlington,3140,0,,,,arlington,3557.6,3557.6,4375.0,5,3557.6
+84,2022-08-02,Sunday,Regular season,Dallas Wings,Los Angeles Sparks,Arlington,3779,0,,,,arlington,3488.0,3578.6,3140.0,6,3488.0
+91,2022-08-09,Thursday,Regular season,Dallas Wings,Indiana Fever,Arlington,2791,0,,,,arlington,3529.5714285714284,3571.8,3779.0,7,3529.5714285714284
+96,2022-08-14,Saturday,Regular season,Dallas Wings,Phoenix Mercury,Arlington,4240,0,,,,arlington,3437.25,3471.6,2791.0,8,3437.25
+109,2022-08-27,Friday,Regular season,Dallas Wings,Los Angeles Sparks,Arlington,3187,0,,,,arlington,3526.4444444444443,3665.0,4240.0,9,3526.4444444444443
+119,2022-09-06,Tuesday,Regular season,Dallas Wings,Connecticut Sun,Arlington,3445,0,,,,arlington,3492.5,3427.4,3187.0,10,3492.5
+138,2022-09-25,Saturday,Regular season,Dallas Wings,Chicago Sky,Arlington,5126,0,,,,arlington,3488.181818181818,3488.4,3445.0,11,3488.181818181818
+160,2022-10-17,Thursday,Regular season,Dallas Wings,Washington Mystics,Arlington,4382,0,,,,arlington,3624.6666666666665,3757.8,5126.0,12,3624.6666666666665
+179,2022-11-05,Thursday,Regular season,Dallas Wings,Las Vegas Aces,Arlington,3492,0,,,,arlington,3682.923076923077,4076.0,4382.0,13,3682.923076923077
+182,2022-11-08,Saturday,Regular season,Dallas Wings,Indiana Fever,Arlington,4184,0,,,,arlington,3669.285714285714,3926.4,3492.0,14,3669.285714285714
+188,2022-11-14,Monday,Regular season,Dallas Wings,New York Liberty,Arlington,3036,0,,,,arlington,3703.6,4125.8,4184.0,15,3703.6
+192,2022-11-18,Wednesday,Regular season,Dallas Wings,New York Liberty,Arlington,3795,0,,,,arlington,3661.875,4044.0,3036.0,16,3661.875
+216,2022-12-12,Wednesday,First Round,Dallas Wings,Connecticut Sun,Arlington,5016,0,,,,arlington,3669.705882352941,3777.8,3795.0,17,3669.705882352941
+235,2022-12-31,Saturday,Regular season,Dallas Wings,Atlanta Dream,Arlington,5588,0,,,,arlington,3744.5,3904.6,5016.0,18,3744.5
+252,2023-01-17,Tuesday,Regular season,Dallas Wings,Minnesota Lynx,Arlington,3484,0,,,,arlington,3841.5263157894738,4323.8,5588.0,19,3841.5263157894738
+267,2023-06-07,Wednesday,Regular season,Dallas Wings,Phoenix Mercury,Arlington,4242,0,,,,arlington,3823.65,4183.8,3484.0,20,3823.65
+270,2023-06-09,Friday,Regular season,Dallas Wings,Phoenix Mercury,Arlington,6251,0,,,,arlington,3843.5714285714284,4425.0,4242.0,21,3843.5714285714284
+283,2023-06-14,Wednesday,Regular season,Dallas Wings,Los Angeles Sparks,Arlington,5807,0,,,,arlington,3953.0,4916.2,6251.0,22,3953.0
+289,2023-06-17,Saturday,Regular season,Dallas Wings,Seattle Storm,Arlington,5020,0,,,,arlington,4033.608695652174,5074.4,5807.0,23,4033.608695652174
+295,2023-06-20,Tuesday,Regular season,Dallas Wings,Atlanta Dream,Arlington,3392,0,,,,arlington,4074.7083333333335,4960.8,5020.0,24,4074.7083333333335
+324,2023-07-02,Sunday,Regular season,Dallas Wings,Washington Mystics,Arlington,4544,0,,,,arlington,4047.4,4942.4,3392.0,25,4047.4
+333,2023-07-07,Friday,Regular season,Dallas Wings,Las Vegas Aces,Arlington,6251,0,,,,arlington,4066.5,5002.8,4544.0,26,4066.5
+359,2023-07-22,Saturday,Regular season,Dallas Wings,Los Angeles Sparks,Arlington,5041,0,,,,arlington,4147.407407407408,5002.8,6251.0,27,4147.407407407408
+366,2023-07-25,Tuesday,Regular season,Dallas Wings,Connecticut Sun,Arlington,4222,0,,,,arlington,4179.321428571428,4849.6,5041.0,28,4179.321428571428
+372,2023-07-28,Friday,Regular season,Dallas Wings,Washington Mystics,Arlington,4048,0,,,,arlington,4180.793103448276,4690.0,4222.0,29,4180.793103448276
+387,2023-08-04,Friday,Regular season,Dallas Wings,Chicago Sky,Arlington,3762,0,,,,arlington,4176.366666666667,4821.2,4048.0,30,4176.366666666667
+393,2023-08-06,Sunday,Regular season,Dallas Wings,Chicago Sky,Arlington,4057,0,,,,arlington,4163.0,4664.8,3762.0,31,4163.0
+397,2023-08-08,Tuesday,Regular season,Dallas Wings,Las Vegas Aces,Arlington,5193,0,,,,arlington,4159.6875,4226.0,4057.0,32,4159.6875
+405,2023-08-12,Saturday,Regular season,Dallas Wings,Connecticut Sun,Arlington,4179,0,,,,arlington,4191.0,4256.4,5193.0,33,4191.0
+429,2023-08-24,Thursday,Regular season,Dallas Wings,Minnesota Lynx,Arlington,3931,0,,,,arlington,4190.64705882353,4247.8,4179.0,34,4190.64705882353
+449,2023-09-03,Sunday,Regular season,Dallas Wings,Indiana Fever,Arlington,5058,0,,,,arlington,4183.228571428572,4224.4,3931.0,35,4183.228571428572
+454,2023-09-05,Tuesday,Regular season,Dallas Wings,New York Liberty,Arlington,4195,0,,,,arlington,4207.527777777777,4483.6,5058.0,36,4207.527777777777
+461,2023-09-08,Friday,Regular season,Dallas Wings,Seattle Storm,Arlington,4546,0,,,,arlington,4207.189189189189,4511.2,4195.0,37,4207.189189189189
+474,2023-09-15,Friday,First Round,Dallas Wings,Atlanta Dream,Arlington,5053,0,,,,arlington,4216.105263157895,4381.8,4546.0,38,4216.105263157895
+478,2023-09-19,Tuesday,First Round,Dallas Wings,Atlanta Dream,Arlington,4798,0,,,,arlington,4237.5641025641025,4556.6,5053.0,39,4237.5641025641025
+482,2023-09-29,Friday,Semifinals,Dallas Wings,Las Vegas Aces,Arlington,6251,0,,,,arlington,4251.575,4730.0,4798.0,40,4251.575
+495,2024-05-15,Wednesday,Regular season,Dallas Wings,Chicago Sky,Arlington,6251,0,,,,arlington,4300.341463414634,4968.6,6251.0,41,4300.341463414634
+502,2024-05-18,Saturday,Regular season,Dallas Wings,Chicago Sky,Arlington,6251,0,,,,arlington,4346.785714285715,5379.8,6251.0,42,4346.785714285715
+542,2024-06-05,Wednesday,Regular season,Dallas Wings,Las Vegas Aces,Arlington,6251,0,,,,arlington,4391.069767441861,5720.8,6251.0,43,4391.069767441861
+553,2024-06-09,Sunday,Regular season,Dallas Wings,Phoenix Mercury,Arlington,5568,0,,,,arlington,4433.340909090909,5960.4,6251.0,44,4433.340909090909
+562,2024-06-13,Thursday,Regular season,Dallas Wings,Seattle Storm,Arlington,5568,0,,,,arlington,4458.555555555556,6114.4,5568.0,45,4458.555555555556
+566,2024-06-15,Saturday,Regular season,Dallas Wings,Connecticut Sun,Arlington,5977,0,,,,arlington,4482.673913043478,5977.8,5568.0,46,4482.673913043478
+588,2024-06-27,Thursday,Regular season,Dallas Wings,Minnesota Lynx,Arlington,6251,0,,,,arlington,4514.468085106383,5923.0,5977.0,47,4514.468085106383
+605,2024-07-03,Wednesday,Regular season,Dallas Wings,Phoenix Mercury,Arlington,6129,0,,,,arlington,4550.645833333333,5923.0,6251.0,48,4550.645833333333
+608,2024-07-05,Friday,Regular season,Dallas Wings,Atlanta Dream,Arlington,5872,0,,,,arlington,4582.857142857143,5898.6,6129.0,49,4582.857142857143
+628,2024-07-13,Saturday,Regular season,Dallas Wings,Los Angeles Sparks,Arlington,6251,0,,,,arlington,4608.64,5959.4,5872.0,50,4608.64
+638,2024-07-17,Wednesday,Regular season,Dallas Wings,Indiana Fever,Arlington,6251,1,22.0,37.66666666666666,3.0,arlington,4640.843137254902,6096.0,6251.0,51,4640.843137254902
+644,2024-08-16,Friday,Regular season,Dallas Wings,Connecticut Sun,Arlington,6191,0,,,,arlington,4671.807692307692,6150.8,6251.0,52,4671.807692307692
+665,2024-08-25,Sunday,Regular season,Dallas Wings,Los Angeles Sparks,Arlington,5925,0,,,,arlington,4700.471698113208,6138.8,6191.0,53,4700.471698113208
+669,2024-08-27,Tuesday,Regular season,Dallas Wings,Las Vegas Aces,Arlington,6251,0,,,,arlington,4723.148148148148,6098.0,5925.0,54,4723.148148148148
+676,2024-08-30,Friday,Regular season,Dallas Wings,Minnesota Lynx,Arlington,5581,0,,,,arlington,4750.927272727273,6173.8,6251.0,55,4750.927272727273
+682,2024-09-01,Sunday,Regular season,Dallas Wings,Indiana Fever,Arlington,6251,1,23.0,35.666666666666664,4.0,arlington,4765.75,6039.8,5581.0,56,4765.75
+686,2024-09-03,Tuesday,Regular season,Dallas Wings,Washington Mystics,Arlington,5129,0,,,,arlington,4791.80701754386,6039.8,6251.0,57,4791.80701754386
+703,2024-09-10,Tuesday,Regular season,Dallas Wings,New York Liberty,Arlington,5157,0,,,,arlington,4797.620689655172,5827.4,5129.0,58,4797.620689655172
+708,2024-09-12,Thursday,Regular season,Dallas Wings,New York Liberty,Arlington,5384,0,,,,arlington,4803.71186440678,5673.8,5157.0,59,4803.71186440678
+711,2024-09-13,Friday,Regular season,Dallas Wings,Seattle Storm,Arlington,5728,0,,,,arlington,4813.383333333333,5500.4,5384.0,60,4813.383333333333
+755,2025-05-16,Friday,Regular season,Dallas Wings,Minnesota Lynx,Arlington,6251,0,,,,arlington,4828.377049180328,5529.8,5728.0,61,4828.377049180328
+762,2025-05-19,Monday,Regular season,Dallas Wings,Seattle Storm,Arlington,6137,0,,,,arlington,4851.322580645161,5529.8,6251.0,62,4851.322580645161
+793,2025-05-31,Saturday,Regular season,Dallas Wings,Chicago Sky,Arlington,6251,0,,,,arlington,4871.730158730159,5731.4,6137.0,63,4871.730158730159
+804,2025-06-06,Friday,Regular season,Dallas Wings,Los Angeles Sparks,Arlington,6007,0,,,,arlington,4893.28125,5950.2,6251.0,64,4893.28125
+809,2025-06-08,Sunday,Regular season,Dallas Wings,Minnesota Lynx,Arlington,6162,0,,,,arlington,4910.415384615385,6074.8,6007.0,65,4910.415384615385
+827,2025-06-17,Tuesday,Regular season,Dallas Wings,Golden State Valkyries,Arlington,6061,0,,,,arlington,4929.378787878788,6161.6,6162.0,66,4929.378787878788
+845,2025-06-24,Tuesday,Regular season,Dallas Wings,Atlanta Dream,Arlington,6251,0,,,,arlington,4946.268656716418,6123.6,6061.0,67,4946.268656716418
+856,2025-06-28,Saturday,Regular season,Dallas Wings,Washington Mystics,Arlington,6006,0,,,,arlington,4965.455882352941,6146.4,6251.0,68,4965.455882352941
+865,2025-07-03,Thursday,Regular season,Dallas Wings,Phoenix Mercury,Arlington,6162,0,,,,arlington,4980.536231884058,6097.4,6006.0,69,4980.536231884058
+898,2025-07-16,Wednesday,Regular season,Dallas Wings,Las Vegas Aces,Arlington,6153,0,,,,arlington,4997.414285714286,6128.4,6162.0,70,4997.414285714286
+915,2025-07-27,Sunday,Regular season,Dallas Wings,Las Vegas Aces,Arlington,6251,0,,,,arlington,5013.69014084507,6126.6,6153.0,71,5013.69014084507
+919,2025-07-28,Monday,Regular season,Dallas Wings,New York Liberty,Arlington,6018,0,,,,arlington,5030.875,6164.6,6251.0,72,5030.875
+924,2025-07-30,Wednesday,Regular season,Dallas Wings,Atlanta Dream,Arlington,5228,0,,,,arlington,5044.397260273972,6118.0,6018.0,73,5044.397260273972
+947,2025-08-08,Friday,Regular season,Dallas Wings,New York Liberty,Arlington,6251,0,,,,arlington,5046.878378378378,5962.4,5228.0,74,5046.878378378378
+953,2025-08-10,Sunday,Regular season,Dallas Wings,Washington Mystics,Arlington,6152,0,,,,arlington,5062.933333333333,5980.2,6251.0,75,5062.933333333333
+966,2025-08-15,Friday,Regular season,Dallas Wings,Los Angeles Sparks,Arlington,6116,0,,,,arlington,5077.263157894737,5980.0,6152.0,76,5077.263157894737
+986,2025-08-22,Friday,Regular season,Dallas Wings,Seattle Storm,Arlington,6063,0,,,,arlington,5090.7532467532465,5953.0,6116.0,77,5090.7532467532465
+992,2025-08-24,Sunday,Regular season,Dallas Wings,Golden State Valkyries,Arlington,6251,0,,,,arlington,5103.217948717948,5962.0,6063.0,78,5103.217948717948
+999,2025-08-27,Wednesday,Regular season,Dallas Wings,Connecticut Sun,Arlington,5710,0,,,,arlington,5117.7468354430375,6166.6,6251.0,79,5117.7468354430375
+1037,2025-09-11,Thursday,Regular season,Dallas Wings,Phoenix Mercury,Arlington,6251,0,,,,arlington,5125.15,6058.4,5710.0,80,5125.15
+1,2022-05-11,Wednesday,Regular season,Atlanta Dream,Los Angeles Sparks,Atlanta,3138,0,,,,atlanta,5139.049382716049,,,0,5139.049382716049
+5,2022-05-15,Friday,Regular season,Atlanta Dream,Las Vegas Aces,Atlanta,3138,0,,,,atlanta,3138.0,3138.0,3138.0,1,3138.0
+21,2022-05-31,Friday,Regular season,Atlanta Dream,Washington Mystics,Atlanta,2237,0,,,,atlanta,3138.0,3138.0,3138.0,2,3138.0
+38,2022-06-17,Sunday,Regular season,Atlanta Dream,Phoenix Mercury,Atlanta,3138,0,,,,atlanta,2837.6666666666665,2837.6666666666665,2237.0,3,2837.6666666666665
+45,2022-06-24,Wednesday,Regular season,Atlanta Dream,Minnesota Lynx,Atlanta,1268,0,,,,atlanta,2912.75,2912.75,3138.0,4,2912.75
+49,2022-06-28,Friday,Regular season,Atlanta Dream,Chicago Sky,Atlanta,3138,0,,,,atlanta,2583.8,2583.8,1268.0,5,2583.8
+53,2022-07-02,Sunday,Regular season,Atlanta Dream,Indiana Fever,Atlanta,3000,0,,,,atlanta,2676.1666666666665,2583.8,3138.0,6,2676.1666666666665
+86,2022-08-04,Tuesday,Regular season,Atlanta Dream,Dallas Wings,Atlanta,2012,0,,,,atlanta,2722.4285714285716,2556.2,3000.0,7,2722.4285714285716
+95,2022-08-13,Friday,Regular season,Atlanta Dream,New York Liberty,Atlanta,2697,0,,,,atlanta,2633.625,2511.2,2012.0,8,2633.625
+99,2022-08-17,Sunday,Regular season,Atlanta Dream,Connecticut Sun,Atlanta,2722,0,,,,atlanta,2640.6666666666665,2423.0,2697.0,9,2640.6666666666665
+114,2022-09-01,Sunday,Regular season,Atlanta Dream,Seattle Storm,Atlanta,3138,0,,,,atlanta,2648.8,2713.8,2722.0,10,2648.8
+121,2022-09-08,Wednesday,Regular season,Atlanta Dream,Washington Mystics,Atlanta,1810,0,,,,atlanta,2693.2727272727275,2713.8,3138.0,11,2693.2727272727275
+137,2022-09-24,Friday,Regular season,Atlanta Dream,Connecticut Sun,Atlanta,2962,0,,,,atlanta,2619.6666666666665,2475.8,1810.0,12,2619.6666666666665
+158,2022-10-15,Thursday,Regular season,Atlanta Dream,Minnesota Lynx,Atlanta,2396,0,,,,atlanta,2646.0,2665.8,2962.0,13,2646.0
+165,2022-10-22,Saturday,Regular season,Atlanta Dream,Dallas Wings,Atlanta,3138,0,,,,atlanta,2628.1428571428573,2605.6,2396.0,14,2628.1428571428573
+175,2022-11-01,Wednesday,Regular season,Atlanta Dream,Indiana Fever,Atlanta,2071,0,,,,atlanta,2662.133333333333,2688.8,3138.0,15,2662.133333333333
+180,2022-11-06,Friday,Regular season,Atlanta Dream,Los Angeles Sparks,Atlanta,3138,0,,,,atlanta,2625.1875,2475.4,2071.0,16,2625.1875
+197,2022-11-23,Friday,Regular season,Atlanta Dream,New York Liberty,Atlanta,3138,0,,,,atlanta,2655.3529411764707,2741.0,3138.0,17,2655.3529411764707
+247,2023-01-12,Sunday,Regular season,Atlanta Dream,Indiana Fever,Atlanta,3209,0,,,,atlanta,2682.1666666666665,2776.2,3138.0,18,2682.1666666666665
+250,2023-01-15,Tuesday,Regular season,Atlanta Dream,Chicago Sky,Atlanta,2562,0,,,,atlanta,2709.8947368421054,2938.8,3209.0,19,2709.8947368421054
+256,2023-06-02,Friday,Regular season,Atlanta Dream,Las Vegas Aces,Atlanta,3209,0,,,,atlanta,2702.5,2823.6,2562.0,20,2702.5
+269,2023-06-09,Friday,Regular season,Atlanta Dream,New York Liberty,Atlanta,3209,0,,,,atlanta,2726.6190476190477,3051.2,3209.0,21,2726.6190476190477
+276,2023-06-11,Sunday,Regular season,Atlanta Dream,Connecticut Sun,Atlanta,2690,0,,,,atlanta,2748.5454545454545,3065.4,3209.0,22,2748.5454545454545
+302,2023-06-23,Friday,Regular season,Atlanta Dream,New York Liberty,Atlanta,3209,0,,,,atlanta,2746.0,2975.8,2690.0,23,2746.0
+318,2023-06-30,Friday,Regular season,Atlanta Dream,Washington Mystics,Atlanta,3209,0,,,,atlanta,2765.2916666666665,2975.8,3209.0,24,2765.2916666666665
+322,2023-07-02,Sunday,Regular season,Atlanta Dream,Los Angeles Sparks,Atlanta,3209,0,,,,atlanta,2783.04,3105.2,3209.0,25,2783.04
+346,2023-07-12,Wednesday,Regular season,Atlanta Dream,Seattle Storm,Atlanta,2546,0,,,,atlanta,2799.423076923077,3105.2,3209.0,26,2799.423076923077
+348,2023-07-18,Tuesday,Regular season,Atlanta Dream,Minnesota Lynx,Atlanta,2394,0,,,,atlanta,2790.037037037037,2972.6,2546.0,27,2790.037037037037
+357,2023-07-22,Saturday,Regular season,Atlanta Dream,Connecticut Sun,Atlanta,3209,0,,,,atlanta,2775.8928571428573,2913.4,2394.0,28,2775.8928571428573
+363,2023-07-25,Tuesday,Regular season,Atlanta Dream,Phoenix Mercury,Atlanta,3209,0,,,,atlanta,2790.8275862068967,2913.4,3209.0,29,2790.8275862068967
+374,2023-07-30,Sunday,Regular season,Atlanta Dream,Washington Mystics,Atlanta,3209,0,,,,atlanta,2804.766666666667,2913.4,3209.0,30,2804.766666666667
+390,2023-08-06,Sunday,Regular season,Atlanta Dream,Indiana Fever,Atlanta,3209,0,,,,atlanta,2817.8064516129034,2913.4,3209.0,31,2817.8064516129034
+413,2023-08-18,Friday,Regular season,Atlanta Dream,Chicago Sky,Atlanta,2957,0,,,,atlanta,2830.03125,3046.0,3209.0,32,2830.03125
+421,2023-08-22,Tuesday,Regular season,Atlanta Dream,Las Vegas Aces,Atlanta,3209,0,,,,atlanta,2833.878787878788,3158.6,2957.0,33,2833.878787878788
+430,2023-08-25,Friday,Regular season,Atlanta Dream,Los Angeles Sparks,Atlanta,2957,0,,,,atlanta,2844.9117647058824,3158.6,3209.0,34,2844.9117647058824
+438,2023-08-29,Tuesday,Regular season,Atlanta Dream,Phoenix Mercury,Atlanta,2785,0,,,,atlanta,2848.114285714286,3108.2,2957.0,35,2848.114285714286
+456,2023-09-06,Wednesday,Regular season,Atlanta Dream,Seattle Storm,Atlanta,2731,0,,,,atlanta,2846.3611111111113,3023.4,2785.0,36,2846.3611111111113
+463,2023-09-10,Sunday,Regular season,Atlanta Dream,Dallas Wings,Atlanta,3207,0,,,,atlanta,2843.2432432432433,2927.8,2731.0,37,2843.2432432432433
+507,2024-05-21,Tuesday,Regular season,Atlanta Dream,Dallas Wings,Atlanta,3265,0,,,,atlanta,2852.815789473684,2977.8,3207.0,38,2852.815789473684
+520,2024-05-26,Sunday,Regular season,Atlanta Dream,Minnesota Lynx,Atlanta,3265,0,,,,atlanta,2863.3846153846152,2989.0,3265.0,39,2863.3846153846152
+530,2024-05-31,Friday,Regular season,Atlanta Dream,Las Vegas Aces,Atlanta,4015,0,,,,atlanta,2873.425,3050.6,3265.0,40,2873.425
+535,2024-06-02,Sunday,Regular season,Atlanta Dream,Connecticut Sun,Atlanta,3265,0,,,,atlanta,2901.268292682927,3296.6,4015.0,41,2901.268292682927
+545,2024-06-06,Thursday,Regular season,Atlanta Dream,New York Liberty,Atlanta,3255,0,,,,atlanta,2909.9285714285716,3403.4,3265.0,42,2909.9285714285716
+557,2024-06-11,Tuesday,Regular season,Atlanta Dream,Washington Mystics,Atlanta,3260,0,,,,atlanta,2917.953488372093,3413.0,3255.0,43,2917.953488372093
+570,2024-06-16,Sunday,Regular season,Atlanta Dream,Los Angeles Sparks,Atlanta,3260,0,,,,atlanta,2925.7272727272725,3412.0,3260.0,44,2925.7272727272725
+579,2024-06-21,Friday,Regular season,Atlanta Dream,Indiana Fever,Atlanta,17575,1,16.0,36.333333333333336,2.0,atlanta,2933.1555555555556,3411.0,3260.0,45,2933.1555555555556
+584,2024-06-23,Sunday,Regular season,Atlanta Dream,New York Liberty,Atlanta,3260,0,,,,atlanta,3251.4565217391305,6123.0,17575.0,46,3251.4565217391305
+602,2024-07-02,Tuesday,Regular season,Atlanta Dream,Chicago Sky,Atlanta,3260,0,,,,atlanta,3251.6382978723404,6122.0,3260.0,47,3251.6382978723404
+624,2024-07-12,Friday,Regular season,Atlanta Dream,Las Vegas Aces,Atlanta,3344,0,,,,atlanta,3251.8125,6123.0,3260.0,48,3251.8125
+642,2024-08-16,Friday,Regular season,Atlanta Dream,Seattle Storm,Atlanta,3260,0,,,,atlanta,3253.6938775510203,6139.8,3344.0,49,3253.6938775510203
+648,2024-08-18,Sunday,Regular season,Atlanta Dream,Connecticut Sun,Atlanta,3330,0,,,,atlanta,3253.82,6139.8,3260.0,50,3253.82
+655,2024-08-21,Wednesday,Regular season,Atlanta Dream,Phoenix Mercury,Atlanta,3260,0,,,,atlanta,3255.3137254901962,3290.8,3330.0,51,3255.3137254901962
+658,2024-08-23,Friday,Regular season,Atlanta Dream,Phoenix Mercury,Atlanta,3260,0,,,,atlanta,3255.403846153846,3290.8,3260.0,52,3255.403846153846
+666,2024-08-26,Monday,Regular season,Atlanta Dream,Indiana Fever,Atlanta,17608,1,25.0,36.66666666666666,3.333333333333333,atlanta,3255.490566037736,3290.8,3260.0,53,3255.490566037736
+692,2024-09-06,Friday,Regular season,Atlanta Dream,Dallas Wings,Atlanta,3260,0,,,,atlanta,3521.277777777778,6143.6,17608.0,54,3521.277777777778
+702,2024-09-10,Tuesday,Regular season,Atlanta Dream,Minnesota Lynx,Atlanta,3260,0,,,,atlanta,3516.5272727272727,6143.6,3260.0,55,3516.5272727272727
+709,2024-09-13,Friday,Regular season,Atlanta Dream,Washington Mystics,Atlanta,3260,0,,,,atlanta,3511.9464285714284,6129.6,3260.0,56,3511.9464285714284
+722,2024-09-17,Tuesday,Regular season,Atlanta Dream,Chicago Sky,Atlanta,3355,0,,,,atlanta,3507.5263157894738,6129.6,3260.0,57,3507.5263157894738
+768,2025-05-22,Thursday,Regular season,Atlanta Dream,Indiana Fever,Atlanta,17044,1,24.0,36.66666666666666,4.0,atlanta,3504.896551724138,6148.6,3355.0,58,3504.896551724138
+775,2025-05-24,Saturday,Regular season,Atlanta Dream,Dallas Wings,Atlanta,3265,0,,,,atlanta,3734.3728813559323,6035.8,17044.0,59,3734.3728813559323
+776,2025-05-25,Sunday,Regular season,Atlanta Dream,Connecticut Sun,Atlanta,3265,0,,,,atlanta,3726.55,6036.8,3265.0,60,3726.55
+811,2025-06-10,Tuesday,Regular season,Atlanta Dream,Indiana Fever,Atlanta,3265,0,,,,atlanta,3718.9836065573772,6037.8,3265.0,61,3718.9836065573772
+816,2025-06-13,Friday,Regular season,Atlanta Dream,Chicago Sky,Atlanta,3296,0,,,,atlanta,3711.6612903225805,6038.8,3265.0,62,3711.6612903225805
+833,2025-06-20,Friday,Regular season,Atlanta Dream,Washington Mystics,Atlanta,3265,0,,,,atlanta,3705.063492063492,6027.0,3296.0,63,3705.063492063492
+838,2025-06-22,Sunday,Regular season,Atlanta Dream,Chicago Sky,Atlanta,3283,0,,,,atlanta,3698.1875,3271.2,3265.0,64,3698.1875
+851,2025-06-27,Friday,Regular season,Atlanta Dream,Minnesota Lynx,Atlanta,3265,0,,,,atlanta,3691.8,3274.8,3283.0,65,3691.8
+857,2025-06-29,Sunday,Regular season,Atlanta Dream,New York Liberty,Atlanta,3265,0,,,,atlanta,3685.3333333333335,3274.8,3265.0,66,3685.3333333333335
+864,2025-07-03,Thursday,Regular season,Atlanta Dream,Seattle Storm,Atlanta,3265,0,,,,atlanta,3679.0597014925374,3274.8,3265.0,67,3679.0597014925374
+872,2025-07-07,Monday,Regular season,Atlanta Dream,Golden State Valkyries,Atlanta,3265,0,,,,atlanta,3672.970588235294,3268.6,3265.0,68,3672.970588235294
+920,2025-07-29,Tuesday,Regular season,Atlanta Dream,Golden State Valkyries,Atlanta,3265,0,,,,atlanta,3667.057971014493,3268.6,3265.0,69,3667.057971014493
+927,2025-08-01,Friday,Regular season,Atlanta Dream,Phoenix Mercury,Atlanta,3283,0,,,,atlanta,3661.3142857142857,3265.0,3265.0,70,3661.3142857142857
+933,2025-08-03,Sunday,Regular season,Atlanta Dream,Washington Mystics,Atlanta,3315,0,,,,atlanta,3655.9859154929577,3268.6,3283.0,71,3655.9859154929577
+983,2025-08-21,Thursday,Regular season,Atlanta Dream,Minnesota Lynx,Atlanta,3265,0,,,,atlanta,3651.25,3278.6,3315.0,72,3651.25
+988,2025-08-23,Saturday,Regular season,Atlanta Dream,New York Liberty,Atlanta,3305,0,,,,atlanta,3645.958904109589,3278.6,3265.0,73,3645.958904109589
+998,2025-08-27,Wednesday,Regular season,Atlanta Dream,Las Vegas Aces,Atlanta,3326,0,,,,atlanta,3641.3513513513512,3286.6,3305.0,74,3641.3513513513512
+1003,2025-08-29,Friday,Regular season,Atlanta Dream,Dallas Wings,Atlanta,3268,0,,,,atlanta,3637.1466666666665,3298.8,3326.0,75,3637.1466666666665
+1016,2025-09-03,Wednesday,Regular season,Atlanta Dream,Los Angeles Sparks,Atlanta,3265,0,,,,atlanta,3632.2894736842104,3295.8,3268.0,76,3632.2894736842104
+1021,2025-09-05,Friday,Regular season,Atlanta Dream,Los Angeles Sparks,Atlanta,3314,0,,,,atlanta,3627.5194805194806,3285.8,3265.0,77,3627.5194805194806
+1029,2025-09-08,Monday,Regular season,Atlanta Dream,Connecticut Sun,Atlanta,3319,0,,,,atlanta,3623.5,3295.6,3314.0,78,3623.5
+1043,2025-09-14,Sunday,First Round,Atlanta Dream,Indiana Fever,Atlanta,3800,0,,,,atlanta,3619.6455696202534,3298.4,3319.0,79,3619.6455696202534
+785,2025-05-28,Wednesday,Regular season,Washington Mystics,Indiana Fever,Baltimore,11183,0,,,,baltimore,3621.9,,,0,3621.9
+1026,2025-09-07,Sunday,Regular season,Washington Mystics,Indiana Fever,Baltimore,11183,0,,,,baltimore,11183.0,11183.0,11183.0,1,11183.0
+652,2024-08-20,Tuesday,Regular season,Connecticut Sun,Los Angeles Sparks,Boston,19125,0,,,,boston,11183.0,,,0,11183.0
+892,2025-07-15,Tuesday,Regular season,Connecticut Sun,Indiana Fever,Boston,19156,1,12.0,25.33333333333333,1.6666666666666667,boston,19125.0,19125.0,19125.0,1,19125.0
+6,2022-05-16,Friday,Regular season,New York Liberty,Indiana Fever,Brooklyn,3289,0,,,,brooklyn,19140.5,,,0,19140.5
+10,2022-05-20,Sunday,Regular season,New York Liberty,Dallas Wings,Brooklyn,3095,0,,,,brooklyn,3289.0,3289.0,3289.0,1,3289.0
+12,2022-05-22,Tuesday,Regular season,New York Liberty,Connecticut Sun,Brooklyn,3054,0,,,,brooklyn,3192.0,3192.0,3095.0,2,3192.0
+46,2022-06-25,Wednesday,Regular season,New York Liberty,Indiana Fever,Brooklyn,4079,0,,,,brooklyn,3146.0,3146.0,3054.0,3,3146.0
+52,2022-07-01,Sunday,Regular season,New York Liberty,Minnesota Lynx,Brooklyn,4119,0,,,,brooklyn,3379.25,3379.25,4079.0,4,3379.25
+58,2022-07-07,Tuesday,Regular season,New York Liberty,Minnesota Lynx,Brooklyn,3196,0,,,,brooklyn,3527.2,3527.2,4119.0,5,3527.2
+68,2022-07-17,Sunday,Regular season,New York Liberty,Chicago Sky,Brooklyn,4810,0,,,,brooklyn,3472.0,3508.6,3196.0,6,3472.0
+77,2022-07-26,Thursday,Regular season,New York Liberty,Washington Mystics,Brooklyn,4168,0,,,,brooklyn,3663.1428571428573,3851.6,4810.0,7,3663.1428571428573
+81,2022-07-30,Sunday,Regular season,New York Liberty,Seattle Storm,Brooklyn,6859,0,,,,brooklyn,3726.25,4074.4,4168.0,8,3726.25
+108,2022-08-26,Thursday,Regular season,New York Liberty,Atlanta Dream,Brooklyn,6161,0,,,,brooklyn,4074.3333333333335,4630.4,6859.0,9,4074.3333333333335
+127,2022-09-14,Tuesday,Regular season,New York Liberty,Las Vegas Aces,Brooklyn,5201,0,,,,brooklyn,4283.0,5038.8,6161.0,10,4283.0
+132,2022-09-19,Thursday,Regular season,New York Liberty,Las Vegas Aces,Brooklyn,9896,0,,,,brooklyn,4366.454545454545,5439.8,5201.0,11,4366.454545454545
+153,2022-10-10,Saturday,Regular season,New York Liberty,Chicago Sky,Brooklyn,6926,0,,,,brooklyn,4827.25,6457.0,9896.0,12,4827.25
+167,2022-10-24,Sunday,Regular season,New York Liberty,Phoenix Mercury,Brooklyn,6433,0,,,,brooklyn,4988.692307692308,7008.6,6926.0,13,4988.692307692308
+172,2022-10-29,Tuesday,Regular season,New York Liberty,Los Angeles Sparks,Brooklyn,4891,0,,,,brooklyn,5091.857142857143,6923.4,6433.0,14,5091.857142857143
+176,2022-11-02,Wednesday,Regular season,New York Liberty,Los Angeles Sparks,Brooklyn,5315,0,,,,brooklyn,5078.466666666666,6669.4,4891.0,15,5078.466666666666
+201,2022-11-27,Sunday,Regular season,New York Liberty,Atlanta Dream,Brooklyn,7561,0,,,,brooklyn,5093.25,6692.2,5315.0,16,5093.25
+215,2022-12-11,Tuesday,First Round,New York Liberty,Chicago Sky,Brooklyn,7837,0,,,,brooklyn,5238.411764705882,6225.2,7561.0,17,5238.411764705882
+237,2023-01-02,Sunday,Regular season,New York Liberty,Indiana Fever,Brooklyn,8575,0,,,,brooklyn,5382.777777777777,6407.4,7837.0,18,5382.777777777777
+245,2023-01-10,Saturday,Regular season,New York Liberty,Connecticut Sun,Brooklyn,7102,0,,,,brooklyn,5550.789473684211,6835.8,8575.0,19,5550.789473684211
+262,2023-06-04,Sunday,Regular season,New York Liberty,Chicago Sky,Brooklyn,7225,0,,,,brooklyn,5628.35,7278.0,7102.0,20,5628.35
+274,2023-06-11,Sunday,Regular season,New York Liberty,Dallas Wings,Brooklyn,7615,0,,,,brooklyn,5704.380952380952,7660.0,7225.0,21,5704.380952380952
+281,2023-06-13,Tuesday,Regular season,New York Liberty,Atlanta Dream,Brooklyn,5719,0,,,,brooklyn,5791.227272727273,7670.8,7615.0,22,5791.227272727273
+290,2023-06-18,Sunday,Regular season,New York Liberty,Phoenix Mercury,Brooklyn,9278,0,,,,brooklyn,5788.086956521739,7247.2,5719.0,23,5788.086956521739
+307,2023-06-25,Sunday,Regular season,New York Liberty,Washington Mystics,Brooklyn,7285,0,,,,brooklyn,5933.5,7387.8,9278.0,24,5933.5
+326,2023-07-05,Wednesday,Regular season,New York Liberty,Phoenix Mercury,Brooklyn,7151,0,,,,brooklyn,5987.56,7424.4,7285.0,25,5987.56
+335,2023-07-08,Saturday,Regular season,New York Liberty,Seattle Storm,Brooklyn,6789,0,,,,brooklyn,6032.307692307692,7409.6,7151.0,26,6032.307692307692
+351,2023-07-19,Wednesday,Regular season,New York Liberty,Dallas Wings,Brooklyn,9012,0,,,,brooklyn,6060.333333333333,7244.4,6789.0,27,6060.333333333333
+361,2023-07-23,Sunday,Regular season,New York Liberty,Indiana Fever,Brooklyn,7371,0,,,,brooklyn,6165.75,7903.0,9012.0,28,6165.75
+364,2023-07-25,Tuesday,Regular season,New York Liberty,Seattle Storm,Brooklyn,6118,0,,,,brooklyn,6207.310344827586,7521.6,7371.0,29,6207.310344827586
+370,2023-07-27,Thursday,Regular season,New York Liberty,Atlanta Dream,Brooklyn,6206,0,,,,brooklyn,6204.333333333333,7288.2,6118.0,30,6204.333333333333
+469,2023-07-28,Friday,Regular season,New York Liberty,Minnesota Lynx,Brooklyn,6129,0,,,,brooklyn,6204.387096774193,7099.2,6206.0,31,6204.387096774193
+391,2023-08-06,Sunday,Regular season,New York Liberty,Las Vegas Aces,Brooklyn,11418,0,,,,brooklyn,6202.03125,6967.2,6129.0,32,6202.03125
+402,2023-08-11,Friday,Regular season,New York Liberty,Chicago Sky,Brooklyn,8070,0,,,,brooklyn,6360.090909090909,7448.4,11418.0,33,6360.090909090909
+437,2023-08-28,Monday,Regular season,New York Liberty,Las Vegas Aces,Brooklyn,11615,0,,,,brooklyn,6410.382352941177,7588.2,8070.0,34,6410.382352941177
+445,2023-09-01,Friday,Regular season,New York Liberty,Connecticut Sun,Brooklyn,8276,0,,,,brooklyn,6559.085714285714,8687.6,11615.0,35,6559.085714285714
+457,2023-09-07,Thursday,Regular season,New York Liberty,Los Angeles Sparks,Brooklyn,6275,0,,,,brooklyn,6606.777777777777,9101.6,8276.0,36,6606.777777777777
+466,2023-09-10,Sunday,Regular season,New York Liberty,Washington Mystics,Brooklyn,8306,0,,,,brooklyn,6597.810810810811,9130.8,6275.0,37,6597.810810810811
+473,2023-09-15,Friday,First Round,New York Liberty,Washington Mystics,Brooklyn,8789,0,,,,brooklyn,6642.763157894737,8508.4,8306.0,38,6642.763157894737
+477,2023-09-19,Tuesday,First Round,New York Liberty,Washington Mystics,Brooklyn,9256,0,,,,brooklyn,6697.794871794872,8652.2,8789.0,39,6697.794871794872
+483,2023-09-24,Sunday,Semifinals,New York Liberty,Connecticut Sun,Brooklyn,9442,0,,,,brooklyn,6761.75,8180.4,9256.0,40,6761.75
+484,2023-09-26,Tuesday,Semifinals,New York Liberty,Connecticut Sun,Brooklyn,10009,0,,,,brooklyn,6827.121951219512,8413.6,9442.0,41,6827.121951219512
+489,2023-10-15,Sunday,Finals,New York Liberty,Las Vegas Aces,Brooklyn,17143,0,,,,brooklyn,6902.880952380952,9160.4,10009.0,42,6902.880952380952
+490,2023-10-18,Wednesday,Finals,New York Liberty,Las Vegas Aces,Brooklyn,16851,0,,,,brooklyn,7141.023255813953,10927.8,17143.0,43,7141.023255813953
+500,2024-05-18,Saturday,Regular season,New York Liberty,Indiana Fever,Brooklyn,17735,1,14.5,31.0,2.5,brooklyn,7361.704545454545,12540.2,16851.0,44,7361.704545454545
+506,2024-05-20,Monday,Regular season,New York Liberty,Seattle Storm,Brooklyn,9381,0,,,,brooklyn,7592.222222222223,14236.0,17735.0,45,7592.222222222223
+512,2024-05-23,Thursday,Regular season,New York Liberty,Chicago Sky,Brooklyn,12049,0,,,,brooklyn,7631.108695652174,14223.8,9381.0,46,7631.108695652174
+525,2024-05-29,Wednesday,Regular season,New York Liberty,Phoenix Mercury,Brooklyn,9182,0,,,,brooklyn,7725.106382978724,14631.8,12049.0,47,7725.106382978724
+532,2024-05-31,Friday,Regular season,New York Liberty,Washington Mystics,Brooklyn,9878,0,,,,brooklyn,7755.458333333333,13039.6,9182.0,48,7755.458333333333
+536,2024-06-02,Sunday,Regular season,New York Liberty,Indiana Fever,Brooklyn,17401,1,20.33333333333333,37.0,2.6666666666666665,brooklyn,7798.775510204082,11645.0,9878.0,49,7798.775510204082
+552,2024-06-09,Sunday,Regular season,New York Liberty,Washington Mystics,Brooklyn,12477,0,,,,brooklyn,7990.82,11578.2,17401.0,50,7990.82
+578,2024-06-20,Thursday,Regular season,New York Liberty,Los Angeles Sparks,Brooklyn,10955,0,,,,brooklyn,8078.78431372549,12197.4,12477.0,51,8078.78431372549
+582,2024-06-22,Saturday,Regular season,New York Liberty,Los Angeles Sparks,Brooklyn,13639,0,,,,brooklyn,8134.096153846154,11978.6,10955.0,52,8134.096153846154
+596,2024-06-30,Sunday,Regular season,New York Liberty,Atlanta Dream,Brooklyn,10823,0,,,,brooklyn,8237.962264150943,12870.0,13639.0,53,8237.962264150943
+601,2024-07-02,Tuesday,Regular season,New York Liberty,Minnesota Lynx,Brooklyn,10846,0,,,,brooklyn,8285.833333333334,13059.0,10823.0,54,8285.833333333334
+623,2024-07-11,Thursday,Regular season,New York Liberty,Chicago Sky,Brooklyn,17758,0,,,,brooklyn,8332.381818181819,11748.0,10846.0,55,8332.381818181819
+635,2024-07-16,Tuesday,Regular season,New York Liberty,Connecticut Sun,Brooklyn,13694,0,,,,brooklyn,8500.69642857143,12804.2,17758.0,56,8500.69642857143
+653,2024-08-20,Tuesday,Regular season,New York Liberty,Dallas Wings,Brooklyn,11455,0,,,,brooklyn,8591.807017543859,13352.0,13694.0,57,8591.807017543859
+657,2024-08-22,Thursday,Regular season,New York Liberty,Dallas Wings,Brooklyn,10986,0,,,,brooklyn,8641.172413793103,12915.2,11455.0,58,8641.172413793103
+662,2024-08-24,Saturday,Regular season,New York Liberty,Connecticut Sun,Brooklyn,13098,0,,,,brooklyn,8680.915254237289,12947.8,10986.0,59,8680.915254237289
+690,2024-09-05,Thursday,Regular season,New York Liberty,Seattle Storm,Brooklyn,10873,0,,,,brooklyn,8754.533333333333,13398.2,13098.0,60,8754.533333333333
+699,2024-09-08,Sunday,Regular season,New York Liberty,Las Vegas Aces,Brooklyn,15393,0,,,,brooklyn,8789.262295081968,12021.2,10873.0,61,8789.262295081968
+715,2024-09-15,Sunday,Regular season,New York Liberty,Minnesota Lynx,Brooklyn,14246,0,,,,brooklyn,8895.774193548386,12361.0,15393.0,62,8895.774193548386
+726,2024-09-19,Thursday,Regular season,New York Liberty,Atlanta Dream,Brooklyn,12721,0,,,,brooklyn,8980.698412698413,12919.2,14246.0,63,8980.698412698413
+732,2024-09-22,Sunday,First Round,New York Liberty,Atlanta Dream,Brooklyn,12115,0,,,,brooklyn,9039.140625,13266.2,12721.0,64,9039.140625
+736,2024-09-24,Tuesday,First Round,New York Liberty,Atlanta Dream,Brooklyn,11003,0,,,,brooklyn,9086.461538461539,13069.6,12115.0,65,9086.461538461539
+740,2024-09-29,Sunday,Semifinals,New York Liberty,Las Vegas Aces,Brooklyn,14015,0,,,,brooklyn,9115.5,13095.6,11003.0,66,9115.5
+744,2024-10-01,Tuesday,Semifinals,New York Liberty,Las Vegas Aces,Brooklyn,14321,0,,,,brooklyn,9188.626865671642,12820.0,14015.0,67,9188.626865671642
+749,2024-10-10,Thursday,Finals,New York Liberty,Minnesota Lynx,Brooklyn,17732,0,,,,brooklyn,9264.10294117647,12835.0,14321.0,68,9264.10294117647
+750,2024-10-13,Sunday,Finals,New York Liberty,Minnesota Lynx,Brooklyn,18046,0,,,,brooklyn,9386.826086956522,13837.2,17732.0,69,9386.826086956522
+753,2024-10-20,Sunday,Finals,New York Liberty,Minnesota Lynx,Brooklyn,18090,0,,,,brooklyn,9510.528571428571,15023.4,18046.0,70,9510.528571428571
+758,2025-05-17,Saturday,Regular season,New York Liberty,Las Vegas Aces,Brooklyn,17344,0,,,,brooklyn,9631.366197183099,16440.8,18090.0,71,9631.366197183099
+781,2025-05-27,Tuesday,Regular season,New York Liberty,Golden State Valkyries,Brooklyn,14774,0,,,,brooklyn,9738.486111111111,17106.6,17344.0,72,9738.486111111111
+786,2025-05-29,Thursday,Regular season,New York Liberty,Golden State Valkyries,Brooklyn,14951,0,,,,brooklyn,9807.465753424658,17197.2,14774.0,73,9807.465753424658
+794,2025-06-01,Sunday,Regular season,New York Liberty,Connecticut Sun,Brooklyn,17415,0,,,,brooklyn,9876.972972972973,16641.0,14951.0,74,9876.972972972973
+812,2025-06-10,Tuesday,Regular season,New York Liberty,Chicago Sky,Brooklyn,16081,0,,,,brooklyn,9977.48,16514.8,17415.0,75,9977.48
+825,2025-06-17,Tuesday,Regular season,New York Liberty,Atlanta Dream,Brooklyn,15149,0,,,,brooklyn,10057.78947368421,16113.0,16081.0,76,10057.78947368421
+831,2025-06-19,Thursday,Regular season,New York Liberty,Phoenix Mercury,Brooklyn,16383,0,,,,brooklyn,10123.90909090909,15674.0,15149.0,77,10123.90909090909
+863,2025-07-03,Thursday,Regular season,New York Liberty,Los Angeles Sparks,Brooklyn,15956,0,,,,brooklyn,10204.153846153846,15995.8,16383.0,78,10204.153846153846
+870,2025-07-06,Sunday,Regular season,New York Liberty,Seattle Storm,Brooklyn,15515,0,,,,brooklyn,10276.962025316456,16196.8,15956.0,79,10276.962025316456
+875,2025-07-08,Tuesday,Regular season,New York Liberty,Las Vegas Aces,Brooklyn,15041,0,,,,brooklyn,10342.4375,15816.8,15515.0,80,10342.4375
+887,2025-07-13,Sunday,Regular season,New York Liberty,Atlanta Dream,Brooklyn,17265,0,,,,brooklyn,10400.444444444445,15608.8,15041.0,81,10400.444444444445
+897,2025-07-16,Wednesday,Regular season,New York Liberty,Indiana Fever,Brooklyn,17371,0,,,,brooklyn,10484.158536585366,16032.0,17265.0,82,10484.158536585366
+900,2025-07-22,Tuesday,Regular season,New York Liberty,Indiana Fever,Brooklyn,17365,0,,,,brooklyn,10567.132530120482,16229.6,17371.0,83,10567.132530120482
+908,2025-07-25,Friday,Regular season,New York Liberty,Phoenix Mercury,Brooklyn,17515,0,,,,brooklyn,10648.059523809523,16511.4,17365.0,84,10648.059523809523
+912,2025-07-26,Saturday,Regular season,New York Liberty,Los Angeles Sparks,Brooklyn,16024,0,,,,brooklyn,10728.847058823529,16911.4,17515.0,85,10728.847058823529
+938,2025-08-05,Tuesday,Regular season,New York Liberty,Dallas Wings,Brooklyn,17306,0,,,,brooklyn,10790.418604651162,17108.0,16024.0,86,10790.418604651162
+952,2025-08-10,Sunday,Regular season,New York Liberty,Minnesota Lynx,Brooklyn,17343,0,,,,brooklyn,10865.310344827587,17116.2,17306.0,87,10865.310344827587
+975,2025-08-19,Tuesday,Regular season,New York Liberty,Minnesota Lynx,Brooklyn,16864,0,,,,brooklyn,10938.920454545454,17110.6,17343.0,88,10938.920454545454
+982,2025-08-21,Thursday,Regular season,New York Liberty,Chicago Sky,Brooklyn,15887,0,,,,brooklyn,11005.494382022473,17010.4,16864.0,89,11005.494382022473
+994,2025-08-25,Monday,Regular season,New York Liberty,Connecticut Sun,Brooklyn,15011,0,,,,brooklyn,11059.733333333334,16684.8,15887.0,90,11059.733333333334
+1000,2025-08-28,Thursday,Regular season,New York Liberty,Washington Mystics,Brooklyn,15015,0,,,,brooklyn,11103.153846153846,16482.2,15011.0,91,11103.153846153846
+1030,2025-09-09,Tuesday,Regular season,New York Liberty,Washington Mystics,Brooklyn,17532,0,,,,brooklyn,11145.673913043478,16024.0,15015.0,92,11145.673913043478
+2,2022-05-12,Wednesday,Regular season,Chicago Sky,New York Liberty,Chicago,4935,0,,,,chicago,11214.344086021505,,,0,11214.344086021505
+30,2022-06-09,Tuesday,Regular season,Chicago Sky,Indiana Fever,Chicago,7741,0,,,,chicago,4935.0,4935.0,4935.0,1,4935.0
+36,2022-06-15,Saturday,Regular season,Chicago Sky,Las Vegas Aces,Chicago,6812,0,,,,chicago,6338.0,6338.0,7741.0,2,6338.0
+42,2022-06-21,Tuesday,Regular season,Chicago Sky,Phoenix Mercury,Chicago,5133,0,,,,chicago,6496.0,6496.0,6812.0,3,6496.0
+54,2022-07-03,Sunday,Regular season,Chicago Sky,Washington Mystics,Chicago,6228,0,,,,chicago,6155.25,6155.25,5133.0,4,6155.25
+80,2022-07-29,Friday,Regular season,Chicago Sky,Atlanta Dream,Chicago,7435,0,,,,chicago,6169.8,6169.8,6228.0,5,6169.8
+100,2022-08-18,Sunday,Regular season,Chicago Sky,Minnesota Lynx,Chicago,7022,0,,,,chicago,6380.666666666667,6669.8,7435.0,6,6380.666666666667
+105,2022-08-23,Wednesday,Regular season,Chicago Sky,Connecticut Sun,Chicago,6709,0,,,,chicago,6472.285714285715,6526.0,7022.0,7,6472.285714285715
+112,2022-08-30,Saturday,Regular season,Chicago Sky,Phoenix Mercury,Chicago,8028,0,,,,chicago,6501.875,6505.4,6709.0,8,6501.875
+128,2022-09-15,Tuesday,Regular season,Chicago Sky,Atlanta Dream,Chicago,7074,0,,,,chicago,6671.444444444444,7084.4,8028.0,9,6671.444444444444
+146,2022-10-03,Wednesday,Regular season,Chicago Sky,Seattle Storm,Chicago,8893,0,,,,chicago,6711.7,7253.6,7074.0,10,6711.7
+151,2022-10-08,Friday,Regular season,Chicago Sky,Dallas Wings,Chicago,7014,0,,,,chicago,6910.0,7545.2,8893.0,11,6910.0
+163,2022-10-20,Friday,Regular season,Chicago Sky,New York Liberty,Chicago,6924,0,,,,chicago,6918.666666666667,7543.6,7014.0,12,6918.666666666667
+174,2022-10-31,Tuesday,Regular season,Chicago Sky,Dallas Wings,Chicago,5602,0,,,,chicago,6919.076923076923,7586.6,6924.0,13,6919.076923076923
+181,2022-11-07,Friday,Regular season,Chicago Sky,Washington Mystics,Chicago,8042,0,,,,chicago,6825.0,7101.4,5602.0,14,6825.0
+184,2022-11-10,Sunday,Regular season,Chicago Sky,Connecticut Sun,Chicago,8224,0,,,,chicago,6906.133333333333,7295.0,8042.0,15,6906.133333333333
+189,2022-11-15,Tuesday,Regular season,Chicago Sky,Seattle Storm,Chicago,9314,0,,,,chicago,6988.5,7161.2,8224.0,16,6988.5
+206,2022-12-02,Sunday,All star,Team Wilson,Team Stewart,Chicago,9572,0,,,,chicago,7125.294117647059,7621.2,9314.0,17,7125.294117647059
+207,2022-12-03,Wednesday,First Round,Chicago Sky,New York Liberty,Chicago,7524,0,,,,chicago,7261.222222222223,8150.8,9572.0,18,7261.222222222223
+211,2022-12-07,Saturday,First Round,Chicago Sky,New York Liberty,Chicago,7732,0,,,,chicago,7275.0526315789475,8535.2,7524.0,19,7275.0526315789475
+220,2022-12-16,Sunday,Semifinals,Chicago Sky,Connecticut Sun,Chicago,8955,0,,,,chicago,7297.9,8473.2,7732.0,20,7297.9
+221,2022-12-17,Wednesday,Semifinals,Chicago Sky,Connecticut Sun,Chicago,8311,0,,,,chicago,7376.809523809524,8619.4,8955.0,21,7376.809523809524
+225,2022-12-21,Thursday,Semifinals,Chicago Sky,Connecticut Sun,Chicago,8014,0,,,,chicago,7419.272727272727,8418.8,8311.0,22,7419.272727272727
+243,2023-01-08,Friday,Regular season,Chicago Sky,Washington Mystics,Chicago,7304,0,,,,chicago,7445.130434782609,8107.2,8014.0,23,7445.130434782609
+248,2023-01-13,Sunday,Regular season,Chicago Sky,Dallas Wings,Chicago,6042,0,,,,chicago,7439.25,8063.2,7304.0,24,7439.25
+257,2023-06-02,Friday,Regular season,Chicago Sky,New York Liberty,Chicago,7188,0,,,,chicago,7383.36,7725.2,6042.0,25,7383.36
+265,2023-06-06,Tuesday,Regular season,Chicago Sky,Indiana Fever,Chicago,5201,0,,,,chicago,7375.846153846154,7371.8,7188.0,26,7375.846153846154
+285,2023-06-15,Thursday,Regular season,Chicago Sky,Indiana Fever,Chicago,6323,0,,,,chicago,7295.2962962962965,6749.8,5201.0,27,7295.2962962962965
+299,2023-06-22,Thursday,Regular season,Chicago Sky,Washington Mystics,Chicago,6158,0,,,,chicago,7260.571428571428,6411.6,6323.0,28,7260.571428571428
+313,2023-06-28,Wednesday,Regular season,Chicago Sky,Los Angeles Sparks,Chicago,8810,0,,,,chicago,7222.551724137931,6182.4,6158.0,29,7222.551724137931
+319,2023-06-30,Friday,Regular season,Chicago Sky,Los Angeles Sparks,Chicago,7272,0,,,,chicago,7275.466666666666,6736.0,8810.0,30,7275.466666666666
+332,2023-07-07,Friday,Regular season,Chicago Sky,Atlanta Dream,Chicago,7911,0,,,,chicago,7275.354838709677,6752.8,7272.0,31,7275.354838709677
+340,2023-07-09,Sunday,Regular season,Chicago Sky,Atlanta Dream,Chicago,7325,0,,,,chicago,7295.21875,7294.8,7911.0,32,7295.21875
+344,2023-07-12,Wednesday,Regular season,Chicago Sky,Connecticut Sun,Chicago,9025,0,,,,chicago,7296.121212121212,7495.2,7325.0,33,7296.121212121212
+365,2023-07-25,Tuesday,Regular season,Chicago Sky,Las Vegas Aces,Chicago,9025,0,,,,chicago,7346.970588235294,8068.6,9025.0,34,7346.970588235294
+371,2023-07-28,Friday,Regular season,Chicago Sky,Seattle Storm,Chicago,7213,0,,,,chicago,7394.914285714286,8111.6,9025.0,35,7394.914285714286
+376,2023-07-30,Sunday,Regular season,Chicago Sky,Phoenix Mercury,Chicago,8914,0,,,,chicago,7389.861111111111,8099.8,7213.0,36,7389.861111111111
+396,2023-08-08,Tuesday,Regular season,Chicago Sky,Minnesota Lynx,Chicago,5099,0,,,,chicago,7431.054054054054,8300.4,8914.0,37,7431.054054054054
+418,2023-08-20,Sunday,Regular season,Chicago Sky,Connecticut Sun,Chicago,6901,0,,,,chicago,7369.684210526316,7855.2,5099.0,38,7369.684210526316
+423,2023-08-22,Tuesday,Regular season,Chicago Sky,Seattle Storm,Chicago,4822,0,,,,chicago,7357.666666666667,7430.4,6901.0,39,7357.666666666667
+428,2023-08-24,Thursday,Regular season,Chicago Sky,Las Vegas Aces,Chicago,8084,0,,,,chicago,7294.275,6589.8,4822.0,40,7294.275
+448,2023-09-03,Sunday,Regular season,Chicago Sky,New York Liberty,Chicago,8223,0,,,,chicago,7313.536585365854,6764.0,8084.0,41,7313.536585365854
+460,2023-09-08,Friday,Regular season,Chicago Sky,Minnesota Lynx,Chicago,7994,0,,,,chicago,7335.190476190476,6625.8,8223.0,42,7335.190476190476
+516,2024-05-25,Saturday,Regular season,Chicago Sky,Connecticut Sun,Chicago,9025,0,,,,chicago,7350.511627906977,7204.8,7994.0,43,7350.511627906977
+524,2024-05-28,Tuesday,Regular season,Chicago Sky,Seattle Storm,Chicago,7807,0,,,,chicago,7388.568181818182,7629.6,9025.0,44,7388.568181818182
+529,2024-05-30,Thursday,Regular season,Chicago Sky,Los Angeles Sparks,Chicago,7911,0,,,,chicago,7397.866666666667,8226.6,7807.0,45,7397.866666666667
+540,2024-06-04,Tuesday,Regular season,Chicago Sky,New York Liberty,Chicago,8277,0,,,,chicago,7409.021739130435,8192.0,7911.0,46,7409.021739130435
+551,2024-06-08,Saturday,Regular season,Chicago Sky,Atlanta Dream,Chicago,8804,0,,,,chicago,7427.489361702128,8202.8,8277.0,47,7427.489361702128
+560,2024-06-12,Wednesday,Regular season,Chicago Sky,Connecticut Sun,Chicago,7815,0,,,,chicago,7456.166666666667,8364.8,8804.0,48,7456.166666666667
+577,2024-06-20,Thursday,Regular season,Chicago Sky,Dallas Wings,Chicago,9025,0,,,,chicago,7463.489795918367,8122.8,7815.0,49,7463.489795918367
+586,2024-06-23,Sunday,Regular season,Chicago Sky,Indiana Fever,Chicago,9872,1,19.0,36.333333333333336,3.0,chicago,7494.72,8366.4,9025.0,50,7494.72
+590,2024-06-27,Thursday,Regular season,Chicago Sky,Las Vegas Aces,Chicago,9025,0,,,,chicago,7541.333333333333,8758.6,9872.0,51,7541.333333333333
+597,2024-06-30,Sunday,Regular season,Chicago Sky,Minnesota Lynx,Chicago,9025,0,,,,chicago,7569.865384615385,8908.2,9025.0,52,7569.865384615385
+620,2024-07-10,Wednesday,Regular season,Chicago Sky,Atlanta Dream,Chicago,9025,0,,,,chicago,7597.320754716981,8952.4,9025.0,53,7597.320754716981
+627,2024-07-13,Saturday,Regular season,Chicago Sky,New York Liberty,Chicago,9025,0,,,,chicago,7623.759259259259,9194.4,9025.0,54,7623.759259259259
+639,2024-08-15,Thursday,Regular season,Chicago Sky,Phoenix Mercury,Chicago,9025,0,,,,chicago,7649.236363636363,9194.4,9025.0,55,7649.236363636363
+664,2024-08-25,Sunday,Regular season,Chicago Sky,Las Vegas Aces,Chicago,9025,0,,,,chicago,7673.803571428572,9025.0,9025.0,56,7673.803571428572
+671,2024-08-28,Wednesday,Regular season,Chicago Sky,Washington Mystics,Chicago,8763,0,,,,chicago,7697.508771929824,9025.0,9025.0,57,7697.508771929824
+675,2024-08-30,Friday,Regular season,Chicago Sky,Indiana Fever,Chicago,9445,1,20.33333333333333,37.66666666666666,3.333333333333333,chicago,7715.879310344828,8972.6,8763.0,58,7715.879310344828
+695,2024-09-06,Friday,Regular season,Chicago Sky,Los Angeles Sparks,Chicago,9025,0,,,,chicago,7745.186440677966,9056.6,9445.0,59,7745.186440677966
+700,2024-09-08,Sunday,Regular season,Chicago Sky,Dallas Wings,Chicago,8704,0,,,,chicago,7766.516666666666,9056.6,9025.0,60,7766.516666666666
+706,2024-09-11,Wednesday,Regular season,Chicago Sky,Washington Mystics,Chicago,7948,0,,,,chicago,7781.88524590164,8992.4,8704.0,61,7781.88524590164
+717,2024-09-15,Sunday,Regular season,Chicago Sky,Phoenix Mercury,Chicago,8577,0,,,,chicago,7784.564516129032,8777.0,7948.0,62,7784.564516129032
+769,2025-05-22,Thursday,Regular season,Chicago Sky,New York Liberty,Chicago,9025,0,,,,chicago,7797.142857142857,8739.8,8577.0,63,7797.142857142857
+787,2025-05-29,Thursday,Regular season,Chicago Sky,Dallas Wings,Chicago,9025,0,,,,chicago,7816.328125,8655.8,9025.0,64,7816.328125
+806,2025-06-07,Saturday,Regular season,Chicago Sky,Indiana Fever,Chicago,19496,0,,,,chicago,7834.923076923077,8655.8,9025.0,65,7834.923076923077
+826,2025-06-17,Tuesday,Regular season,Chicago Sky,Washington Mystics,Chicago,7579,0,,,,chicago,8011.606060606061,10814.2,19496.0,66,8011.606060606061
+836,2025-06-21,Saturday,Regular season,Chicago Sky,Phoenix Mercury,Chicago,7291,0,,,,chicago,8005.149253731343,10740.4,7579.0,67,8005.149253731343
+844,2025-06-24,Tuesday,Regular season,Chicago Sky,Los Angeles Sparks,Chicago,8004,0,,,,chicago,7994.64705882353,10483.2,7291.0,68,7994.64705882353
+879,2025-07-09,Wednesday,Regular season,Chicago Sky,Dallas Wings,Chicago,9025,0,,,,chicago,7994.782608695652,10279.0,8004.0,69,7994.782608695652
+884,2025-07-12,Saturday,Regular season,Chicago Sky,Minnesota Lynx,Chicago,9025,0,,,,chicago,8009.5,10279.0,9025.0,70,8009.5
+890,2025-07-14,Monday,Regular season,Chicago Sky,Minnesota Lynx,Chicago,8105,0,,,,chicago,8023.802816901409,8184.8,9025.0,71,8023.802816901409
+894,2025-07-16,Wednesday,Regular season,Chicago Sky,Atlanta Dream,Chicago,9025,0,,,,chicago,8024.930555555556,8290.0,8105.0,72,8024.930555555556
+907,2025-07-24,Thursday,Regular season,Chicago Sky,Seattle Storm,Chicago,7750,0,,,,chicago,8038.630136986301,8636.8,9025.0,73,8038.630136986301
+911,2025-07-27,Sunday,Regular season,Chicago Sky,Indiana Fever,Chicago,19601,0,,,,chicago,8034.72972972973,8586.0,7750.0,74,8034.72972972973
+929,2025-08-01,Friday,Regular season,Chicago Sky,Golden State Valkyries,Chicago,7714,0,,,,chicago,8188.946666666667,10701.2,19601.0,75,8188.946666666667
+935,2025-08-03,Sunday,Regular season,Chicago Sky,Phoenix Mercury,Chicago,7081,0,,,,chicago,8182.6973684210525,10439.0,7714.0,76,8182.6973684210525
+939,2025-08-05,Tuesday,Regular season,Chicago Sky,Washington Mystics,Chicago,6572,0,,,,chicago,8168.38961038961,10234.2,7081.0,77,8168.38961038961
+944,2025-08-07,Thursday,Regular season,Chicago Sky,Atlanta Dream,Chicago,7221,0,,,,chicago,8147.923076923077,9743.6,6572.0,78,8147.923076923077
+965,2025-08-15,Friday,Regular season,Chicago Sky,Golden State Valkyries,Chicago,7804,0,,,,chicago,8136.189873417721,9637.8,7221.0,79,8136.189873417721
+977,2025-08-19,Tuesday,Regular season,Chicago Sky,Seattle Storm,Chicago,6724,0,,,,chicago,8132.0375,7278.4,7804.0,80,8132.0375
+990,2025-08-23,Saturday,Regular season,Chicago Sky,Connecticut Sun,Chicago,8412,0,,,,chicago,8114.6543209876545,7080.4,6724.0,81,8114.6543209876545
+995,2025-08-25,Monday,Regular season,Chicago Sky,Las Vegas Aces,Chicago,9103,0,,,,chicago,8118.280487804878,7346.6,8412.0,82,8118.280487804878
+1017,2025-09-03,Wednesday,Regular season,Chicago Sky,Connecticut Sun,Chicago,7195,0,,,,chicago,8130.144578313253,7852.8,9103.0,83,8130.144578313253
+1036,2025-09-11,Thursday,Regular season,Chicago Sky,New York Liberty,Chicago,8824,0,,,,chicago,8119.011904761905,7847.6,7195.0,84,8119.011904761905
+852,2025-06-27,Friday,Regular season,Dallas Wings,Indiana Fever,Dallas,20409,0,,,,dallas,8127.305882352941,,,0,8127.305882352941
+930,2025-08-01,Friday,Regular season,Dallas Wings,Indiana Fever,Dallas,17857,0,,,,dallas,20409.0,20409.0,20409.0,1,20409.0
+874,2025-07-08,Tuesday,Regular season,Washington Mystics,Chicago Sky,Fairfax,9350,0,,,,fairfax,19133.0,,,0,19133.0
+881,2025-07-10,Thursday,Regular season,Washington Mystics,Las Vegas Aces,Fairfax,9350,0,,,,fairfax,9350.0,9350.0,9350.0,1,9350.0
+11,2022-05-21,Sunday,Regular season,Indiana Fever,Atlanta Dream,Indianapolis,1745,0,,,,indianapolis,9350.0,,,0,9350.0
+13,2022-05-23,Tuesday,Regular season,Indiana Fever,Atlanta Dream,Indianapolis,960,0,,,,indianapolis,1745.0,1745.0,1745.0,1,1745.0
+25,2022-06-04,Sunday,Regular season,Indiana Fever,Connecticut Sun,Indianapolis,2612,0,,,,indianapolis,1352.5,1352.5,960.0,2,1352.5
+34,2022-06-13,Friday,Regular season,Indiana Fever,Los Angeles Sparks,Indianapolis,1417,0,,,,indianapolis,1772.3333333333333,1772.3333333333333,2612.0,3,1772.3333333333333
+41,2022-06-20,Tuesday,Regular season,Indiana Fever,Washington Mystics,Indianapolis,1009,0,,,,indianapolis,1683.5,1683.5,1417.0,4,1683.5
+63,2022-07-12,Friday,Regular season,Indiana Fever,New York Liberty,Indianapolis,1393,0,,,,indianapolis,1548.6,1548.6,1009.0,5,1548.6
+76,2022-07-25,Wednesday,Regular season,Indiana Fever,Phoenix Mercury,Indianapolis,1824,0,,,,indianapolis,1522.6666666666667,1478.2,1393.0,6,1522.6666666666667
+82,2022-07-31,Sunday,Regular season,Indiana Fever,Chicago Sky,Indianapolis,1706,0,,,,indianapolis,1565.7142857142858,1651.0,1824.0,7,1565.7142857142858
+118,2022-09-05,Tuesday,Regular season,Indiana Fever,Seattle Storm,Indianapolis,2585,0,,,,indianapolis,1583.25,1469.8,1706.0,8,1583.25
+123,2022-09-10,Thursday,Regular season,Indiana Fever,Chicago Sky,Indianapolis,1839,0,,,,indianapolis,1694.5555555555557,1703.4,2585.0,9,1694.5555555555557
+131,2022-09-18,Wednesday,Regular season,Indiana Fever,Connecticut Sun,Indianapolis,3212,0,,,,indianapolis,1709.0,1869.4,1839.0,10,1709.0
+136,2022-09-23,Friday,Regular season,Indiana Fever,Minnesota Lynx,Indianapolis,1530,0,,,,indianapolis,1845.6363636363637,2233.2,3212.0,11,1845.6363636363637
+155,2022-10-12,Sunday,Regular season,Indiana Fever,Dallas Wings,Indianapolis,1159,0,,,,indianapolis,1819.3333333333333,2174.4,1530.0,12,1819.3333333333333
+162,2022-10-19,Friday,Regular season,Indiana Fever,Las Vegas Aces,Indianapolis,1828,0,,,,indianapolis,1768.5384615384614,2065.0,1159.0,13,1768.5384615384614
+168,2022-10-25,Sunday,Regular season,Indiana Fever,Las Vegas Aces,Indianapolis,1822,0,,,,indianapolis,1772.7857142857142,1913.6,1828.0,14,1772.7857142857142
+196,2022-11-22,Friday,Regular season,Indiana Fever,Washington Mystics,Indianapolis,1700,0,,,,indianapolis,1776.0666666666666,1910.2,1822.0,15,1776.0666666666666
+230,2022-12-26,Friday,Regular season,Indiana Fever,Connecticut Sun,Indianapolis,7356,0,,,,indianapolis,1771.3125,1607.8,1700.0,16,1771.3125
+263,2023-06-04,Sunday,Regular season,Indiana Fever,Las Vegas Aces,Indianapolis,6131,0,,,,indianapolis,2099.823529411765,2773.0,7356.0,17,2099.823529411765
+277,2023-06-11,Sunday,Regular season,Indiana Fever,Phoenix Mercury,Indianapolis,5013,0,,,,indianapolis,2323.777777777778,3767.4,6131.0,18,2323.777777777778
+280,2023-06-13,Tuesday,Regular season,Indiana Fever,Washington Mystics,Indianapolis,3005,0,,,,indianapolis,2465.315789473684,4404.4,5013.0,19,2465.315789473684
+292,2023-06-18,Sunday,Regular season,Indiana Fever,Atlanta Dream,Indianapolis,4024,0,,,,indianapolis,2492.3,4641.0,3005.0,20,2492.3
+323,2023-07-02,Sunday,Regular season,Indiana Fever,Chicago Sky,Indianapolis,4004,0,,,,indianapolis,2565.2380952380954,5105.8,4024.0,21,2565.2380952380954
+337,2023-07-09,Sunday,Regular season,Indiana Fever,Dallas Wings,Indianapolis,3612,0,,,,indianapolis,2630.6363636363635,4435.4,4004.0,22,2630.6363636363635
+343,2023-07-12,Wednesday,Regular season,Indiana Fever,New York Liberty,Indianapolis,6123,0,,,,indianapolis,2673.304347826087,3931.6,3612.0,23,2673.304347826087
+375,2023-07-30,Sunday,Regular season,Indiana Fever,Seattle Storm,Indianapolis,5196,0,,,,indianapolis,2817.0416666666665,4153.6,6123.0,24,2817.0416666666665
+380,2023-08-01,Tuesday,Regular season,Indiana Fever,Phoenix Mercury,Indianapolis,3018,0,,,,indianapolis,2912.2,4591.8,5196.0,25,2912.2
+385,2023-08-04,Friday,Regular season,Indiana Fever,Connecticut Sun,Indianapolis,3498,0,,,,indianapolis,2916.269230769231,4390.6,3018.0,26,2916.269230769231
+395,2023-08-08,Tuesday,Regular season,Indiana Fever,Los Angeles Sparks,Indianapolis,3006,0,,,,indianapolis,2937.814814814815,4289.4,3498.0,27,2937.814814814815
+399,2023-08-10,Thursday,Regular season,Indiana Fever,Minnesota Lynx,Indianapolis,2551,0,,,,indianapolis,2940.25,4168.2,3006.0,28,2940.25
+408,2023-08-13,Sunday,Regular season,Indiana Fever,New York Liberty,Indianapolis,5019,0,,,,indianapolis,2926.8275862068967,3453.8,2551.0,29,2926.8275862068967
+412,2023-08-18,Friday,Regular season,Indiana Fever,Washington Mystics,Indianapolis,3506,0,,,,indianapolis,2996.5666666666666,3418.4,5019.0,30,2996.5666666666666
+427,2023-08-24,Thursday,Regular season,Indiana Fever,Seattle Storm,Indianapolis,2644,0,,,,indianapolis,3013.0,3516.0,3506.0,31,3013.0
+434,2023-08-27,Sunday,Regular season,Indiana Fever,Atlanta Dream,Indianapolis,4034,0,,,,indianapolis,3001.46875,3345.2,2644.0,32,3001.46875
+444,2023-09-01,Friday,Regular season,Indiana Fever,Dallas Wings,Indianapolis,3137,0,,,,indianapolis,3032.757575757576,3550.8,4034.0,33,3032.757575757576
+453,2023-09-05,Tuesday,Regular season,Indiana Fever,Chicago Sky,Indianapolis,2450,0,,,,indianapolis,3035.823529411765,3668.0,3137.0,34,3035.823529411765
+465,2023-09-10,Sunday,Regular season,Indiana Fever,Minnesota Lynx,Indianapolis,4009,0,,,,indianapolis,3019.0857142857144,3154.2,2450.0,35,3019.0857142857144
+497,2024-05-16,Thursday,Regular season,Indiana Fever,New York Liberty,Indianapolis,17274,1,20.0,32.0,4.0,indianapolis,3046.5833333333335,3254.8,4009.0,36,3046.5833333333335
+505,2024-05-20,Monday,Regular season,Indiana Fever,Connecticut Sun,Indianapolis,17274,1,17.0,32.0,3.0,indianapolis,3431.108108108108,6180.8,17274.0,37,3431.108108108108
+523,2024-05-28,Tuesday,Regular season,Indiana Fever,Los Angeles Sparks,Indianapolis,16013,1,13.333333333333334,33.0,2.0,indianapolis,3795.3947368421054,8828.8,17274.0,38,3795.3947368421054
+528,2024-05-30,Thursday,Regular season,Indiana Fever,Seattle Storm,Indianapolis,15022,1,16.333333333333332,33.333333333333336,2.333333333333333,indianapolis,4108.666666666667,11404.0,16013.0,39,4108.666666666667
+534,2024-06-01,Saturday,Regular season,Indiana Fever,Chicago Sky,Indianapolis,17274,1,19.33333333333333,34.333333333333336,2.6666666666666665,indianapolis,4381.5,13918.4,15022.0,40,4381.5
+561,2024-06-13,Thursday,Regular season,Indiana Fever,Atlanta Dream,Indianapolis,16651,1,14.333333333333334,30.0,3.333333333333333,indianapolis,4695.951219512195,16571.4,17274.0,41,4695.951219512195
+569,2024-06-16,Sunday,Regular season,Indiana Fever,Chicago Sky,Indianapolis,17274,1,15.666666666666666,32.0,3.333333333333333,indianapolis,4980.5952380952385,16446.8,16651.0,42,4980.5952380952385
+574,2024-06-19,Wednesday,Regular season,Indiana Fever,Washington Mystics,Indianapolis,17274,1,13.333333333333334,31.33333333333333,2.0,indianapolis,5266.488372093023,16446.8,17274.0,43,5266.488372093023
+611,2024-07-06,Saturday,Regular season,Indiana Fever,New York Liberty,Indianapolis,17274,1,14.333333333333334,38.333333333333336,2.0,indianapolis,5539.386363636364,16699.0,17274.0,44,5539.386363636364
+619,2024-07-10,Wednesday,Regular season,Indiana Fever,Washington Mystics,Indianapolis,17274,1,15.666666666666666,38.333333333333336,2.0,indianapolis,5800.155555555555,17149.4,17274.0,45,5800.155555555555
+625,2024-07-12,Friday,Regular season,Indiana Fever,Phoenix Mercury,Indianapolis,17274,1,20.33333333333333,38.0,3.0,indianapolis,6049.586956521739,17149.4,17274.0,46,6049.586956521739
+643,2024-08-16,Friday,Regular season,Indiana Fever,Phoenix Mercury,Indianapolis,17274,1,15.0,34.333333333333336,1.3333333333333333,indianapolis,6288.404255319149,17274.0,17274.0,47,6288.404255319149
+650,2024-08-18,Sunday,Regular season,Indiana Fever,Seattle Storm,Indianapolis,17274,1,19.0,34.0,2.0,indianapolis,6517.270833333333,17274.0,17274.0,48,6517.270833333333
+670,2024-08-28,Wednesday,Regular season,Indiana Fever,Connecticut Sun,Indianapolis,17274,1,21.666666666666668,37.0,3.333333333333333,indianapolis,6736.7959183673465,17274.0,17274.0,49,6736.7959183673465
+689,2024-09-04,Wednesday,Regular season,Indiana Fever,Los Angeles Sparks,Indianapolis,16645,1,26.0,35.666666666666664,4.333333333333333,indianapolis,6947.54,17274.0,17274.0,50,6947.54
+694,2024-09-06,Friday,Regular season,Indiana Fever,Minnesota Lynx,Indianapolis,17274,1,27.666666666666668,36.333333333333336,4.666666666666667,indianapolis,7137.686274509804,17148.2,16645.0,51,7137.686274509804
+698,2024-09-08,Sunday,Regular season,Indiana Fever,Atlanta Dream,Indianapolis,17274,1,25.666666666666668,37.66666666666666,4.666666666666667,indianapolis,7332.615384615385,17148.2,17274.0,52,7332.615384615385
+705,2024-09-11,Wednesday,Regular season,Indiana Fever,Las Vegas Aces,Indianapolis,17274,1,25.0,40.333333333333336,4.333333333333333,indianapolis,7520.188679245283,17148.2,17274.0,53,7520.188679245283
+710,2024-09-13,Friday,Regular season,Indiana Fever,Las Vegas Aces,Indianapolis,17274,1,22.33333333333333,39.66666666666666,3.333333333333333,indianapolis,7700.814814814815,17148.2,17274.0,54,7700.814814814815
+714,2024-09-15,Sunday,Regular season,Indiana Fever,Dallas Wings,Indianapolis,17274,1,20.0,39.0,2.333333333333333,indianapolis,7874.872727272727,17148.2,17274.0,55,7874.872727272727
+757,2025-05-17,Saturday,Regular season,Indiana Fever,Chicago Sky,Indianapolis,17274,1,14.666666666666666,32.0,2.333333333333333,indianapolis,8042.714285714285,17274.0,17274.0,56,8042.714285714285
+764,2025-05-20,Tuesday,Regular season,Indiana Fever,Atlanta Dream,Indianapolis,16269,1,18.666666666666668,36.0,3.0,indianapolis,8204.666666666666,17274.0,17274.0,57,8204.666666666666
+774,2025-05-24,Saturday,Regular season,Indiana Fever,New York Liberty,Indianapolis,17274,1,19.33333333333333,34.0,3.0,indianapolis,8343.706896551725,17073.0,16269.0,58,8343.706896551725
+788,2025-05-30,Friday,Regular season,Indiana Fever,Connecticut Sun,Indianapolis,16213,0,,,,indianapolis,8495.06779661017,17073.0,17274.0,59,8495.06779661017
+798,2025-06-03,Tuesday,Regular season,Indiana Fever,Washington Mystics,Indianapolis,16013,0,,,,indianapolis,8623.7,16860.8,16213.0,60,8623.7
+819,2025-06-14,Saturday,Regular season,Indiana Fever,New York Liberty,Indianapolis,17274,1,18.666666666666668,36.0,2.333333333333333,indianapolis,8744.83606557377,16608.6,16013.0,61,8744.83606557377
+824,2025-06-17,Tuesday,Regular season,Indiana Fever,Connecticut Sun,Indianapolis,16284,1,20.33333333333333,33.666666666666664,3.0,indianapolis,8882.40322580645,16608.6,17274.0,62,8882.40322580645
+849,2025-06-26,Thursday,Regular season,Indiana Fever,Los Angeles Sparks,Indianapolis,17274,0,,,,indianapolis,8999.888888888889,16611.6,16284.0,63,8999.888888888889
+862,2025-07-03,Thursday,Regular season,Indiana Fever,Las Vegas Aces,Indianapolis,16509,0,,,,indianapolis,9129.171875,16611.6,17274.0,64,9129.171875
+867,2025-07-05,Saturday,Regular season,Indiana Fever,Los Angeles Sparks,Indianapolis,17274,0,,,,indianapolis,9242.707692307693,16670.8,16509.0,65,9242.707692307693
+877,2025-07-09,Wednesday,Regular season,Indiana Fever,Golden State Valkyries,Indianapolis,16798,1,12.0,33.333333333333336,0.3333333333333333,indianapolis,9364.39393939394,16923.0,17274.0,66,9364.39393939394
+882,2025-07-11,Friday,Regular season,Indiana Fever,Atlanta Dream,Indianapolis,16966,1,11.666666666666666,30.33333333333333,1.0,indianapolis,9475.34328358209,16827.8,16798.0,67,9475.34328358209
+886,2025-07-13,Sunday,Regular season,Indiana Fever,Dallas Wings,Indianapolis,17274,1,9.333333333333334,27.33333333333333,1.0,indianapolis,9585.5,16964.2,16966.0,68,9585.5
+1040,2025-07-19,Saturday,All star,Team Clark,Team Collier,Indianapolis,16988,0,,,,indianapolis,9696.927536231884,16964.2,17274.0,69,9696.927536231884
+906,2025-07-24,Thursday,Regular season,Indiana Fever,Las Vegas Aces,Indianapolis,16166,0,,,,indianapolis,9801.085714285715,17060.0,16988.0,70,9801.085714285715
+923,2025-07-30,Wednesday,Regular season,Indiana Fever,Phoenix Mercury,Indianapolis,17274,0,,,,indianapolis,9890.732394366198,16838.4,16166.0,71,9890.732394366198
+951,2025-08-09,Saturday,Regular season,Indiana Fever,Chicago Sky,Indianapolis,17274,0,,,,indianapolis,9993.277777777777,16933.6,17274.0,72,9993.277777777777
+958,2025-08-12,Tuesday,Regular season,Indiana Fever,Dallas Wings,Indianapolis,16027,0,,,,indianapolis,10093.013698630137,16995.2,17274.0,73,10093.013698630137
+964,2025-08-15,Friday,Regular season,Indiana Fever,Washington Mystics,Indianapolis,16006,0,,,,indianapolis,10173.202702702703,16745.8,16027.0,74,10173.202702702703
+985,2025-08-22,Friday,Regular season,Indiana Fever,Minnesota Lynx,Indianapolis,15121,0,,,,indianapolis,10250.973333333333,16549.4,16006.0,75,10250.973333333333
+996,2025-08-26,Tuesday,Regular season,Indiana Fever,Seattle Storm,Indianapolis,16737,0,,,,indianapolis,10315.052631578947,16340.4,15121.0,76,10315.052631578947
+1022,2025-09-05,Friday,Regular season,Indiana Fever,Chicago Sky,Indianapolis,16012,0,,,,indianapolis,10398.454545454546,16233.0,16737.0,77,10398.454545454546
+1031,2025-09-09,Tuesday,Regular season,Indiana Fever,Minnesota Lynx,Indianapolis,15012,0,,,,indianapolis,10470.423076923076,15980.6,16012.0,78,10470.423076923076
+1046,2025-09-16,Tuesday,First Round,Indiana Fever,Atlanta Dream,Indianapolis,16682,0,,,,indianapolis,10527.911392405063,15777.6,15012.0,79,10527.911392405063
+15,2022-05-25,Tuesday,Regular season,Las Vegas Aces,Phoenix Mercury,Las Vegas,2536,0,,,,las vegas,10604.8375,,,0,10604.8375
+18,2022-05-28,Thursday,Regular season,Las Vegas Aces,Minnesota Lynx,Las Vegas,3640,0,,,,las vegas,2536.0,2536.0,2536.0,1,2536.0
+23,2022-06-02,Saturday,Regular season,Las Vegas Aces,Phoenix Mercury,Las Vegas,5572,0,,,,las vegas,3088.0,3088.0,3640.0,2,3088.0
+27,2022-06-06,Monday,Regular season,Las Vegas Aces,Los Angeles Sparks,Las Vegas,4092,0,,,,las vegas,3916.0,3916.0,5572.0,3,3916.0
+43,2022-06-22,Tuesday,Regular season,Las Vegas Aces,Connecticut Sun,Las Vegas,4693,0,,,,las vegas,3960.0,3960.0,4092.0,4,3960.0
+47,2022-06-26,Thursday,Regular season,Las Vegas Aces,Connecticut Sun,Las Vegas,3801,0,,,,las vegas,4106.6,4106.6,4693.0,5,4106.6
+55,2022-07-04,Sunday,Regular season,Las Vegas Aces,Dallas Wings,Las Vegas,4814,0,,,,las vegas,4055.6666666666665,4359.6,3801.0,6,4055.6666666666665
+85,2022-08-03,Sunday,Regular season,Las Vegas Aces,Minnesota Lynx,Las Vegas,4603,0,,,,las vegas,4164.0,4594.4,4814.0,7,4164.0
+87,2022-08-05,Tuesday,Regular season,Las Vegas Aces,Chicago Sky,Las Vegas,4951,0,,,,las vegas,4218.875,4400.6,4603.0,8,4218.875
+98,2022-08-16,Saturday,Regular season,Las Vegas Aces,Washington Mystics,Las Vegas,7171,0,,,,las vegas,4300.222222222223,4572.4,4951.0,9,4300.222222222223
+122,2022-09-09,Wednesday,Regular season,Las Vegas Aces,New York Liberty,Las Vegas,8405,0,,,,las vegas,4587.3,5068.0,7171.0,10,4587.3
+144,2022-10-01,Tuesday,Regular season,Las Vegas Aces,Atlanta Dream,Las Vegas,5952,0,,,,las vegas,4934.363636363636,5988.8,8405.0,11,4934.363636363636
+149,2022-10-06,Thursday,Regular season,Las Vegas Aces,Indiana Fever,Las Vegas,5737,0,,,,las vegas,5019.166666666667,6216.4,5952.0,12,5019.166666666667
+154,2022-10-11,Saturday,Regular season,Las Vegas Aces,Los Angeles Sparks,Las Vegas,7522,0,,,,las vegas,5074.384615384615,6443.2,5737.0,13,5074.384615384615
+190,2022-11-16,Tuesday,Regular season,Las Vegas Aces,Atlanta Dream,Las Vegas,5151,0,,,,las vegas,5249.214285714285,6957.4,7522.0,14,5249.214285714285
+194,2022-11-20,Thursday,Regular season,Las Vegas Aces,Chicago Sky,Las Vegas,6055,0,,,,las vegas,5242.666666666667,6553.4,5151.0,15,5242.666666666667
+204,2022-11-30,Sunday,Regular season,Las Vegas Aces,Seattle Storm,Las Vegas,10015,0,,,,las vegas,5293.4375,6083.4,6055.0,16,5293.4375
+208,2022-12-04,Wednesday,First Round,Las Vegas Aces,Phoenix Mercury,Las Vegas,8725,0,,,,las vegas,5571.176470588235,6896.0,10015.0,17,5571.176470588235
+212,2022-12-08,Saturday,First Round,Las Vegas Aces,Phoenix Mercury,Las Vegas,9126,0,,,,las vegas,5746.388888888889,7493.6,8725.0,18,5746.388888888889
+217,2022-12-13,Sunday,Semifinals,Las Vegas Aces,Seattle Storm,Las Vegas,9944,0,,,,las vegas,5924.263157894737,7814.4,9126.0,19,5924.263157894737
+218,2022-12-14,Wednesday,Semifinals,Las Vegas Aces,Seattle Storm,Las Vegas,9755,0,,,,las vegas,6125.25,8773.0,9944.0,20,6125.25
+226,2022-12-22,Sunday,Finals,Las Vegas Aces,Connecticut Sun,Las Vegas,10135,0,,,,las vegas,6298.0952380952385,9513.0,9755.0,21,6298.0952380952385
+227,2022-12-23,Tuesday,Finals,Las Vegas Aces,Connecticut Sun,Las Vegas,10211,0,,,,las vegas,6472.5,9537.0,10135.0,22,6472.5
+246,2023-01-11,Saturday,Regular season,Las Vegas Aces,Los Angeles Sparks,Las Vegas,10191,0,,,,las vegas,6635.04347826087,9834.2,10211.0,23,6635.04347826087
+249,2023-01-14,Sunday,Regular season,Las Vegas Aces,Minnesota Lynx,Las Vegas,7970,0,,,,las vegas,6783.208333333333,10047.2,10191.0,24,6783.208333333333
+275,2023-06-11,Sunday,Regular season,Las Vegas Aces,Chicago Sky,Las Vegas,9786,0,,,,las vegas,6830.68,9652.4,7970.0,25,6830.68
+286,2023-06-15,Thursday,Regular season,Las Vegas Aces,Seattle Storm,Las Vegas,8518,0,,,,las vegas,6944.346153846154,9658.6,9786.0,26,6944.346153846154
+294,2023-06-18,Sunday,Regular season,Las Vegas Aces,Minnesota Lynx,Las Vegas,8036,0,,,,las vegas,7002.62962962963,9335.2,8518.0,27,7002.62962962963
+304,2023-06-24,Saturday,Regular season,Las Vegas Aces,Indiana Fever,Las Vegas,8310,0,,,,las vegas,7039.535714285715,8900.2,8036.0,28,7039.535714285715
+309,2023-06-26,Monday,Regular season,Las Vegas Aces,Indiana Fever,Las Vegas,8143,0,,,,las vegas,7083.3448275862065,8524.0,8310.0,29,7083.3448275862065
+315,2023-06-29,Thursday,Regular season,Las Vegas Aces,New York Liberty,Las Vegas,9587,0,,,,las vegas,7118.666666666667,8558.6,8143.0,30,7118.666666666667
+320,2023-07-01,Saturday,Regular season,Las Vegas Aces,Connecticut Sun,Las Vegas,8596,0,,,,las vegas,7198.290322580645,8518.8,9587.0,31,7198.290322580645
+328,2023-07-05,Wednesday,Regular season,Las Vegas Aces,Dallas Wings,Las Vegas,10177,0,,,,las vegas,7241.96875,8534.4,8596.0,32,7241.96875
+342,2023-07-11,Tuesday,Regular season,Las Vegas Aces,Phoenix Mercury,Las Vegas,10281,0,,,,las vegas,7330.909090909091,8962.6,10177.0,33,7330.909090909091
+470,2023-07-15,Saturday,All star,Team Wilson,Team Stewart,Las Vegas,9472,0,,,,las vegas,7417.676470588235,9356.8,10281.0,34,7417.676470588235
+377,2023-07-30,Sunday,Regular season,Las Vegas Aces,Dallas Wings,Las Vegas,10213,0,,,,las vegas,7476.371428571429,9622.6,9472.0,35,7476.371428571429
+381,2023-08-01,Tuesday,Regular season,Las Vegas Aces,Atlanta Dream,Las Vegas,8366,0,,,,las vegas,7552.388888888889,9747.8,10213.0,36,7552.388888888889
+403,2023-08-11,Friday,Regular season,Las Vegas Aces,Washington Mystics,Las Vegas,9364,0,,,,las vegas,7574.378378378378,9701.8,8366.0,37,7574.378378378378
+409,2023-08-13,Sunday,Regular season,Las Vegas Aces,Atlanta Dream,Las Vegas,8564,0,,,,las vegas,7621.473684210527,9539.2,9364.0,38,7621.473684210527
+410,2023-08-17,Thursday,Regular season,Las Vegas Aces,New York Liberty,Las Vegas,9230,0,,,,las vegas,7645.641025641025,9195.8,8564.0,39,7645.641025641025
+416,2023-08-19,Saturday,Regular season,Las Vegas Aces,Los Angeles Sparks,Las Vegas,10348,0,,,,las vegas,7685.25,9147.4,9230.0,40,7685.25
+442,2023-08-31,Thursday,Regular season,Las Vegas Aces,Washington Mystics,Las Vegas,8619,0,,,,las vegas,7750.195121951219,9174.4,10348.0,41,7750.195121951219
+447,2023-09-02,Saturday,Regular season,Las Vegas Aces,Seattle Storm,Las Vegas,9319,0,,,,las vegas,7770.880952380952,9225.0,8619.0,42,7770.880952380952
+467,2023-09-10,Sunday,Regular season,Las Vegas Aces,Phoenix Mercury,Las Vegas,17406,0,,,,las vegas,7806.883720930233,9216.0,9319.0,43,7806.883720930233
+472,2023-09-13,Wednesday,First Round,Las Vegas Aces,Chicago Sky,Las Vegas,12927,0,,,,las vegas,8025.045454545455,10984.4,17406.0,44,8025.045454545455
+476,2023-09-17,Sunday,First Round,Las Vegas Aces,Chicago Sky,Las Vegas,9000,0,,,,las vegas,8133.977777777778,11723.8,12927.0,45,8133.977777777778
+480,2023-09-24,Sunday,Semifinals,Las Vegas Aces,Dallas Wings,Las Vegas,9784,0,,,,las vegas,8152.804347826087,11454.2,9000.0,46,8152.804347826087
+481,2023-09-26,Tuesday,Semifinals,Las Vegas Aces,Dallas Wings,Las Vegas,9286,0,,,,las vegas,8187.510638297872,11687.2,9784.0,47,8187.510638297872
+487,2023-10-08,Sunday,Finals,Las Vegas Aces,New York Liberty,Las Vegas,10300,0,,,,las vegas,8210.395833333334,11680.6,9286.0,48,8210.395833333334
+488,2023-10-11,Wednesday,Finals,Las Vegas Aces,New York Liberty,Las Vegas,10232,0,,,,las vegas,8253.040816326531,10259.4,10300.0,49,8253.040816326531
+493,2024-05-14,Tuesday,Regular season,Las Vegas Aces,Phoenix Mercury,Las Vegas,10419,0,,,,las vegas,8292.62,9720.4,10232.0,50,8292.62
+501,2024-05-18,Saturday,Regular season,Las Vegas Aces,Los Angeles Sparks,Las Vegas,10286,0,,,,las vegas,8334.313725490196,10004.2,10419.0,51,8334.313725490196
+508,2024-05-21,Tuesday,Regular season,Las Vegas Aces,Phoenix Mercury,Las Vegas,10374,0,,,,las vegas,8371.846153846154,10104.6,10286.0,52,8371.846153846154
+517,2024-05-25,Saturday,Regular season,Las Vegas Aces,Indiana Fever,Las Vegas,10399,1,16.333333333333332,32.333333333333336,2.333333333333333,las vegas,8409.622641509433,10322.2,10374.0,53,8409.622641509433
+547,2024-06-07,Friday,Regular season,Las Vegas Aces,Seattle Storm,Las Vegas,10380,0,,,,las vegas,8446.462962962964,10342.0,10399.0,54,8446.462962962964
+558,2024-06-11,Tuesday,Regular season,Las Vegas Aces,Minnesota Lynx,Las Vegas,10368,0,,,,las vegas,8481.618181818181,10371.6,10380.0,55,8481.618181818181
+567,2024-06-15,Saturday,Regular season,Las Vegas Aces,New York Liberty,Las Vegas,10424,0,,,,las vegas,8515.30357142857,10361.4,10368.0,56,8515.30357142857
+576,2024-06-19,Wednesday,Regular season,Las Vegas Aces,Seattle Storm,Las Vegas,10380,0,,,,las vegas,8548.78947368421,10389.0,10424.0,57,8548.78947368421
+580,2024-06-21,Friday,Regular season,Las Vegas Aces,Connecticut Sun,Las Vegas,10385,0,,,,las vegas,8580.362068965518,10390.2,10380.0,58,8580.362068965518
+603,2024-07-02,Tuesday,Regular season,Las Vegas Aces,Indiana Fever,Las Vegas,20366,1,15.666666666666666,39.0,3.333333333333333,las vegas,8610.949152542373,10387.4,10385.0,59,8610.949152542373
+607,2024-07-04,Thursday,Regular season,Las Vegas Aces,Washington Mystics,Las Vegas,10376,0,,,,las vegas,8806.866666666667,12384.6,20366.0,60,8806.866666666667
+614,2024-07-07,Sunday,Regular season,Las Vegas Aces,Dallas Wings,Las Vegas,10369,0,,,,las vegas,8832.590163934427,12386.2,10376.0,61,8832.590163934427
+636,2024-07-16,Tuesday,Regular season,Las Vegas Aces,Chicago Sky,Las Vegas,10396,0,,,,las vegas,8857.370967741936,12375.2,10369.0,62,8857.370967741936
+646,2024-08-17,Saturday,Regular season,Las Vegas Aces,New York Liberty,Las Vegas,10397,0,,,,las vegas,8881.79365079365,12378.4,10396.0,63,8881.79365079365
+649,2024-08-18,Sunday,Regular season,Las Vegas Aces,Los Angeles Sparks,Las Vegas,10311,0,,,,las vegas,8905.46875,12380.8,10397.0,64,8905.46875
+656,2024-08-21,Wednesday,Regular season,Las Vegas Aces,Minnesota Lynx,Las Vegas,10429,0,,,,las vegas,8927.092307692308,10369.8,10311.0,65,8927.092307692308
+677,2024-08-30,Friday,Regular season,Las Vegas Aces,Atlanta Dream,Las Vegas,10397,0,,,,las vegas,8949.848484848484,10380.4,10429.0,66,8949.848484848484
+687,2024-09-03,Tuesday,Regular season,Las Vegas Aces,Chicago Sky,Las Vegas,18394,0,,,,las vegas,8971.44776119403,10386.0,10397.0,67,8971.44776119403
+718,2024-09-15,Sunday,Regular season,Las Vegas Aces,Connecticut Sun,Las Vegas,10431,0,,,,las vegas,9110.014705882353,11985.6,18394.0,68,9110.014705882353
+729,2024-09-19,Thursday,Regular season,Las Vegas Aces,Dallas Wings,Las Vegas,10376,0,,,,las vegas,9129.159420289856,11992.4,10431.0,69,9129.159420289856
+735,2024-09-22,Sunday,First Round,Las Vegas Aces,Seattle Storm,Las Vegas,10369,0,,,,las vegas,9146.971428571429,12005.4,10376.0,70,9146.971428571429
+737,2024-09-24,Tuesday,First Round,Las Vegas Aces,Seattle Storm,Las Vegas,10370,0,,,,las vegas,9164.18309859155,11993.4,10369.0,71,9164.18309859155
+742,2024-10-04,Friday,Semifinals,Las Vegas Aces,New York Liberty,Las Vegas,10369,0,,,,las vegas,9180.930555555555,11988.0,10370.0,72,9180.930555555555
+746,2024-10-06,Sunday,Semifinals,Las Vegas Aces,New York Liberty,Las Vegas,10374,0,,,,las vegas,9197.205479452055,10383.0,10369.0,73,9197.205479452055
+771,2025-05-23,Friday,Regular season,Las Vegas Aces,Washington Mystics,Las Vegas,10509,0,,,,las vegas,9213.108108108108,10371.6,10374.0,74,9213.108108108108
+790,2025-05-30,Friday,Regular season,Las Vegas Aces,Los Angeles Sparks,Las Vegas,10504,0,,,,las vegas,9230.386666666667,10398.2,10509.0,75,9230.386666666667
+813,2025-06-11,Wednesday,Regular season,Las Vegas Aces,Los Angeles Sparks,Las Vegas,10417,0,,,,las vegas,9247.144736842105,10425.2,10504.0,76,9247.144736842105
+817,2025-06-13,Friday,Regular season,Las Vegas Aces,Dallas Wings,Las Vegas,10428,0,,,,las vegas,9262.337662337663,10434.6,10417.0,77,9262.337662337663
+823,2025-06-15,Sunday,Regular season,Las Vegas Aces,Phoenix Mercury,Las Vegas,10497,0,,,,las vegas,9277.28205128205,10446.4,10428.0,78,9277.28205128205
+835,2025-06-20,Friday,Regular season,Las Vegas Aces,Seattle Storm,Las Vegas,10428,0,,,,las vegas,9292.721518987342,10471.0,10497.0,79,9292.721518987342
+840,2025-06-22,Sunday,Regular season,Las Vegas Aces,Indiana Fever,Las Vegas,18547,1,21.0,31.33333333333333,3.6666666666666665,las vegas,9306.9125,10454.8,10428.0,80,9306.9125
+848,2025-06-25,Wednesday,Regular season,Las Vegas Aces,Connecticut Sun,Las Vegas,10432,0,,,,las vegas,9420.987654320988,12063.4,18547.0,81,9420.987654320988
+850,2025-06-26,Thursday,Regular season,Las Vegas Aces,Washington Mystics,Las Vegas,10427,0,,,,las vegas,9433.317073170732,12066.4,10432.0,82,9433.317073170732
+885,2025-07-12,Saturday,Regular season,Las Vegas Aces,Golden State Valkyries,Las Vegas,10488,0,,,,las vegas,9445.289156626506,12066.2,10427.0,83,9445.289156626506
+902,2025-07-22,Tuesday,Regular season,Las Vegas Aces,Atlanta Dream,Las Vegas,10414,0,,,,las vegas,9457.702380952382,12064.4,10488.0,84,9457.702380952382
+932,2025-08-02,Saturday,Regular season,Las Vegas Aces,Minnesota Lynx,Las Vegas,10488,0,,,,las vegas,9468.95294117647,12061.6,10414.0,85,9468.95294117647
+936,2025-08-03,Sunday,Regular season,Las Vegas Aces,Golden State Valkyries,Las Vegas,10445,0,,,,las vegas,9480.802325581395,10449.8,10488.0,86,9480.802325581395
+949,2025-08-08,Friday,Regular season,Las Vegas Aces,Seattle Storm,Las Vegas,10415,0,,,,las vegas,9491.885057471265,10452.4,10445.0,87,9491.885057471265
+956,2025-08-10,Sunday,Regular season,Las Vegas Aces,Connecticut Sun,Las Vegas,10407,0,,,,las vegas,9502.375,10450.0,10415.0,88,9502.375
+962,2025-08-13,Wednesday,Regular season,Las Vegas Aces,New York Liberty,Las Vegas,10417,0,,,,las vegas,9512.539325842698,10433.8,10407.0,89,9512.539325842698
+972,2025-08-17,Sunday,Regular season,Las Vegas Aces,Dallas Wings,Las Vegas,10418,0,,,,las vegas,9522.58888888889,10434.4,10417.0,90,9522.58888888889
+978,2025-08-19,Tuesday,Regular season,Las Vegas Aces,Atlanta Dream,Las Vegas,10420,0,,,,las vegas,9532.42857142857,10420.4,10418.0,91,9532.42857142857
+984,2025-08-21,Thursday,Regular season,Las Vegas Aces,Phoenix Mercury,Las Vegas,10460,0,,,,las vegas,9542.076086956522,10415.4,10420.0,92,9542.076086956522
+1020,2025-09-04,Thursday,Regular season,Las Vegas Aces,Minnesota Lynx,Las Vegas,14656,0,,,,las vegas,9551.946236559139,10424.4,10460.0,93,9551.946236559139
+1028,2025-09-07,Sunday,Regular season,Las Vegas Aces,Chicago Sky,Las Vegas,17306,0,,,,las vegas,9606.244680851063,11274.2,14656.0,94,9606.244680851063
+1032,2025-09-09,Tuesday,Regular season,Las Vegas Aces,Chicago Sky,Las Vegas,15640,0,,,,las vegas,9687.294736842105,12652.0,17306.0,95,9687.294736842105
+1042,2025-09-14,Sunday,First Round,Las Vegas Aces,Seattle Storm,Las Vegas,10407,0,,,,las vegas,9749.302083333334,13696.4,15640.0,96,9749.302083333334
+496,2024-05-15,Wednesday,Regular season,Los Angeles Sparks,Atlanta Dream,Long Beach,3847,0,,,,long beach,9756.082474226803,,,0,9756.082474226803
+509,2024-05-21,Tuesday,Regular season,Los Angeles Sparks,Washington Mystics,Long Beach,3627,0,,,,long beach,3847.0,3847.0,3847.0,1,3847.0
+16,2022-05-26,Tuesday,Regular season,Los Angeles Sparks,Minnesota Lynx,Los Angeles,4701,0,,,,los angeles,3737.0,,,0,3737.0
+32,2022-06-11,Wednesday,Regular season,Los Angeles Sparks,Phoenix Mercury,Los Angeles,4020,0,,,,los angeles,4701.0,4701.0,4701.0,1,4701.0
+44,2022-06-23,Tuesday,Regular season,Los Angeles Sparks,Dallas Wings,Los Angeles,4852,0,,,,los angeles,4360.5,4360.5,4020.0,2,4360.5
+67,2022-07-16,Saturday,Regular season,Los Angeles Sparks,Las Vegas Aces,Los Angeles,8200,0,,,,los angeles,4524.333333333333,4524.333333333333,4852.0,3,4524.333333333333
+89,2022-08-07,Tuesday,Regular season,Los Angeles Sparks,Washington Mystics,Los Angeles,3745,0,,,,los angeles,5443.25,5443.25,8200.0,4,5443.25
+94,2022-08-12,Thursday,Regular season,Los Angeles Sparks,Chicago Sky,Los Angeles,5627,0,,,,los angeles,5103.6,5103.6,3745.0,5,5103.6
+102,2022-08-20,Monday,Regular season,Los Angeles Sparks,Las Vegas Aces,Los Angeles,4200,0,,,,los angeles,5190.833333333333,5288.8,5627.0,6,5190.833333333333
+116,2022-09-03,Sunday,Regular season,Los Angeles Sparks,New York Liberty,Los Angeles,5436,0,,,,los angeles,5049.285714285715,5324.8,4200.0,7,5049.285714285715
+117,2022-09-04,Monday,Regular season,Los Angeles Sparks,Phoenix Mercury,Los Angeles,3340,0,,,,los angeles,5097.625,5441.6,5436.0,8,5097.625
+125,2022-09-12,Thursday,Regular season,Los Angeles Sparks,Seattle Storm,Los Angeles,6389,0,,,,los angeles,4902.333333333333,4469.6,3340.0,9,4902.333333333333
+130,2022-09-17,Tuesday,Regular season,Los Angeles Sparks,Washington Mystics,Los Angeles,5004,0,,,,los angeles,5051.0,4998.4,6389.0,10,5051.0
+135,2022-09-22,Thursday,Regular season,Los Angeles Sparks,Chicago Sky,Los Angeles,5856,0,,,,los angeles,5046.727272727273,4873.8,5004.0,11,5046.727272727273
+145,2022-10-02,Tuesday,Regular season,Los Angeles Sparks,Indiana Fever,Los Angeles,5478,0,,,,los angeles,5114.166666666667,5205.0,5856.0,12,5114.166666666667
+148,2022-10-05,Thursday,Regular season,Los Angeles Sparks,Atlanta Dream,Los Angeles,10021,0,,,,los angeles,5142.153846153846,5213.4,5478.0,13,5142.153846153846
+170,2022-10-27,Sunday,Regular season,Los Angeles Sparks,Minnesota Lynx,Los Angeles,6857,0,,,,los angeles,5490.642857142857,6549.6,10021.0,14,5490.642857142857
+191,2022-11-17,Tuesday,Regular season,Los Angeles Sparks,Connecticut Sun,Los Angeles,5789,0,,,,los angeles,5581.733333333334,6643.2,6857.0,15,5581.733333333334
+195,2022-11-21,Thursday,Regular season,Los Angeles Sparks,Connecticut Sun,Los Angeles,4987,0,,,,los angeles,5594.6875,6800.2,5789.0,16,5594.6875
+205,2022-12-01,Sunday,Regular season,Los Angeles Sparks,Dallas Wings,Los Angeles,7245,0,,,,los angeles,5558.941176470588,6626.4,4987.0,17,5558.941176470588
+233,2022-12-29,Friday,Regular season,Los Angeles Sparks,Phoenix Mercury,Los Angeles,10396,0,,,,los angeles,5652.611111111111,6979.8,7245.0,18,5652.611111111111
+241,2023-01-06,Thursday,Regular season,Los Angeles Sparks,Las Vegas Aces,Los Angeles,7314,0,,,,los angeles,5902.263157894737,7054.8,10396.0,19,5902.263157894737
+260,2023-06-03,Saturday,Regular season,Los Angeles Sparks,Seattle Storm,Los Angeles,6866,0,,,,los angeles,5972.85,7146.2,7314.0,20,5972.85
+272,2023-06-09,Friday,Regular season,Los Angeles Sparks,Chicago Sky,Los Angeles,5431,0,,,,los angeles,6015.380952380952,7361.6,6866.0,21,6015.380952380952
+288,2023-06-16,Friday,Regular season,Los Angeles Sparks,Minnesota Lynx,Los Angeles,5265,0,,,,los angeles,5988.818181818182,7450.4,5431.0,22,5988.818181818182
+293,2023-06-18,Sunday,Regular season,Los Angeles Sparks,Connecticut Sun,Los Angeles,6289,0,,,,los angeles,5957.347826086957,7054.4,5265.0,23,5957.347826086957
+296,2023-06-20,Tuesday,Regular season,Los Angeles Sparks,Minnesota Lynx,Los Angeles,4180,0,,,,los angeles,5971.166666666667,6233.0,6289.0,24,5971.166666666667
+303,2023-06-23,Friday,Regular season,Los Angeles Sparks,Dallas Wings,Los Angeles,5766,0,,,,los angeles,5899.52,5606.2,4180.0,25,5899.52
+308,2023-06-25,Sunday,Regular season,Los Angeles Sparks,Dallas Wings,Los Angeles,6380,0,,,,los angeles,5894.384615384615,5386.2,5766.0,26,5894.384615384615
+329,2023-07-05,Wednesday,Regular season,Los Angeles Sparks,Atlanta Dream,Los Angeles,5912,0,,,,los angeles,5912.37037037037,5576.0,6380.0,27,5912.37037037037
+347,2023-07-12,Wednesday,Regular season,Los Angeles Sparks,Las Vegas Aces,Los Angeles,8085,0,,,,los angeles,5912.357142857143,5705.4,5912.0,28,5912.357142857143
+367,2023-07-25,Tuesday,Regular season,Los Angeles Sparks,Indiana Fever,Los Angeles,5565,0,,,,los angeles,5987.275862068966,6064.6,8085.0,29,5987.275862068966
+369,2023-07-27,Thursday,Regular season,Los Angeles Sparks,Indiana Fever,Los Angeles,11970,0,,,,los angeles,5973.2,6341.6,5565.0,30,5973.2
+378,2023-07-30,Sunday,Regular season,Los Angeles Sparks,New York Liberty,Los Angeles,8139,0,,,,los angeles,6166.645161290323,7582.4,11970.0,31,6166.645161290323
+382,2023-08-01,Tuesday,Regular season,Los Angeles Sparks,New York Liberty,Los Angeles,6498,0,,,,los angeles,6228.28125,7934.2,8139.0,32,6228.28125
+404,2023-08-12,Saturday,Regular season,Los Angeles Sparks,Atlanta Dream,Los Angeles,7119,0,,,,los angeles,6236.454545454545,8051.4,6498.0,33,6236.454545454545
+425,2023-08-23,Wednesday,Regular season,Los Angeles Sparks,Phoenix Mercury,Los Angeles,3469,0,,,,los angeles,6262.411764705882,7858.2,7119.0,34,6262.411764705882
+440,2023-08-29,Tuesday,Regular season,Los Angeles Sparks,Chicago Sky,Los Angeles,6041,0,,,,los angeles,6182.6,7439.0,3469.0,35,6182.6
+443,2023-08-31,Thursday,Regular season,Los Angeles Sparks,Seattle Storm,Los Angeles,6101,0,,,,los angeles,6178.666666666667,6253.2,6041.0,36,6178.666666666667
+451,2023-09-03,Sunday,Regular season,Los Angeles Sparks,Washington Mystics,Los Angeles,4284,0,,,,los angeles,6176.5675675675675,5845.6,6101.0,37,6176.5675675675675
+514,2024-05-24,Friday,Regular season,Los Angeles Sparks,Indiana Fever,Los Angeles,19103,1,20.0,31.33333333333333,3.0,los angeles,6126.763157894737,5402.8,4284.0,38,6126.763157894737
+521,2024-05-26,Sunday,Regular season,Los Angeles Sparks,Dallas Wings,Los Angeles,10340,0,,,,los angeles,6459.48717948718,7799.6,19103.0,39,6459.48717948718
+543,2024-06-05,Wednesday,Regular season,Los Angeles Sparks,Minnesota Lynx,Los Angeles,8104,0,,,,los angeles,6556.5,9173.8,10340.0,40,6556.5
+548,2024-06-07,Friday,Regular season,Los Angeles Sparks,Dallas Wings,Los Angeles,10123,0,,,,los angeles,6594.243902439024,9586.4,8104.0,41,6594.243902439024
+555,2024-06-09,Sunday,Regular season,Los Angeles Sparks,Las Vegas Aces,Los Angeles,13900,0,,,,los angeles,6678.261904761905,10390.8,10123.0,42,6678.261904761905
+604,2024-07-02,Tuesday,Regular season,Los Angeles Sparks,Washington Mystics,Los Angeles,9164,0,,,,los angeles,6846.209302325581,12314.0,13900.0,43,6846.209302325581
+609,2024-07-05,Friday,Regular season,Los Angeles Sparks,Las Vegas Aces,Los Angeles,13840,0,,,,los angeles,6898.886363636364,10326.2,9164.0,44,6898.886363636364
+616,2024-07-07,Sunday,Regular season,Los Angeles Sparks,Phoenix Mercury,Los Angeles,11618,0,,,,los angeles,7053.133333333333,11026.2,13840.0,45,7053.133333333333
+617,2024-07-09,Tuesday,Regular season,Los Angeles Sparks,Minnesota Lynx,Los Angeles,9533,0,,,,los angeles,7152.369565217391,11729.0,11618.0,46,7152.369565217391
+634,2024-07-16,Tuesday,Regular season,Los Angeles Sparks,Seattle Storm,Los Angeles,18724,0,,,,los angeles,7203.021276595745,11611.0,9533.0,47,7203.021276595745
+641,2024-08-15,Thursday,Regular season,Los Angeles Sparks,New York Liberty,Los Angeles,11120,0,,,,los angeles,7443.041666666667,12575.8,18724.0,48,7443.041666666667
+647,2024-08-17,Saturday,Regular season,Los Angeles Sparks,Chicago Sky,Los Angeles,16551,0,,,,los angeles,7518.081632653061,12967.0,11120.0,49,7518.081632653061
+672,2024-08-28,Wednesday,Regular season,Los Angeles Sparks,New York Liberty,Los Angeles,10403,0,,,,los angeles,7698.74,13509.2,16551.0,50,7698.74
+683,2024-09-01,Sunday,Regular season,Los Angeles Sparks,Atlanta Dream,Los Angeles,11165,0,,,,los angeles,7751.764705882353,13266.2,10403.0,51,7751.764705882353
+701,2024-09-08,Sunday,Regular season,Los Angeles Sparks,Connecticut Sun,Los Angeles,10627,0,,,,los angeles,7817.403846153846,13592.6,11165.0,52,7817.403846153846
+704,2024-09-10,Tuesday,Regular season,Los Angeles Sparks,Connecticut Sun,Los Angeles,8253,0,,,,los angeles,7870.415094339623,11973.2,10627.0,53,7870.415094339623
+707,2024-09-11,Wednesday,Regular season,Los Angeles Sparks,Seattle Storm,Los Angeles,9561,0,,,,los angeles,7877.5,11399.8,8253.0,54,7877.5
+723,2024-09-17,Tuesday,Regular season,Los Angeles Sparks,Phoenix Mercury,Los Angeles,11294,0,,,,los angeles,7908.109090909091,10001.8,9561.0,55,7908.109090909091
+761,2025-05-18,Sunday,Regular season,Los Angeles Sparks,Minnesota Lynx,Los Angeles,11170,0,,,,los angeles,7968.571428571428,10180.0,11294.0,56,7968.571428571428
+772,2025-05-23,Friday,Regular season,Los Angeles Sparks,Golden State Valkyries,Los Angeles,10857,0,,,,los angeles,8024.736842105263,10181.0,11170.0,57,8024.736842105263
+777,2025-05-25,Sunday,Regular season,Los Angeles Sparks,Chicago Sky,Los Angeles,11422,0,,,,los angeles,8073.568965517241,10227.0,10857.0,58,8073.568965517241
+783,2025-05-27,Tuesday,Regular season,Los Angeles Sparks,Atlanta Dream,Los Angeles,10797,0,,,,los angeles,8130.322033898305,10860.8,11422.0,59,8130.322033898305
+795,2025-06-01,Sunday,Regular season,Los Angeles Sparks,Phoenix Mercury,Los Angeles,11033,0,,,,los angeles,8174.766666666666,11108.0,10797.0,60,8174.766666666666
+810,2025-06-09,Monday,Regular season,Los Angeles Sparks,Golden State Valkyries,Los Angeles,10921,0,,,,los angeles,8221.622950819672,11055.8,11033.0,61,8221.622950819672
+829,2025-06-17,Tuesday,Regular season,Los Angeles Sparks,Seattle Storm,Los Angeles,10581,0,,,,los angeles,8265.161290322581,11006.0,10921.0,62,8265.161290322581
+858,2025-06-29,Sunday,Regular season,Los Angeles Sparks,Chicago Sky,Los Angeles,13523,0,,,,los angeles,8301.920634920634,10950.8,10581.0,63,8301.920634920634
+880,2025-07-10,Thursday,Regular season,Los Angeles Sparks,Minnesota Lynx,Los Angeles,18199,0,,,,los angeles,8383.5,11371.0,13523.0,64,8383.5
+888,2025-07-13,Sunday,Regular season,Los Angeles Sparks,Connecticut Sun,Los Angeles,12184,0,,,,los angeles,8534.507692307692,12851.4,18199.0,65,8534.507692307692
+893,2025-07-15,Tuesday,Regular season,Los Angeles Sparks,Washington Mystics,Los Angeles,10787,0,,,,los angeles,8589.80303030303,13081.6,12184.0,66,8589.80303030303
+922,2025-07-29,Tuesday,Regular season,Los Angeles Sparks,Las Vegas Aces,Los Angeles,12449,0,,,,los angeles,8622.597014925374,13054.8,10787.0,67,8622.597014925374
+940,2025-08-05,Tuesday,Regular season,Los Angeles Sparks,Indiana Fever,Los Angeles,16035,0,,,,los angeles,8678.867647058823,13428.4,12449.0,68,8678.867647058823
+945,2025-08-07,Thursday,Regular season,Los Angeles Sparks,Connecticut Sun,Los Angeles,10780,0,,,,los angeles,8785.478260869566,13930.8,16035.0,69,8785.478260869566
+954,2025-08-10,Sunday,Regular season,Los Angeles Sparks,Seattle Storm,Los Angeles,11796,0,,,,los angeles,8813.971428571429,12447.0,10780.0,70,8813.971428571429
+959,2025-08-12,Tuesday,Regular season,Los Angeles Sparks,New York Liberty,Los Angeles,11862,0,,,,los angeles,8855.971830985916,12369.4,11796.0,71,8855.971830985916
+980,2025-08-20,Wednesday,Regular season,Los Angeles Sparks,Dallas Wings,Los Angeles,13598,0,,,,los angeles,8897.722222222223,12584.4,11862.0,72,8897.722222222223
+997,2025-08-26,Tuesday,Regular season,Los Angeles Sparks,Phoenix Mercury,Los Angeles,10726,0,,,,los angeles,8962.109589041096,12814.2,13598.0,73,8962.109589041096
+1004,2025-08-29,Friday,Regular season,Los Angeles Sparks,Indiana Fever,Los Angeles,15419,0,,,,los angeles,8985.945945945947,11752.4,10726.0,74,8985.945945945947
+1009,2025-08-31,Sunday,Regular season,Los Angeles Sparks,Washington Mystics,Los Angeles,12218,0,,,,los angeles,9071.72,12680.2,15419.0,75,9071.72
+1027,2025-09-07,Sunday,Regular season,Los Angeles Sparks,Dallas Wings,Los Angeles,13868,0,,,,los angeles,9113.118421052632,12764.6,12218.0,76,9113.118421052632
+1039,2025-09-11,Thursday,Regular season,Los Angeles Sparks,Las Vegas Aces,Los Angeles,13484,0,,,,los angeles,9174.87012987013,13165.8,13868.0,77,9174.87012987013
+9,2022-05-19,Saturday,Regular season,Minnesota Lynx,Chicago Sky,Minneapolis,6503,0,,,,minneapolis,9230.115384615385,,,0,9230.115384615385
+31,2022-06-10,Tuesday,Regular season,Minnesota Lynx,New York Liberty,Minneapolis,6104,0,,,,minneapolis,6503.0,6503.0,6503.0,1,6503.0
+40,2022-06-19,Sunday,Regular season,Minnesota Lynx,Los Angeles Sparks,Minneapolis,7234,0,,,,minneapolis,6303.5,6303.5,6104.0,2,6303.5
+65,2022-07-14,Friday,Regular season,Minnesota Lynx,Washington Mystics,Minneapolis,6315,0,,,,minneapolis,6613.666666666667,6613.666666666667,7234.0,3,6613.666666666667
+71,2022-07-20,Sunday,Regular season,Minnesota Lynx,Indiana Fever,Minneapolis,6806,0,,,,minneapolis,6539.0,6539.0,6315.0,4,6539.0
+73,2022-07-22,Tuesday,Regular season,Minnesota Lynx,Seattle Storm,Minneapolis,6031,0,,,,minneapolis,6592.4,6592.4,6806.0,5,6592.4
+92,2022-08-10,Thursday,Regular season,Minnesota Lynx,Phoenix Mercury,Minneapolis,8004,0,,,,minneapolis,6498.833333333333,6498.0,6031.0,6,6498.833333333333
+104,2022-08-22,Tuesday,Regular season,Minnesota Lynx,Dallas Wings,Minneapolis,5603,0,,,,minneapolis,6713.857142857143,6878.0,8004.0,7,6713.857142857143
+110,2022-08-28,Friday,Regular season,Minnesota Lynx,Las Vegas Aces,Minneapolis,6104,0,,,,minneapolis,6575.0,6551.8,5603.0,8,6575.0
+115,2022-09-02,Sunday,Regular season,Minnesota Lynx,Las Vegas Aces,Minneapolis,7603,0,,,,minneapolis,6522.666666666667,6509.6,6104.0,9,6522.666666666667
+120,2022-09-07,Wednesday,Regular season,Minnesota Lynx,Chicago Sky,Minneapolis,11103,0,,,,minneapolis,6630.7,6669.0,7603.0,10,6630.7
+129,2022-09-16,Tuesday,Regular season,Minnesota Lynx,Phoenix Mercury,Minneapolis,6503,0,,,,minneapolis,7037.272727272727,7683.4,11103.0,11,7037.272727272727
+133,2022-09-20,Thursday,Regular season,Minnesota Lynx,Dallas Wings,Minneapolis,4834,0,,,,minneapolis,6992.75,7383.2,6503.0,12,6992.75
+150,2022-10-07,Friday,Regular season,Minnesota Lynx,Connecticut Sun,Minneapolis,8321,0,,,,minneapolis,6826.692307692308,7229.4,4834.0,13,6826.692307692308
+157,2022-10-14,Sunday,Regular season,Minnesota Lynx,Connecticut Sun,Minneapolis,7231,0,,,,minneapolis,6933.428571428572,7672.8,8321.0,14,6933.428571428572
+187,2022-11-13,Sunday,Regular season,Minnesota Lynx,Atlanta Dream,Minneapolis,9421,0,,,,minneapolis,6953.266666666666,7598.4,7231.0,15,6953.266666666666
+198,2022-11-24,Friday,Regular season,Minnesota Lynx,Seattle Storm,Minneapolis,12134,0,,,,minneapolis,7107.5,7262.0,9421.0,16,7107.5
+232,2022-12-28,Friday,Regular season,Minnesota Lynx,Chicago Sky,Minneapolis,8024,0,,,,minneapolis,7403.176470588235,8388.2,12134.0,17,7403.176470588235
+240,2023-01-05,Tuesday,Regular season,Minnesota Lynx,Atlanta Dream,Minneapolis,7803,0,,,,minneapolis,7437.666666666667,9026.2,8024.0,18,7437.666666666667
+254,2023-01-19,Thursday,Regular season,Minnesota Lynx,Connecticut Sun,Minneapolis,8124,0,,,,minneapolis,7456.894736842105,8922.6,7803.0,19,7456.894736842105
+271,2023-06-09,Friday,Regular season,Minnesota Lynx,Indiana Fever,Minneapolis,8510,0,,,,minneapolis,7490.25,9101.2,8124.0,20,7490.25
+279,2023-06-11,Sunday,Regular season,Minnesota Lynx,Los Angeles Sparks,Minneapolis,8025,0,,,,minneapolis,7538.809523809524,8919.0,8510.0,21,7538.809523809524
+300,2023-06-22,Thursday,Regular season,Minnesota Lynx,Connecticut Sun,Minneapolis,7024,0,,,,minneapolis,7560.909090909091,8097.2,8025.0,22,7560.909090909091
+311,2023-06-27,Tuesday,Regular season,Minnesota Lynx,Seattle Storm,Minneapolis,7014,0,,,,minneapolis,7537.565217391304,7897.2,7024.0,23,7537.565217391304
+327,2023-07-05,Wednesday,Regular season,Minnesota Lynx,Indiana Fever,Minneapolis,7624,0,,,,minneapolis,7515.75,7739.4,7014.0,24,7515.75
+334,2023-07-07,Friday,Regular season,Minnesota Lynx,Phoenix Mercury,Minneapolis,7714,0,,,,minneapolis,7520.08,7639.4,7624.0,25,7520.08
+339,2023-07-09,Sunday,Regular season,Minnesota Lynx,Las Vegas Aces,Minneapolis,7701,0,,,,minneapolis,7527.538461538462,7480.2,7714.0,26,7527.538461538462
+345,2023-07-12,Wednesday,Regular season,Minnesota Lynx,Dallas Wings,Minneapolis,13531,0,,,,minneapolis,7533.962962962963,7415.4,7701.0,27,7533.962962962963
+353,2023-07-20,Thursday,Regular season,Minnesota Lynx,Los Angeles Sparks,Minneapolis,7014,0,,,,minneapolis,7748.142857142857,8716.8,13531.0,28,7748.142857142857
+360,2023-07-22,Saturday,Regular season,Minnesota Lynx,Las Vegas Aces,Minneapolis,7801,0,,,,minneapolis,7722.827586206897,8716.8,7014.0,29,7722.827586206897
+368,2023-07-26,Wednesday,Regular season,Minnesota Lynx,Washington Mystics,Minneapolis,7024,0,,,,minneapolis,7725.433333333333,8752.2,7801.0,30,7725.433333333333
+388,2023-08-04,Friday,Regular season,Minnesota Lynx,New York Liberty,Minneapolis,7631,0,,,,minneapolis,7702.806451612903,8614.2,7024.0,31,7702.806451612903
+420,2023-08-20,Sunday,Regular season,Minnesota Lynx,Seattle Storm,Minneapolis,6525,0,,,,minneapolis,7700.5625,8600.2,7631.0,32,7700.5625
+424,2023-08-22,Tuesday,Regular season,Minnesota Lynx,Dallas Wings,Minneapolis,6921,0,,,,minneapolis,7664.939393939394,7199.0,6525.0,33,7664.939393939394
+432,2023-08-26,Saturday,Regular season,Minnesota Lynx,New York Liberty,Minneapolis,7101,0,,,,minneapolis,7643.058823529412,7180.4,6921.0,34,7643.058823529412
+446,2023-09-01,Friday,Regular season,Minnesota Lynx,Atlanta Dream,Minneapolis,7114,0,,,,minneapolis,7627.571428571428,7040.4,7101.0,35,7627.571428571428
+450,2023-09-03,Sunday,Regular season,Minnesota Lynx,Phoenix Mercury,Minneapolis,7314,0,,,,minneapolis,7613.305555555556,7058.4,7114.0,36,7613.305555555556
+479,2023-09-20,Wednesday,First Round,Minnesota Lynx,Connecticut Sun,Minneapolis,8724,0,,,,minneapolis,7605.216216216216,6995.0,7314.0,37,7605.216216216216
+499,2024-05-17,Friday,Regular season,Minnesota Lynx,Seattle Storm,Minneapolis,7208,0,,,,minneapolis,7634.6578947368425,7434.8,8724.0,38,7634.6578947368425
+515,2024-05-25,Saturday,Regular season,Minnesota Lynx,New York Liberty,Minneapolis,7010,0,,,,minneapolis,7623.717948717948,7492.2,7208.0,39,7623.717948717948
+527,2024-05-29,Wednesday,Regular season,Minnesota Lynx,Las Vegas Aces,Minneapolis,7409,0,,,,minneapolis,7608.375,7474.0,7010.0,40,7608.375
+533,2024-05-31,Friday,Regular season,Minnesota Lynx,Phoenix Mercury,Minneapolis,7035,0,,,,minneapolis,7603.512195121952,7533.0,7409.0,41,7603.512195121952
+537,2024-06-02,Sunday,Regular season,Minnesota Lynx,Dallas Wings,Minneapolis,7024,0,,,,minneapolis,7589.976190476191,7477.2,7035.0,42,7589.976190476191
+554,2024-06-09,Sunday,Regular season,Minnesota Lynx,Seattle Storm,Minneapolis,7121,0,,,,minneapolis,7576.813953488372,7137.2,7024.0,43,7576.813953488372
+565,2024-06-14,Friday,Regular season,Minnesota Lynx,Los Angeles Sparks,Minneapolis,8117,0,,,,minneapolis,7566.454545454545,7119.8,7121.0,44,7566.454545454545
+571,2024-06-17,Monday,Regular season,Minnesota Lynx,Dallas Wings,Minneapolis,8314,0,,,,minneapolis,7578.688888888889,7341.2,8117.0,45,7578.688888888889
+575,2024-06-19,Wednesday,Regular season,Minnesota Lynx,Atlanta Dream,Minneapolis,8206,0,,,,minneapolis,7594.673913043478,7522.2,8314.0,46,7594.673913043478
+583,2024-06-22,Saturday,Regular season,Minnesota Lynx,Phoenix Mercury,Minneapolis,8769,0,,,,minneapolis,7607.68085106383,7756.4,8206.0,47,7607.68085106383
+606,2024-07-04,Thursday,Regular season,Minnesota Lynx,Connecticut Sun,Minneapolis,7508,0,,,,minneapolis,7631.875,8105.4,8769.0,48,7631.875
+612,2024-07-06,Saturday,Regular season,Minnesota Lynx,Washington Mystics,Minneapolis,7610,0,,,,minneapolis,7629.34693877551,8182.8,7508.0,49,7629.34693877551
+632,2024-07-14,Sunday,Regular season,Minnesota Lynx,Indiana Fever,Minneapolis,18978,1,22.666666666666668,38.0,3.333333333333333,minneapolis,7628.96,8081.4,7610.0,50,7628.96
+637,2024-07-17,Wednesday,Regular season,Minnesota Lynx,Atlanta Dream,Minneapolis,15013,0,,,,minneapolis,7851.490196078431,10214.2,18978.0,51,7851.490196078431
+640,2024-08-15,Thursday,Regular season,Minnesota Lynx,Washington Mystics,Minneapolis,7224,0,,,,minneapolis,7989.211538461538,11575.6,15013.0,52,7989.211538461538
+661,2024-08-23,Friday,Regular season,Minnesota Lynx,Las Vegas Aces,Minneapolis,9124,0,,,,minneapolis,7974.773584905661,11266.6,7224.0,53,7974.773584905661
+663,2024-08-24,Saturday,Regular season,Minnesota Lynx,Indiana Fever,Minneapolis,19023,1,18.666666666666668,32.666666666666664,2.333333333333333,minneapolis,7996.055555555556,11589.8,9124.0,54,7996.055555555556
+681,2024-09-01,Sunday,Regular season,Minnesota Lynx,Chicago Sky,Minneapolis,8421,0,,,,minneapolis,8196.545454545454,13872.4,19023.0,55,8196.545454545454
+712,2024-09-13,Friday,Regular season,Minnesota Lynx,Chicago Sky,Minneapolis,8810,0,,,,minneapolis,8200.55357142857,11761.0,8421.0,56,8200.55357142857
+728,2024-09-19,Thursday,Regular season,Minnesota Lynx,Los Angeles Sparks,Minneapolis,7908,0,,,,minneapolis,8211.245614035088,10520.4,8810.0,57,8211.245614035088
+733,2024-09-22,Sunday,First Round,Minnesota Lynx,Phoenix Mercury,Minneapolis,8524,0,,,,minneapolis,8206.01724137931,10657.2,7908.0,58,8206.01724137931
+738,2024-09-25,Wednesday,First Round,Minnesota Lynx,Phoenix Mercury,Minneapolis,8769,0,,,,minneapolis,8211.406779661016,10537.2,8524.0,59,8211.406779661016
+741,2024-09-29,Sunday,Semifinals,Minnesota Lynx,Connecticut Sun,Minneapolis,8506,0,,,,minneapolis,8220.7,8486.4,8769.0,60,8220.7
+745,2024-10-01,Tuesday,Semifinals,Minnesota Lynx,Connecticut Sun,Minneapolis,8796,0,,,,minneapolis,8225.377049180328,8503.4,8506.0,61,8225.377049180328
+748,2024-10-08,Tuesday,Semifinals,Minnesota Lynx,Connecticut Sun,Minneapolis,8769,0,,,,minneapolis,8234.58064516129,8500.6,8796.0,62,8234.58064516129
+751,2024-10-16,Wednesday,Finals,Minnesota Lynx,New York Liberty,Minneapolis,19521,0,,,,minneapolis,8243.063492063493,8672.8,8769.0,63,8243.063492063493
+752,2024-10-18,Friday,Finals,Minnesota Lynx,New York Liberty,Minneapolis,19210,0,,,,minneapolis,8419.28125,10872.2,19521.0,64,8419.28125
+765,2025-05-21,Wednesday,Regular season,Minnesota Lynx,Dallas Wings,Minneapolis,12772,0,,,,minneapolis,8585.292307692307,12960.4,19210.0,65,8585.292307692307
+770,2025-05-23,Friday,Regular season,Minnesota Lynx,Connecticut Sun,Minneapolis,8224,0,,,,minneapolis,8648.727272727272,13813.6,12772.0,66,8648.727272727272
+782,2025-05-27,Tuesday,Regular season,Minnesota Lynx,Seattle Storm,Minneapolis,7808,0,,,,minneapolis,8642.388059701492,13699.2,8224.0,67,8642.388059701492
+799,2025-06-03,Tuesday,Regular season,Minnesota Lynx,Phoenix Mercury,Minneapolis,8772,0,,,,minneapolis,8630.117647058823,13507.0,7808.0,68,8630.117647058823
+818,2025-06-14,Saturday,Regular season,Minnesota Lynx,Los Angeles Sparks,Minneapolis,10810,0,,,,minneapolis,8632.173913043478,11357.2,8772.0,69,8632.173913043478
+828,2025-06-17,Tuesday,Regular season,Minnesota Lynx,Las Vegas Aces,Minneapolis,8802,0,,,,minneapolis,8663.285714285714,9677.2,10810.0,70,8663.285714285714
+837,2025-06-21,Saturday,Regular season,Minnesota Lynx,Los Angeles Sparks,Minneapolis,8777,0,,,,minneapolis,8665.239436619719,8883.2,8802.0,71,8665.239436619719
+860,2025-06-29,Sunday,Regular season,Minnesota Lynx,Connecticut Sun,Minneapolis,8821,0,,,,minneapolis,8666.791666666666,8993.8,8777.0,72,8666.791666666666
+866,2025-07-03,Thursday,Regular season,Minnesota Lynx,Washington Mystics,Minneapolis,8824,0,,,,minneapolis,8668.90410958904,9196.4,8821.0,73,8668.90410958904
+868,2025-07-05,Saturday,Regular season,Minnesota Lynx,Golden State Valkyries,Minneapolis,8771,0,,,,minneapolis,8671.0,9206.8,8824.0,74,8671.0
+871,2025-07-06,Sunday,Regular season,Minnesota Lynx,Chicago Sky,Minneapolis,8810,0,,,,minneapolis,8672.333333333334,8799.0,8771.0,75,8672.333333333334
+895,2025-07-16,Wednesday,Regular season,Minnesota Lynx,Phoenix Mercury,Minneapolis,16421,0,,,,minneapolis,8674.144736842105,8800.6,8810.0,76,8674.144736842105
+901,2025-07-22,Tuesday,Regular season,Minnesota Lynx,Chicago Sky,Minneapolis,8821,0,,,,minneapolis,8774.753246753247,10329.4,16421.0,77,8774.753246753247
+909,2025-07-25,Friday,Regular season,Minnesota Lynx,Las Vegas Aces,Minneapolis,8810,0,,,,minneapolis,8775.346153846154,10329.4,8821.0,78,8775.346153846154
+917,2025-07-27,Sunday,Regular season,Minnesota Lynx,Atlanta Dream,Minneapolis,8788,0,,,,minneapolis,8775.784810126583,10326.6,8810.0,79,8775.784810126583
+925,2025-07-30,Wednesday,Regular season,Minnesota Lynx,New York Liberty,Minneapolis,10824,0,,,,minneapolis,8775.9375,10330.0,8788.0,80,8775.9375
+948,2025-08-08,Friday,Regular season,Minnesota Lynx,Washington Mystics,Minneapolis,8821,0,,,,minneapolis,8801.222222222223,10732.8,10824.0,81,8801.222222222223
+969,2025-08-16,Saturday,Regular season,Minnesota Lynx,New York Liberty,Minneapolis,10810,0,,,,minneapolis,8801.463414634147,9212.8,8821.0,82,8801.463414634147
+993,2025-08-24,Sunday,Regular season,Minnesota Lynx,Indiana Fever,Minneapolis,15124,0,,,,minneapolis,8825.66265060241,9610.6,10810.0,83,8825.66265060241
+1001,2025-08-28,Thursday,Regular season,Minnesota Lynx,Seattle Storm,Minneapolis,9810,0,,,,minneapolis,8900.642857142857,10873.4,15124.0,84,8900.642857142857
+1012,2025-09-01,Monday,Regular season,Minnesota Lynx,Dallas Wings,Minneapolis,10824,0,,,,minneapolis,8911.341176470589,11077.8,9810.0,85,8911.341176470589
+1038,2025-09-11,Thursday,Regular season,Minnesota Lynx,Golden State Valkyries,Minneapolis,8824,0,,,,minneapolis,8933.581395348838,11077.8,10824.0,86,8933.581395348838
+1041,2025-09-14,Sunday,First Round,Minnesota Lynx,Golden State Valkyries,Minneapolis,8821,0,,,,minneapolis,8932.32183908046,11078.4,8824.0,87,8932.32183908046
+3,2022-05-13,Wednesday,Regular season,Phoenix Mercury,Seattle Storm,Phoenix,6098,0,,,,phoenix,8931.056818181818,,,0,8931.056818181818
+19,2022-05-29,Thursday,Regular season,Phoenix Mercury,Dallas Wings,Phoenix,6151,0,,,,phoenix,6098.0,6098.0,6098.0,1,6098.0
+50,2022-06-29,Friday,Regular season,Phoenix Mercury,Connecticut Sun,Phoenix,7180,0,,,,phoenix,6124.5,6124.5,6151.0,2,6124.5
+56,2022-07-05,Sunday,Regular season,Phoenix Mercury,Los Angeles Sparks,Phoenix,10151,0,,,,phoenix,6476.333333333333,6476.333333333333,7180.0,3,6476.333333333333
+66,2022-07-15,Friday,Regular season,Phoenix Mercury,Atlanta Dream,Phoenix,7650,0,,,,phoenix,7395.0,7395.0,10151.0,4,7395.0
+88,2022-08-06,Tuesday,Regular season,Phoenix Mercury,Minnesota Lynx,Phoenix,6394,0,,,,phoenix,7446.0,7446.0,7650.0,5,7446.0
+101,2022-08-19,Monday,Regular season,Phoenix Mercury,Indiana Fever,Phoenix,5044,0,,,,phoenix,7270.666666666667,7505.2,6394.0,6,7270.666666666667
+106,2022-08-24,Wednesday,Regular season,Phoenix Mercury,Indiana Fever,Phoenix,5833,0,,,,phoenix,6952.571428571428,7283.8,5044.0,7,6952.571428571428
+124,2022-09-11,Thursday,Regular season,Phoenix Mercury,New York Liberty,Phoenix,6158,0,,,,phoenix,6812.625,7014.4,5833.0,8,6812.625
+134,2022-09-21,Thursday,Regular season,Phoenix Mercury,Washington Mystics,Phoenix,5994,0,,,,phoenix,6739.888888888889,6215.8,6158.0,9,6739.888888888889
+141,2022-09-28,Sunday,Regular season,Phoenix Mercury,Atlanta Dream,Phoenix,7963,0,,,,phoenix,6665.3,5884.6,5994.0,10,6665.3
+152,2022-10-09,Friday,Regular season,Phoenix Mercury,Seattle Storm,Phoenix,14162,0,,,,phoenix,6783.272727272727,6198.4,7963.0,11,6783.272727272727
+161,2022-10-18,Thursday,Regular season,Phoenix Mercury,Los Angeles Sparks,Phoenix,8124,0,,,,phoenix,7398.166666666667,8022.0,14162.0,12,7398.166666666667
+183,2022-11-09,Saturday,Regular season,Phoenix Mercury,New York Liberty,Phoenix,11724,0,,,,phoenix,7454.0,8480.2,8124.0,13,7454.0
+193,2022-11-19,Wednesday,Regular season,Phoenix Mercury,Minnesota Lynx,Phoenix,7307,0,,,,phoenix,7759.0,9593.4,11724.0,14,7759.0
+199,2022-11-25,Friday,Regular season,Phoenix Mercury,Dallas Wings,Phoenix,8047,0,,,,phoenix,7728.866666666667,9856.0,7307.0,15,7728.866666666667
+203,2022-11-29,Sunday,Regular season,Phoenix Mercury,Chicago Sky,Phoenix,12383,0,,,,phoenix,7748.75,9872.8,8047.0,16,7748.75
+238,2023-01-03,Sunday,Regular season,Phoenix Mercury,Chicago Sky,Phoenix,14040,0,,,,phoenix,8021.35294117647,9517.0,12383.0,17,8021.35294117647
+242,2023-01-07,Thursday,Regular season,Phoenix Mercury,Minnesota Lynx,Phoenix,6057,0,,,,phoenix,8355.722222222223,10700.2,14040.0,18,8355.722222222223
+258,2023-06-02,Friday,Regular season,Phoenix Mercury,Los Angeles Sparks,Phoenix,8815,0,,,,phoenix,8234.736842105263,9566.8,6057.0,19,8234.736842105263
+282,2023-06-13,Tuesday,Regular season,Phoenix Mercury,Seattle Storm,Phoenix,7044,0,,,,phoenix,8263.75,9868.4,8815.0,20,8263.75
+298,2023-06-21,Wednesday,Regular season,Phoenix Mercury,Las Vegas Aces,Phoenix,11580,0,,,,phoenix,8205.666666666666,9667.8,7044.0,21,8205.666666666666
+312,2023-06-27,Tuesday,Regular season,Phoenix Mercury,Dallas Wings,Phoenix,5652,0,,,,phoenix,8359.045454545454,9507.2,11580.0,22,8359.045454545454
+316,2023-06-29,Thursday,Regular season,Phoenix Mercury,Indiana Fever,Phoenix,9047,0,,,,phoenix,8241.347826086956,7829.6,5652.0,23,8241.347826086956
+321,2023-07-01,Saturday,Regular season,Phoenix Mercury,Minnesota Lynx,Phoenix,8777,0,,,,phoenix,8274.916666666666,8427.6,9047.0,24,8274.916666666666
+338,2023-07-09,Sunday,Regular season,Phoenix Mercury,Los Angeles Sparks,Phoenix,9206,0,,,,phoenix,8295.0,8420.0,8777.0,25,8295.0
+349,2023-07-18,Tuesday,Regular season,Phoenix Mercury,Connecticut Sun,Phoenix,7788,0,,,,phoenix,8330.038461538461,8852.4,9206.0,26,8330.038461538461
+354,2023-07-20,Thursday,Regular season,Phoenix Mercury,Chicago Sky,Phoenix,11292,0,,,,phoenix,8309.962962962964,8094.0,7788.0,27,8309.962962962964
+384,2023-08-03,Thursday,Regular season,Phoenix Mercury,Atlanta Dream,Phoenix,7564,0,,,,phoenix,8416.464285714286,9222.0,11292.0,28,8416.464285714286
+389,2023-08-05,Saturday,Regular season,Phoenix Mercury,Seattle Storm,Phoenix,9411,0,,,,phoenix,8387.068965517241,8925.4,7564.0,29,8387.068965517241
+398,2023-08-08,Tuesday,Regular season,Phoenix Mercury,Washington Mystics,Phoenix,6610,0,,,,phoenix,8421.2,9052.2,9411.0,30,8421.2
+400,2023-08-10,Thursday,Regular season,Phoenix Mercury,Connecticut Sun,Phoenix,7186,0,,,,phoenix,8362.774193548386,8533.0,6610.0,31,8362.774193548386
+414,2023-08-18,Friday,Regular season,Phoenix Mercury,New York Liberty,Phoenix,9652,0,,,,phoenix,8326.0,8412.6,7186.0,32,8326.0
+419,2023-08-20,Sunday,Regular season,Phoenix Mercury,Indiana Fever,Phoenix,11807,0,,,,phoenix,8366.181818181818,8084.6,9652.0,33,8366.181818181818
+435,2023-08-27,Sunday,Regular season,Phoenix Mercury,Dallas Wings,Phoenix,12163,0,,,,phoenix,8467.382352941177,8933.2,11807.0,34,8467.382352941177
+455,2023-09-05,Tuesday,Regular season,Phoenix Mercury,Washington Mystics,Phoenix,7038,0,,,,phoenix,8572.971428571429,9483.6,12163.0,35,8572.971428571429
+462,2023-09-08,Friday,Regular season,Phoenix Mercury,Las Vegas Aces,Phoenix,13206,0,,,,phoenix,8530.333333333334,9569.2,7038.0,36,8530.333333333334
+503,2024-05-18,Saturday,Regular season,Phoenix Mercury,Atlanta Dream,Phoenix,10251,0,,,,phoenix,8656.702702702703,10773.2,13206.0,37,8656.702702702703
+513,2024-05-23,Thursday,Regular season,Phoenix Mercury,Washington Mystics,Phoenix,7474,0,,,,phoenix,8698.657894736842,10893.0,10251.0,38,8698.657894736842
+519,2024-05-25,Saturday,Regular season,Phoenix Mercury,Dallas Wings,Phoenix,8339,0,,,,phoenix,8667.25641025641,10026.4,7474.0,39,8667.25641025641
+538,2024-06-02,Sunday,Regular season,Phoenix Mercury,Los Angeles Sparks,Phoenix,10207,0,,,,phoenix,8659.05,9261.6,8339.0,40,8659.05
+549,2024-06-07,Friday,Regular season,Phoenix Mercury,Minnesota Lynx,Phoenix,9052,0,,,,phoenix,8696.80487804878,9895.4,10207.0,41,8696.80487804878
+563,2024-06-13,Thursday,Regular season,Phoenix Mercury,Las Vegas Aces,Phoenix,9325,0,,,,phoenix,8705.261904761905,9064.6,9052.0,42,8705.261904761905
+568,2024-06-16,Sunday,Regular season,Phoenix Mercury,Seattle Storm,Phoenix,9444,0,,,,phoenix,8719.67441860465,8879.4,9325.0,43,8719.67441860465
+573,2024-06-18,Tuesday,Regular season,Phoenix Mercury,New York Liberty,Phoenix,9824,0,,,,phoenix,8736.136363636364,9273.4,9444.0,44,8736.136363636364
+593,2024-06-28,Friday,Regular season,Phoenix Mercury,Los Angeles Sparks,Phoenix,14363,0,,,,phoenix,8760.31111111111,9570.4,9824.0,45,8760.31111111111
+598,2024-06-30,Sunday,Regular season,Phoenix Mercury,Indiana Fever,Phoenix,17071,1,16.0,37.66666666666666,4.0,phoenix,8882.108695652174,10401.6,14363.0,46,8882.108695652174
+599,2024-07-01,Monday,Regular season,Phoenix Mercury,Connecticut Sun,Phoenix,8445,0,,,,phoenix,9056.340425531915,12005.4,17071.0,47,9056.340425531915
+622,2024-07-10,Wednesday,Regular season,Phoenix Mercury,Dallas Wings,Phoenix,11601,0,,,,phoenix,9043.604166666666,11829.4,8445.0,48,9043.604166666666
+731,2024-07-20,Saturday,All star,Team WNBA,USAB Women's National Team,Phoenix,16407,1,20.33333333333333,38.333333333333336,2.0,phoenix,9095.795918367347,12260.8,11601.0,49,9095.795918367347
+651,2024-08-18,Sunday,Regular season,Phoenix Mercury,Chicago Sky,Phoenix,14267,0,,,,phoenix,9242.02,13577.4,16407.0,50,9242.02
+667,2024-08-26,Monday,Regular season,Phoenix Mercury,New York Liberty,Phoenix,10299,0,,,,phoenix,9340.549019607843,13558.2,14267.0,51,9340.549019607843
+673,2024-08-28,Wednesday,Regular season,Phoenix Mercury,Minnesota Lynx,Phoenix,9482,0,,,,phoenix,9358.98076923077,12203.8,10299.0,52,9358.98076923077
+684,2024-09-01,Sunday,Regular season,Phoenix Mercury,Las Vegas Aces,Phoenix,13981,0,,,,phoenix,9361.301886792453,12411.2,9482.0,53,9361.301886792453
+688,2024-09-03,Tuesday,Regular season,Phoenix Mercury,Atlanta Dream,Phoenix,7639,0,,,,phoenix,9446.851851851852,12887.2,13981.0,54,9446.851851851852
+691,2024-09-05,Thursday,Regular season,Phoenix Mercury,Washington Mystics,Phoenix,7709,0,,,,phoenix,9413.981818181817,11133.6,7639.0,55,9413.981818181817
+713,2024-09-13,Friday,Regular season,Phoenix Mercury,Connecticut Sun,Phoenix,14190,0,,,,phoenix,9383.535714285714,9822.0,7709.0,56,9383.535714285714
+730,2024-09-19,Thursday,Regular season,Phoenix Mercury,Seattle Storm,Phoenix,11333,0,,,,phoenix,9467.859649122807,10600.2,14190.0,57,9467.859649122807
+759,2025-05-17,Saturday,Regular season,Phoenix Mercury,Seattle Storm,Phoenix,10623,0,,,,phoenix,9500.01724137931,10970.4,11333.0,58,9500.01724137931
+767,2025-05-21,Wednesday,Regular season,Phoenix Mercury,Los Angeles Sparks,Phoenix,8024,0,,,,phoenix,9519.050847457627,10298.8,10623.0,59,9519.050847457627
+778,2025-05-25,Sunday,Regular season,Phoenix Mercury,Washington Mystics,Phoenix,10065,0,,,,phoenix,9494.133333333333,10375.8,8024.0,60,9494.133333333333
+784,2025-05-27,Tuesday,Regular season,Phoenix Mercury,Chicago Sky,Phoenix,8818,0,,,,phoenix,9503.491803278688,10847.0,10065.0,61,9503.491803278688
+791,2025-05-30,Friday,Regular season,Phoenix Mercury,Minnesota Lynx,Phoenix,9043,0,,,,phoenix,9492.435483870968,9772.6,8818.0,62,9492.435483870968
+802,2025-06-05,Thursday,Regular season,Phoenix Mercury,Golden State Valkyries,Phoenix,9943,0,,,,phoenix,9485.301587301587,9314.6,9043.0,63,9485.301587301587
+807,2025-06-07,Saturday,Regular season,Phoenix Mercury,Seattle Storm,Phoenix,9876,0,,,,phoenix,9492.453125,9178.6,9943.0,64,9492.453125
+814,2025-06-11,Wednesday,Regular season,Phoenix Mercury,Dallas Wings,Phoenix,13001,0,,,,phoenix,9498.353846153846,9549.0,9876.0,65,9498.353846153846
+854,2025-06-27,Friday,Regular season,Phoenix Mercury,New York Liberty,Phoenix,12009,0,,,,phoenix,9551.424242424242,10136.2,13001.0,66,9551.424242424242
+859,2025-06-29,Sunday,Regular season,Phoenix Mercury,Las Vegas Aces,Phoenix,13247,0,,,,phoenix,9588.10447761194,10774.4,12009.0,67,9588.10447761194
+873,2025-07-07,Monday,Regular season,Phoenix Mercury,Dallas Wings,Phoenix,11932,0,,,,phoenix,9641.911764705883,11615.2,13247.0,68,9641.911764705883
+878,2025-07-09,Wednesday,Regular season,Phoenix Mercury,Minnesota Lynx,Phoenix,10083,0,,,,phoenix,9675.101449275362,12013.0,11932.0,69,9675.101449275362
+904,2025-07-23,Wednesday,Regular season,Phoenix Mercury,Atlanta Dream,Phoenix,11850,0,,,,phoenix,9680.92857142857,12054.4,10083.0,70,9680.92857142857
+941,2025-08-05,Tuesday,Regular season,Phoenix Mercury,Connecticut Sun,Phoenix,8083,0,,,,phoenix,9711.478873239437,11824.2,11850.0,71,9711.478873239437
+946,2025-08-07,Thursday,Regular season,Phoenix Mercury,Indiana Fever,Phoenix,17071,0,,,,phoenix,9688.861111111111,11039.0,8083.0,72,9688.861111111111
+955,2025-08-10,Sunday,Regular season,Phoenix Mercury,Atlanta Dream,Phoenix,13953,0,,,,phoenix,9789.986301369863,11803.8,17071.0,73,9789.986301369863
+968,2025-08-15,Friday,Regular season,Phoenix Mercury,Las Vegas Aces,Phoenix,10850,0,,,,phoenix,9846.243243243243,12208.0,13953.0,74,9846.243243243243
+987,2025-08-22,Friday,Regular season,Phoenix Mercury,Golden State Valkyries,Phoenix,10280,0,,,,phoenix,9859.626666666667,12361.4,10850.0,75,9859.626666666667
+1002,2025-08-28,Thursday,Regular season,Phoenix Mercury,Chicago Sky,Phoenix,10445,0,,,,phoenix,9865.157894736842,12047.4,10280.0,76,9865.157894736842
+1008,2025-08-30,Saturday,Regular season,Phoenix Mercury,New York Liberty,Phoenix,13252,0,,,,phoenix,9872.688311688311,12519.8,10445.0,77,9872.688311688311
+1015,2025-09-02,Tuesday,Regular season,Phoenix Mercury,Indiana Fever,Phoenix,13132,0,,,,phoenix,9916.01282051282,11756.0,13252.0,78,9916.01282051282
+1033,2025-09-09,Tuesday,Regular season,Phoenix Mercury,Los Angeles Sparks,Phoenix,13151,0,,,,phoenix,9956.721518987342,11591.8,13132.0,79,9956.721518987342
+1044,2025-09-14,Sunday,First Round,Phoenix Mercury,New York Liberty,Phoenix,10095,0,,,,phoenix,9996.65,12052.0,13151.0,80,9996.65
+756,2025-05-16,Friday,Regular season,Golden State Valkyries,Los Angeles Sparks,San Francisco,18064,0,,,,san francisco,9997.864197530864,,,0,9997.864197530864
+766,2025-05-21,Wednesday,Regular season,Golden State Valkyries,Washington Mystics,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,1,18064.0
+797,2025-06-01,Sunday,Regular season,Golden State Valkyries,Minnesota Lynx,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,2,18064.0
+805,2025-06-07,Saturday,Regular season,Golden State Valkyries,Las Vegas Aces,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,3,18064.0
+820,2025-06-14,Saturday,Regular season,Golden State Valkyries,Seattle Storm,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,4,18064.0
+832,2025-06-19,Thursday,Regular season,Golden State Valkyries,Indiana Fever,San Francisco,18064,1,23.33333333333333,32.666666666666664,4.333333333333333,san francisco,18064.0,18064.0,18064.0,5,18064.0
+842,2025-06-22,Sunday,Regular season,Golden State Valkyries,Connecticut Sun,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,6,18064.0
+847,2025-06-25,Wednesday,Regular season,Golden State Valkyries,New York Liberty,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,7,18064.0
+853,2025-06-27,Friday,Regular season,Golden State Valkyries,Chicago Sky,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,8,18064.0
+861,2025-06-29,Sunday,Regular season,Golden State Valkyries,Seattle Storm,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,9,18064.0
+891,2025-07-14,Monday,Regular season,Golden State Valkyries,Phoenix Mercury,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,10,18064.0
+910,2025-07-25,Friday,Regular season,Golden State Valkyries,Dallas Wings,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,11,18064.0
+943,2025-08-06,Wednesday,Regular season,Golden State Valkyries,Las Vegas Aces,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,12,18064.0
+950,2025-08-09,Saturday,Regular season,Golden State Valkyries,Los Angeles Sparks,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,13,18064.0
+957,2025-08-11,Monday,Regular season,Golden State Valkyries,Connecticut Sun,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,14,18064.0
+974,2025-08-17,Sunday,Regular season,Golden State Valkyries,Atlanta Dream,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,15,18064.0
+979,2025-08-19,Tuesday,Regular season,Golden State Valkyries,Phoenix Mercury,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,16,18064.0
+1006,2025-08-30,Saturday,Regular season,Golden State Valkyries,Washington Mystics,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,17,18064.0
+1010,2025-08-31,Sunday,Regular season,Golden State Valkyries,Indiana Fever,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,18,18064.0
+1014,2025-09-02,Tuesday,Regular season,Golden State Valkyries,New York Liberty,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,19,18064.0
+1019,2025-09-04,Thursday,Regular season,Golden State Valkyries,Dallas Wings,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,20,18064.0
+1025,2025-09-06,Saturday,Regular season,Golden State Valkyries,Minnesota Lynx,San Francisco,18064,0,,,,san francisco,18064.0,18064.0,18064.0,21,18064.0
+7,2022-05-17,Saturday,Regular season,Seattle Storm,Phoenix Mercury,Seattle,12453,0,,,,seattle,18064.0,,,0,18064.0
+17,2022-05-27,Wednesday,Regular season,Seattle Storm,Chicago Sky,Seattle,7450,0,,,,seattle,12453.0,12453.0,12453.0,1,12453.0
+22,2022-06-01,Friday,Regular season,Seattle Storm,Los Angeles Sparks,Seattle,10103,0,,,,seattle,9951.5,9951.5,7450.0,2,9951.5
+35,2022-06-14,Friday,Regular season,Seattle Storm,New York Liberty,Seattle,10001,0,,,,seattle,10002.0,10002.0,10103.0,3,10002.0
+39,2022-06-18,Sunday,Regular season,Seattle Storm,New York Liberty,Seattle,10228,0,,,,seattle,10001.75,10001.75,10001.0,4,10001.75
+51,2022-06-30,Friday,Regular season,Seattle Storm,Dallas Wings,Seattle,8023,0,,,,seattle,10047.0,10047.0,10228.0,5,10047.0
+57,2022-07-06,Sunday,Regular season,Seattle Storm,Connecticut Sun,Seattle,11330,0,,,,seattle,9709.666666666666,9161.0,8023.0,6,9709.666666666666
+59,2022-07-08,Tuesday,Regular season,Seattle Storm,Atlanta Dream,Seattle,7262,0,,,,seattle,9941.142857142857,9937.0,11330.0,7,9941.142857142857
+93,2022-08-11,Thursday,Regular season,Seattle Storm,Washington Mystics,Seattle,9884,0,,,,seattle,9606.25,9368.8,7262.0,8,9606.25
+97,2022-08-15,Saturday,Regular season,Seattle Storm,Los Angeles Sparks,Seattle,9955,0,,,,seattle,9637.111111111111,9345.4,9884.0,9,9637.111111111111
+107,2022-08-25,Wednesday,Regular season,Seattle Storm,Las Vegas Aces,Seattle,9499,0,,,,seattle,9668.9,9290.8,9955.0,10,9668.9
+111,2022-08-29,Friday,Regular season,Seattle Storm,Indiana Fever,Seattle,8565,0,,,,seattle,9653.454545454546,9586.0,9499.0,11,9653.454545454546
+126,2022-09-13,Tuesday,Regular season,Seattle Storm,Dallas Wings,Seattle,9486,0,,,,seattle,9562.75,9033.0,8565.0,12,9562.75
+142,2022-09-29,Sunday,Regular season,Seattle Storm,Indiana Fever,Seattle,9970,0,,,,seattle,9556.846153846154,9477.8,9486.0,13,9556.846153846154
+156,2022-10-13,Sunday,Regular season,Seattle Storm,Atlanta Dream,Seattle,12654,0,,,,seattle,9586.357142857143,9495.0,9970.0,14,9586.357142857143
+177,2022-11-03,Wednesday,Regular season,Seattle Storm,Minnesota Lynx,Seattle,13500,0,,,,seattle,9790.866666666667,10034.8,12654.0,15,9790.866666666667
+186,2022-11-12,Sunday,Regular season,Seattle Storm,Las Vegas Aces,Seattle,18100,0,,,,seattle,10022.6875,10835.0,13500.0,16,10022.6875
+210,2022-12-06,Thursday,First Round,Seattle Storm,Washington Mystics,Seattle,8917,0,,,,seattle,10497.823529411764,12742.0,18100.0,17,10497.823529411764
+214,2022-12-10,Sunday,First Round,Seattle Storm,Washington Mystics,Seattle,12490,0,,,,seattle,10410.0,12628.2,8917.0,18,10410.0
+219,2022-12-15,Sunday,Semifinals,Seattle Storm,Las Vegas Aces,Seattle,15431,0,,,,seattle,10519.473684210527,13132.2,12490.0,19,10519.473684210527
+224,2022-12-20,Tuesday,Semifinals,Seattle Storm,Las Vegas Aces,Seattle,11328,0,,,,seattle,10765.05,13687.6,15431.0,20,10765.05
+234,2022-12-30,Saturday,Regular season,Seattle Storm,Las Vegas Aces,Seattle,11229,0,,,,seattle,10791.857142857143,13253.2,11328.0,21,10791.857142857143
+244,2023-01-09,Friday,Regular season,Seattle Storm,Dallas Wings,Seattle,8277,0,,,,seattle,10811.727272727272,11879.0,11229.0,22,10811.727272727272
+253,2023-01-18,Tuesday,Regular season,Seattle Storm,New York Liberty,Seattle,8340,0,,,,seattle,10701.521739130434,11751.0,8277.0,23,10701.521739130434
+266,2023-06-06,Tuesday,Regular season,Seattle Storm,Los Angeles Sparks,Seattle,7840,0,,,,seattle,10603.125,10921.0,8340.0,24,10603.125
+273,2023-06-09,Friday,Regular season,Seattle Storm,Washington Mystics,Seattle,8397,0,,,,seattle,10492.6,9402.8,7840.0,25,10492.6
+278,2023-06-11,Sunday,Regular season,Seattle Storm,Washington Mystics,Seattle,13213,0,,,,seattle,10412.0,8816.6,8397.0,26,10412.0
+297,2023-06-20,Tuesday,Regular season,Seattle Storm,Connecticut Sun,Seattle,7022,0,,,,seattle,10515.74074074074,9213.4,13213.0,27,10515.74074074074
+301,2023-06-22,Thursday,Regular season,Seattle Storm,Indiana Fever,Seattle,7734,0,,,,seattle,10390.964285714286,8962.4,7022.0,28,10390.964285714286
+305,2023-06-24,Saturday,Regular season,Seattle Storm,Phoenix Mercury,Seattle,9122,0,,,,seattle,10299.344827586207,8841.2,7734.0,29,10299.344827586207
+317,2023-06-29,Thursday,Regular season,Seattle Storm,Minnesota Lynx,Seattle,6894,0,,,,seattle,10260.1,9097.6,9122.0,30,10260.1
+325,2023-07-02,Sunday,Regular season,Seattle Storm,New York Liberty,Seattle,9110,0,,,,seattle,10151.516129032258,8797.0,6894.0,31,10151.516129032258
+355,2023-07-20,Thursday,Regular season,Seattle Storm,Las Vegas Aces,Seattle,7873,0,,,,seattle,10118.96875,7976.4,9110.0,32,10118.96875
+358,2023-07-22,Saturday,Regular season,Seattle Storm,Chicago Sky,Seattle,8655,0,,,,seattle,10050.90909090909,8146.6,7873.0,33,10050.90909090909
+383,2023-08-02,Wednesday,Regular season,Seattle Storm,Dallas Wings,Seattle,7421,0,,,,seattle,10009.85294117647,8330.8,8655.0,34,10009.85294117647
+394,2023-08-08,Tuesday,Regular season,Seattle Storm,Connecticut Sun,Seattle,10212,0,,,,seattle,9935.885714285714,7990.6,7421.0,35,9935.885714285714
+401,2023-08-10,Thursday,Regular season,Seattle Storm,Atlanta Dream,Seattle,7649,0,,,,seattle,9943.555555555555,8654.2,10212.0,36,9943.555555555555
+407,2023-08-13,Sunday,Regular season,Seattle Storm,Phoenix Mercury,Seattle,10107,0,,,,seattle,9881.54054054054,8362.0,7649.0,37,9881.54054054054
+415,2023-08-18,Friday,Regular season,Seattle Storm,Minnesota Lynx,Seattle,8865,0,,,,seattle,9887.473684210527,8808.8,10107.0,38,9887.473684210527
+436,2023-08-27,Sunday,Regular season,Seattle Storm,Chicago Sky,Seattle,9893,0,,,,seattle,9861.25641025641,8850.8,8865.0,39,9861.25641025641
+468,2023-09-10,Sunday,Regular season,Seattle Storm,Los Angeles Sparks,Seattle,10728,0,,,,seattle,9862.05,9345.2,9893.0,40,9862.05
+494,2024-05-14,Tuesday,Regular season,Seattle Storm,Minnesota Lynx,Seattle,8508,0,,,,seattle,9883.170731707318,9448.4,10728.0,41,9883.170731707318
+510,2024-05-22,Wednesday,Regular season,Seattle Storm,Indiana Fever,Seattle,18343,1,16.0,30.33333333333333,2.6666666666666665,seattle,9850.42857142857,9620.2,8508.0,42,9850.42857142857
+518,2024-05-25,Saturday,Regular season,Seattle Storm,Washington Mystics,Seattle,8846,0,,,,seattle,10047.93023255814,11267.4,18343.0,43,10047.93023255814
+541,2024-06-04,Tuesday,Regular season,Seattle Storm,Phoenix Mercury,Seattle,8133,0,,,,seattle,10020.613636363636,11263.6,8846.0,44,10020.613636363636
+559,2024-06-11,Tuesday,Regular season,Seattle Storm,Los Angeles Sparks,Seattle,8202,0,,,,seattle,9978.666666666666,10911.6,8133.0,45,9978.666666666666
+587,2024-06-23,Sunday,Regular season,Seattle Storm,Connecticut Sun,Seattle,9935,0,,,,seattle,9940.04347826087,10406.4,8202.0,46,9940.04347826087
+591,2024-06-27,Thursday,Regular season,Seattle Storm,Indiana Fever,Seattle,18343,1,17.0,37.333333333333336,3.6666666666666665,seattle,9939.936170212766,10691.8,9935.0,47,9939.936170212766
+595,2024-06-29,Saturday,Regular season,Seattle Storm,Dallas Wings,Seattle,9080,0,,,,seattle,10115.0,10691.8,18343.0,48,10115.0
+600,2024-07-01,Monday,Regular season,Seattle Storm,Dallas Wings,Seattle,7202,0,,,,seattle,10093.877551020409,10738.6,9080.0,49,10093.877551020409
+610,2024-07-05,Friday,Regular season,Seattle Storm,Chicago Sky,Seattle,10725,0,,,,seattle,10036.04,10552.4,7202.0,50,10036.04
+615,2024-07-07,Sunday,Regular season,Seattle Storm,Chicago Sky,Seattle,11283,0,,,,seattle,10049.549019607843,11057.0,10725.0,51,10049.549019607843
+621,2024-07-10,Wednesday,Regular season,Seattle Storm,Las Vegas Aces,Seattle,12500,0,,,,seattle,10073.26923076923,11326.6,11283.0,52,10073.26923076923
+626,2024-07-12,Friday,Regular season,Seattle Storm,Minnesota Lynx,Seattle,8320,0,,,,seattle,10119.056603773584,10158.0,12500.0,53,10119.056603773584
+631,2024-07-14,Sunday,Regular season,Seattle Storm,Atlanta Dream,Seattle,10036,0,,,,seattle,10085.74074074074,10006.0,8320.0,54,10085.74074074074
+668,2024-08-26,Monday,Regular season,Seattle Storm,Washington Mystics,Seattle,9535,0,,,,seattle,10084.836363636363,10572.8,10036.0,55,10084.836363636363
+674,2024-08-28,Wednesday,Regular season,Seattle Storm,Atlanta Dream,Seattle,9228,0,,,,seattle,10075.017857142857,10334.8,9535.0,56,10075.017857142857
+678,2024-08-30,Friday,Regular season,Seattle Storm,New York Liberty,Seattle,15800,0,,,,seattle,10060.157894736842,9923.8,9228.0,57,10060.157894736842
+696,2024-09-07,Saturday,Regular season,Seattle Storm,Phoenix Mercury,Seattle,14066,0,,,,seattle,10159.120689655172,10583.8,15800.0,58,10159.120689655172
+719,2024-09-15,Sunday,Regular season,Seattle Storm,Los Angeles Sparks,Seattle,11301,0,,,,seattle,10225.338983050848,11733.0,14066.0,59,10225.338983050848
+724,2024-09-17,Tuesday,Regular season,Seattle Storm,Las Vegas Aces,Seattle,14298,0,,,,seattle,10243.266666666666,11986.0,11301.0,60,10243.266666666666
+773,2025-05-23,Friday,Regular season,Seattle Storm,Phoenix Mercury,Seattle,9091,0,,,,seattle,10309.737704918032,12938.6,14298.0,61,10309.737704918032
+779,2025-05-25,Sunday,Regular season,Seattle Storm,Las Vegas Aces,Seattle,10634,0,,,,seattle,10290.08064516129,12911.2,9091.0,62,10290.08064516129
+792,2025-05-30,Friday,Regular season,Seattle Storm,Atlanta Dream,Seattle,9666,0,,,,seattle,10295.539682539682,11878.0,10634.0,63,10295.539682539682
+796,2025-06-01,Sunday,Regular season,Seattle Storm,Las Vegas Aces,Seattle,10201,0,,,,seattle,10285.703125,10998.0,9666.0,64,10285.703125
+800,2025-06-03,Tuesday,Regular season,Seattle Storm,Dallas Wings,Seattle,10252,0,,,,seattle,10284.4,10778.0,10201.0,65,10284.4
+815,2025-06-11,Wednesday,Regular season,Seattle Storm,Minnesota Lynx,Seattle,9722,0,,,,seattle,10283.90909090909,9968.8,10252.0,66,10283.90909090909
+841,2025-06-22,Sunday,Regular season,Seattle Storm,New York Liberty,Seattle,12500,0,,,,seattle,10275.522388059702,10095.0,9722.0,67,10275.522388059702
+846,2025-06-24,Tuesday,Regular season,Seattle Storm,Indiana Fever,Seattle,18343,1,16.666666666666668,32.666666666666664,1.6666666666666667,seattle,10308.235294117647,10468.2,12500.0,68,10308.235294117647
+855,2025-06-27,Friday,Regular season,Seattle Storm,Connecticut Sun,Seattle,10776,0,,,,seattle,10424.68115942029,12203.6,18343.0,69,10424.68115942029
+883,2025-07-11,Friday,Regular season,Seattle Storm,Connecticut Sun,Seattle,9569,0,,,,seattle,10429.7,12318.6,10776.0,70,10429.7
+889,2025-07-13,Sunday,Regular season,Seattle Storm,Washington Mystics,Seattle,11126,0,,,,seattle,10417.577464788732,12182.0,9569.0,71,10417.577464788732
+896,2025-07-16,Wednesday,Regular season,Seattle Storm,Golden State Valkyries,Seattle,12500,0,,,,seattle,10427.416666666666,12462.8,11126.0,72,10427.416666666666
+903,2025-07-22,Tuesday,Regular season,Seattle Storm,Dallas Wings,Seattle,12500,0,,,,seattle,10455.808219178081,12462.8,12500.0,73,10455.808219178081
+931,2025-08-01,Friday,Regular season,Seattle Storm,Los Angeles Sparks,Seattle,11354,0,,,,seattle,10483.432432432432,11294.2,12500.0,74,10483.432432432432
+937,2025-08-03,Sunday,Regular season,Seattle Storm,Indiana Fever,Seattle,16819,0,,,,seattle,10495.04,11409.8,11354.0,75,10495.04
+942,2025-08-05,Tuesday,Regular season,Seattle Storm,Minnesota Lynx,Seattle,10468,0,,,,seattle,10578.25,12859.8,16819.0,76,10578.25
+963,2025-08-13,Wednesday,Regular season,Seattle Storm,Atlanta Dream,Seattle,10687,0,,,,seattle,10576.818181818182,12728.2,10468.0,77,10576.818181818182
+973,2025-08-17,Sunday,Regular season,Seattle Storm,Phoenix Mercury,Seattle,14169,0,,,,seattle,10578.23076923077,12365.6,10687.0,78,10578.23076923077
+1007,2025-08-30,Saturday,Regular season,Seattle Storm,Chicago Sky,Seattle,12500,0,,,,seattle,10623.683544303798,12699.4,14169.0,79,10623.683544303798
+1013,2025-09-01,Monday,Regular season,Seattle Storm,Los Angeles Sparks,Seattle,12500,0,,,,seattle,10647.1375,12928.6,12500.0,80,10647.1375
+1023,2025-09-05,Friday,Regular season,Seattle Storm,New York Liberty,Seattle,12500,0,,,,seattle,10670.012345679012,12064.8,12500.0,81,10670.012345679012
+1034,2025-09-09,Tuesday,Regular season,Seattle Storm,Golden State Valkyries,Seattle,12500,0,,,,seattle,10692.329268292682,12471.2,12500.0,82,10692.329268292682
+1045,2025-09-16,Tuesday,First Round,Seattle Storm,Las Vegas Aces,Seattle,12500,0,,,,seattle,10714.10843373494,12833.8,12500.0,83,10714.10843373494
+8,2022-05-18,Saturday,Regular season,Connecticut Sun,Los Angeles Sparks,Uncasville,5624,0,,,,uncasville,10735.369047619048,,,0,10735.369047619048
+20,2022-05-30,Friday,Regular season,Connecticut Sun,Indiana Fever,Uncasville,4428,0,,,,uncasville,5624.0,5624.0,5624.0,1,5624.0
+28,2022-06-07,Tuesday,Regular season,Connecticut Sun,Dallas Wings,Uncasville,4180,0,,,,uncasville,5026.0,5026.0,4428.0,2,5026.0
+33,2022-06-12,Thursday,Regular season,Connecticut Sun,Dallas Wings,Uncasville,4308,0,,,,uncasville,4744.0,4744.0,4180.0,3,4744.0
+37,2022-06-16,Saturday,Regular season,Connecticut Sun,Washington Mystics,Uncasville,5482,0,,,,uncasville,4635.0,4635.0,4308.0,4,4635.0
+60,2022-07-09,Wednesday,Regular season,Connecticut Sun,Indiana Fever,Uncasville,4088,0,,,,uncasville,4804.4,4804.4,5482.0,5,4804.4
+62,2022-07-11,Friday,Regular season,Connecticut Sun,Chicago Sky,Uncasville,4816,0,,,,uncasville,4685.0,4497.2,4088.0,6,4685.0
+75,2022-07-24,Wednesday,Regular season,Connecticut Sun,Atlanta Dream,Uncasville,4014,0,,,,uncasville,4703.714285714285,4574.8,4816.0,7,4703.714285714285
+78,2022-07-27,Friday,Regular season,Connecticut Sun,Seattle Storm,Uncasville,7088,0,,,,uncasville,4617.5,4541.6,4014.0,8,4617.5
+90,2022-08-08,Wednesday,Regular season,Connecticut Sun,New York Liberty,Uncasville,4652,0,,,,uncasville,4892.0,5097.6,7088.0,9,4892.0
+113,2022-08-31,Sunday,Regular season,Connecticut Sun,Washington Mystics,Uncasville,5814,0,,,,uncasville,4868.0,4931.6,4652.0,10,4868.0
+139,2022-09-26,Sunday,Regular season,Connecticut Sun,Las Vegas Aces,Uncasville,6814,0,,,,uncasville,4954.0,5276.8,5814.0,11,4954.0
+143,2022-09-30,Tuesday,Regular season,Connecticut Sun,New York Liberty,Uncasville,6288,0,,,,uncasville,5109.0,5676.4,6814.0,12,5109.0
+159,2022-10-16,Thursday,Regular season,Connecticut Sun,Seattle Storm,Uncasville,9137,0,,,,uncasville,5199.692307692308,6131.2,6288.0,13,5199.692307692308
+166,2022-10-23,Sunday,Regular season,Connecticut Sun,Chicago Sky,Uncasville,6254,0,,,,uncasville,5480.928571428572,6541.0,9137.0,14,5480.928571428572
+171,2022-10-28,Tuesday,Regular season,Connecticut Sun,Phoenix Mercury,Uncasville,6130,0,,,,uncasville,5532.466666666666,6861.4,6254.0,15,5532.466666666666
+178,2022-11-04,Thursday,Regular season,Connecticut Sun,Phoenix Mercury,Uncasville,6215,0,,,,uncasville,5569.8125,6924.6,6130.0,16,5569.8125
+200,2022-11-26,Sunday,Regular season,Connecticut Sun,Minnesota Lynx,Uncasville,7489,0,,,,uncasville,5607.764705882353,6804.8,6215.0,17,5607.764705882353
+209,2022-12-05,Thursday,First Round,Connecticut Sun,Dallas Wings,Uncasville,4797,0,,,,uncasville,5712.277777777777,7045.0,7489.0,18,5712.277777777777
+213,2022-12-09,Sunday,First Round,Connecticut Sun,Dallas Wings,Uncasville,6788,0,,,,uncasville,5664.105263157895,6177.0,4797.0,19,5664.105263157895
+222,2022-12-18,Sunday,Semifinals,Connecticut Sun,Chicago Sky,Uncasville,9142,0,,,,uncasville,5720.3,6283.8,6788.0,20,5720.3
+223,2022-12-19,Tuesday,Semifinals,Connecticut Sun,Chicago Sky,Uncasville,5868,0,,,,uncasville,5883.238095238095,6886.2,9142.0,21,5883.238095238095
+228,2022-12-24,Thursday,Finals,Connecticut Sun,Las Vegas Aces,Uncasville,8745,0,,,,uncasville,5882.545454545455,6816.8,5868.0,22,5882.545454545455
+229,2022-12-25,Sunday,Finals,Connecticut Sun,Las Vegas Aces,Uncasville,9652,0,,,,uncasville,6007.0,7068.0,8745.0,23,6007.0
+236,2023-01-01,Sunday,Regular season,Connecticut Sun,Washington Mystics,Uncasville,7048,0,,,,uncasville,6158.875,8039.0,9652.0,24,6158.875
+251,2023-01-16,Tuesday,Regular season,Connecticut Sun,Indiana Fever,Uncasville,5317,0,,,,uncasville,6194.44,8091.0,7048.0,25,6194.44
+261,2023-06-04,Sunday,Regular season,Connecticut Sun,Dallas Wings,Uncasville,5012,0,,,,uncasville,6160.692307692308,7326.0,5317.0,26,6160.692307692308
+264,2023-06-06,Tuesday,Regular season,Connecticut Sun,Las Vegas Aces,Uncasville,4368,0,,,,uncasville,6118.148148148148,7154.8,5012.0,27,6118.148148148148
+268,2023-06-08,Thursday,Regular season,Connecticut Sun,Las Vegas Aces,Uncasville,5147,0,,,,uncasville,6055.642857142857,6279.4,4368.0,28,6055.642857142857
+284,2023-06-15,Thursday,Regular season,Connecticut Sun,Atlanta Dream,Uncasville,4316,0,,,,uncasville,6024.310344827586,5378.4,5147.0,29,6024.310344827586
+306,2023-06-25,Sunday,Regular season,Connecticut Sun,Chicago Sky,Uncasville,6517,0,,,,uncasville,5967.366666666667,4832.0,4316.0,30,5967.366666666667
+310,2023-06-27,Tuesday,Regular season,Connecticut Sun,New York Liberty,Uncasville,7344,0,,,,uncasville,5985.096774193548,5072.0,6517.0,31,5985.096774193548
+330,2023-07-06,Thursday,Regular season,Connecticut Sun,Seattle Storm,Uncasville,5479,0,,,,uncasville,6027.5625,5538.4,7344.0,32,6027.5625
+336,2023-07-09,Sunday,Regular season,Connecticut Sun,Washington Mystics,Uncasville,6558,0,,,,uncasville,6010.939393939394,5760.6,5479.0,33,6010.939393939394
+352,2023-07-20,Thursday,Regular season,Connecticut Sun,Atlanta Dream,Uncasville,8054,0,,,,uncasville,6027.029411764706,6042.8,6558.0,34,6027.029411764706
+373,2023-07-30,Sunday,Regular season,Connecticut Sun,Minnesota Lynx,Uncasville,8275,0,,,,uncasville,6084.942857142857,6790.4,8054.0,35,6084.942857142857
+379,2023-08-01,Tuesday,Regular season,Connecticut Sun,Minnesota Lynx,Uncasville,4894,0,,,,uncasville,6145.777777777777,7142.0,8275.0,36,6145.777777777777
+411,2023-08-18,Friday,Regular season,Connecticut Sun,Dallas Wings,Uncasville,6584,0,,,,uncasville,6111.945945945946,6652.0,4894.0,37,6111.945945945946
+426,2023-08-24,Thursday,Regular season,Connecticut Sun,New York Liberty,Uncasville,9168,0,,,,uncasville,6124.368421052632,6873.0,6584.0,38,6124.368421052632
+433,2023-08-27,Sunday,Regular season,Connecticut Sun,Los Angeles Sparks,Uncasville,6783,0,,,,uncasville,6202.410256410257,7395.0,9168.0,39,6202.410256410257
+441,2023-08-31,Thursday,Regular season,Connecticut Sun,Phoenix Mercury,Uncasville,7794,0,,,,uncasville,6216.925,7140.8,6783.0,40,6216.925
+452,2023-09-05,Tuesday,Regular season,Connecticut Sun,Los Angeles Sparks,Uncasville,4783,0,,,,uncasville,6255.390243902439,7044.6,7794.0,41,6255.390243902439
+458,2023-09-08,Friday,Regular season,Connecticut Sun,Indiana Fever,Uncasville,5064,0,,,,uncasville,6220.333333333333,7022.4,4783.0,42,6220.333333333333
+464,2023-09-10,Sunday,Regular season,Connecticut Sun,Chicago Sky,Uncasville,6377,0,,,,uncasville,6193.441860465116,6718.4,5064.0,43,6193.441860465116
+471,2023-09-13,Wednesday,First Round,Connecticut Sun,Minnesota Lynx,Uncasville,5056,0,,,,uncasville,6197.613636363636,6160.2,6377.0,44,6197.613636363636
+475,2023-09-17,Sunday,First Round,Connecticut Sun,Minnesota Lynx,Uncasville,6673,0,,,,uncasville,6172.2444444444445,5814.8,5056.0,45,6172.2444444444445
+485,2023-09-29,Friday,Semifinals,Connecticut Sun,New York Liberty,Uncasville,9162,0,,,,uncasville,6183.130434782609,5590.6,6673.0,46,6183.130434782609
+486,2023-10-01,Sunday,Semifinals,Connecticut Sun,New York Liberty,Uncasville,8196,0,,,,uncasville,6246.510638297872,6466.4,9162.0,47,6246.510638297872
+492,2024-05-14,Tuesday,Regular season,Connecticut Sun,Indiana Fever,Uncasville,8910,1,,,,uncasville,6287.125,7092.8,8196.0,48,6287.125
+498,2024-05-17,Friday,Regular season,Connecticut Sun,Washington Mystics,Uncasville,6874,0,,,,uncasville,6340.65306122449,7599.4,8910.0,49,6340.65306122449
+511,2024-05-23,Thursday,Regular season,Connecticut Sun,Minnesota Lynx,Uncasville,6152,0,,,,uncasville,6351.32,7963.0,6874.0,50,6351.32
+522,2024-05-28,Tuesday,Regular season,Connecticut Sun,Phoenix Mercury,Uncasville,6489,0,,,,uncasville,6347.411764705882,7858.8,6152.0,51,6347.411764705882
+531,2024-05-31,Friday,Regular season,Connecticut Sun,Dallas Wings,Uncasville,7638,0,,,,uncasville,6350.134615384615,7324.2,6489.0,52,6350.134615384615
+539,2024-06-04,Tuesday,Regular season,Connecticut Sun,Washington Mystics,Uncasville,5346,0,,,,uncasville,6374.433962264151,7212.6,7638.0,53,6374.433962264151
+550,2024-06-08,Saturday,Regular season,Connecticut Sun,New York Liberty,Uncasville,8910,0,,,,uncasville,6355.388888888889,6499.8,5346.0,54,6355.388888888889
+556,2024-06-10,Monday,Regular season,Connecticut Sun,Indiana Fever,Uncasville,8910,1,14.666666666666666,35.0,3.333333333333333,uncasville,6401.836363636364,6907.0,8910.0,55,6401.836363636364
+572,2024-06-18,Tuesday,Regular season,Connecticut Sun,Los Angeles Sparks,Uncasville,7853,0,,,,uncasville,6446.625,7458.6,8910.0,56,6446.625
+592,2024-06-28,Friday,Regular season,Connecticut Sun,Atlanta Dream,Uncasville,7008,0,,,,uncasville,6471.298245614035,7731.4,7853.0,57,6471.298245614035
+613,2024-07-07,Sunday,Regular season,Connecticut Sun,Atlanta Dream,Uncasville,7527,0,,,,uncasville,6480.551724137931,7605.4,7008.0,58,6480.551724137931
+618,2024-07-10,Wednesday,Regular season,Connecticut Sun,New York Liberty,Uncasville,8910,0,,,,uncasville,6498.28813559322,8041.6,7527.0,59,6498.28813559322
+629,2024-07-14,Sunday,Regular season,Connecticut Sun,Phoenix Mercury,Uncasville,8910,0,,,,uncasville,6538.483333333334,8041.6,8910.0,60,6538.483333333334
+659,2024-08-23,Friday,Regular season,Connecticut Sun,Chicago Sky,Uncasville,8910,0,,,,uncasville,6577.360655737705,8041.6,8910.0,61,6577.360655737705
+680,2024-09-01,Sunday,Regular season,Connecticut Sun,Seattle Storm,Uncasville,8910,0,,,,uncasville,6614.9838709677415,8253.0,8910.0,62,6614.9838709677415
+685,2024-09-03,Tuesday,Regular season,Connecticut Sun,Seattle Storm,Uncasville,7454,0,,,,uncasville,6651.412698412699,8633.4,8910.0,63,6651.412698412699
+693,2024-09-06,Friday,Regular season,Connecticut Sun,Las Vegas Aces,Uncasville,8910,0,,,,uncasville,6663.953125,8618.8,7454.0,64,6663.953125
+720,2024-09-17,Tuesday,Regular season,Connecticut Sun,Minnesota Lynx,Uncasville,8174,0,,,,uncasville,6698.507692307692,8618.8,8910.0,65,6698.507692307692
+725,2024-09-19,Thursday,Regular season,Connecticut Sun,Chicago Sky,Uncasville,8092,0,,,,uncasville,6720.863636363636,8471.6,8174.0,66,6720.863636363636
+734,2024-09-22,Sunday,First Round,Connecticut Sun,Indiana Fever,Uncasville,8910,1,20.33333333333333,30.0,3.333333333333333,uncasville,6741.328358208955,8308.0,8092.0,67,6741.328358208955
+739,2024-09-25,Wednesday,First Round,Connecticut Sun,Indiana Fever,Uncasville,8910,1,18.0,30.666666666666668,3.333333333333333,uncasville,6773.220588235294,8308.0,8910.0,68,6773.220588235294
+743,2024-10-04,Friday,Semifinals,Connecticut Sun,Minnesota Lynx,Uncasville,8268,0,,,,uncasville,6804.188405797101,8599.2,8910.0,69,6804.188405797101
+747,2024-10-06,Sunday,Semifinals,Connecticut Sun,Minnesota Lynx,Uncasville,7849,0,,,,uncasville,6825.1,8470.8,8268.0,70,6825.1
+760,2025-05-18,Sunday,Regular season,Connecticut Sun,Washington Mystics,Uncasville,7834,0,,,,uncasville,6839.521126760564,8405.8,7849.0,71,6839.521126760564
+763,2025-05-20,Tuesday,Regular season,Connecticut Sun,Las Vegas Aces,Uncasville,8179,0,,,,uncasville,6853.333333333333,8354.2,7834.0,72,6853.333333333333
+780,2025-05-27,Tuesday,Regular season,Connecticut Sun,Dallas Wings,Uncasville,8910,0,,,,uncasville,6871.493150684932,8208.0,8179.0,73,6871.493150684932
+803,2025-06-06,Friday,Regular season,Connecticut Sun,Atlanta Dream,Uncasville,8078,0,,,,uncasville,6899.040540540541,8208.0,8910.0,74,6899.040540540541
+821,2025-06-15,Sunday,Regular season,Connecticut Sun,Chicago Sky,Uncasville,8451,0,,,,uncasville,6914.76,8170.0,8078.0,75,6914.76
+830,2025-06-18,Wednesday,Regular season,Connecticut Sun,Phoenix Mercury,Uncasville,7864,0,,,,uncasville,6934.973684210527,8290.4,8451.0,76,6934.973684210527
+834,2025-06-20,Friday,Regular season,Connecticut Sun,Dallas Wings,Uncasville,8910,0,,,,uncasville,6947.038961038961,8296.4,7864.0,77,6947.038961038961
+869,2025-07-06,Sunday,Regular season,Connecticut Sun,Las Vegas Aces,Uncasville,8476,0,,,,uncasville,6972.205128205128,8442.6,8910.0,78,6972.205128205128
+876,2025-07-09,Wednesday,Regular season,Connecticut Sun,Seattle Storm,Uncasville,7984,0,,,,uncasville,6991.2405063291135,8355.8,8476.0,79,6991.2405063291135
+905,2025-07-24,Thursday,Regular season,Connecticut Sun,Los Angeles Sparks,Uncasville,7375,0,,,,uncasville,7003.65,8337.0,7984.0,80,7003.65
+914,2025-07-27,Sunday,Regular season,Connecticut Sun,Golden State Valkyries,Uncasville,8294,0,,,,uncasville,7008.234567901234,8121.8,7375.0,81,7008.234567901234
+918,2025-07-28,Monday,Regular season,Connecticut Sun,Seattle Storm,Uncasville,7136,0,,,,uncasville,7023.914634146341,8207.8,8294.0,82,7023.914634146341
+928,2025-08-01,Friday,Regular season,Connecticut Sun,New York Liberty,Uncasville,8664,0,,,,uncasville,7025.265060240964,7853.0,7136.0,83,7025.265060240964
+934,2025-08-03,Sunday,Regular season,Connecticut Sun,New York Liberty,Uncasville,8747,0,,,,uncasville,7044.773809523809,7890.6,8664.0,84,7044.773809523809
+960,2025-08-13,Wednesday,Regular season,Connecticut Sun,Chicago Sky,Uncasville,6848,0,,,,uncasville,7064.8,8043.2,8747.0,85,7064.8
+971,2025-08-17,Sunday,Regular season,Connecticut Sun,Indiana Fever,Uncasville,8910,0,,,,uncasville,7062.279069767442,7937.8,6848.0,86,7062.279069767442
+981,2025-08-21,Thursday,Regular season,Connecticut Sun,Washington Mystics,Uncasville,7144,0,,,,uncasville,7083.517241379311,8061.0,8910.0,87,7083.517241379311
+1005,2025-08-30,Saturday,Regular season,Connecticut Sun,Minnesota Lynx,Uncasville,8910,0,,,,uncasville,7084.204545454545,8062.6,7144.0,88,7084.204545454545
+1011,2025-09-01,Monday,Regular season,Connecticut Sun,Atlanta Dream,Uncasville,8081,0,,,,uncasville,7104.7191011235955,8111.8,8910.0,89,7104.7191011235955
+1024,2025-09-06,Saturday,Regular season,Connecticut Sun,Phoenix Mercury,Uncasville,8910,0,,,,uncasville,7115.566666666667,7978.6,8081.0,90,7115.566666666667
+1035,2025-09-10,Wednesday,Regular season,Connecticut Sun,Atlanta Dream,Uncasville,7508,0,,,,uncasville,7135.285714285715,8391.0,8910.0,91,7135.285714285715
+967,2025-08-15,Friday,Regular season,Atlanta Dream,Seattle Storm,Vancouver,15892,0,,,,vancouver,7139.336956521739,,,0,7139.336956521739
+4,2022-05-14,Friday,Regular season,Washington Mystics,Dallas Wings,Washington,3281,0,,,,washington,15892.0,,,0,15892.0
+26,2022-06-05,Sunday,Regular season,Washington Mystics,Chicago Sky,Washington,4200,0,,,,washington,3281.0,3281.0,3281.0,1,3281.0
+29,2022-06-08,Tuesday,Regular season,Washington Mystics,Atlanta Dream,Washington,2687,0,,,,washington,3740.5,3740.5,4200.0,2,3740.5
+48,2022-06-27,Friday,Regular season,Washington Mystics,New York Liberty,Washington,3857,0,,,,washington,3389.3333333333335,3389.3333333333335,2687.0,3,3389.3333333333335
+61,2022-07-10,Wednesday,Regular season,Washington Mystics,Chicago Sky,Washington,2984,0,,,,washington,3506.25,3506.25,3857.0,4,3506.25
+70,2022-07-19,Sunday,Regular season,Washington Mystics,Phoenix Mercury,Washington,4200,0,,,,washington,3401.8,3401.8,2984.0,5,3401.8
+72,2022-07-21,Tuesday,Regular season,Washington Mystics,Phoenix Mercury,Washington,3088,0,,,,washington,3534.8333333333335,3585.6,4200.0,6,3534.8333333333335
+83,2022-08-01,Sunday,Regular season,Washington Mystics,Connecticut Sun,Washington,3959,0,,,,washington,3471.0,3363.2,3088.0,7,3471.0
+103,2022-08-21,Tuesday,Regular season,Washington Mystics,Atlanta Dream,Washington,3517,0,,,,washington,3532.0,3617.6,3959.0,8,3532.0
+140,2022-09-27,Sunday,Regular season,Washington Mystics,Minnesota Lynx,Washington,4200,0,,,,washington,3530.3333333333335,3549.6,3517.0,9,3530.3333333333335
+147,2022-10-04,Thursday,Regular season,Washington Mystics,New York Liberty,Washington,7431,0,,,,washington,3597.3,3792.8,4200.0,10,3597.3
+164,2022-10-21,Saturday,Regular season,Washington Mystics,Seattle Storm,Washington,4200,0,,,,washington,3945.818181818182,4439.0,7431.0,11,3945.818181818182
+169,2022-10-26,Sunday,Regular season,Washington Mystics,Seattle Storm,Washington,4200,0,,,,washington,3967.0,4661.4,4200.0,12,3967.0
+173,2022-10-30,Tuesday,Regular season,Washington Mystics,Las Vegas Aces,Washington,4200,0,,,,washington,3984.923076923077,4709.6,4200.0,13,3984.923076923077
+185,2022-11-11,Sunday,Regular season,Washington Mystics,Los Angeles Sparks,Washington,4200,0,,,,washington,4000.285714285714,4846.2,4200.0,14,4000.285714285714
+202,2022-11-28,Sunday,Regular season,Washington Mystics,Indiana Fever,Washington,4200,0,,,,washington,4013.6,4846.2,4200.0,15,4013.6
+231,2022-12-27,Friday,Regular season,Washington Mystics,New York Liberty,Washington,4200,0,,,,washington,4025.25,4200.0,4200.0,16,4025.25
+239,2023-01-04,Tuesday,Regular season,Washington Mystics,Connecticut Sun,Washington,3383,0,,,,washington,4035.529411764706,4200.0,4200.0,17,4035.529411764706
+255,2023-06-02,Friday,Regular season,Washington Mystics,Dallas Wings,Washington,3294,0,,,,washington,3999.277777777778,4036.6,3383.0,18,3999.277777777778
+259,2023-06-03,Saturday,Regular season,Washington Mystics,Minnesota Lynx,Washington,3534,0,,,,washington,3962.157894736842,3855.4,3294.0,19,3962.157894736842
+287,2023-06-16,Friday,Regular season,Washington Mystics,Phoenix Mercury,Washington,4200,0,,,,washington,3940.75,3722.2,3534.0,20,3940.75
+291,2023-06-18,Sunday,Regular season,Washington Mystics,Chicago Sky,Washington,4009,0,,,,washington,3953.095238095238,3722.2,4200.0,21,3953.095238095238
+314,2023-06-28,Wednesday,Regular season,Washington Mystics,Atlanta Dream,Washington,3624,0,,,,washington,3955.6363636363635,3684.0,4009.0,22,3955.6363636363635
+331,2023-07-07,Friday,Regular season,Washington Mystics,Indiana Fever,Washington,4200,0,,,,washington,3941.217391304348,3732.2,3624.0,23,3941.217391304348
+341,2023-07-11,Tuesday,Regular season,Washington Mystics,Seattle Storm,Washington,3571,0,,,,washington,3952.0,3913.4,4200.0,24,3952.0
+350,2023-07-19,Wednesday,Regular season,Washington Mystics,Indiana Fever,Washington,14406,0,,,,washington,3936.76,3920.8,3571.0,25,3936.76
+356,2023-07-21,Friday,Regular season,Washington Mystics,New York Liberty,Washington,4200,0,,,,washington,4339.423076923077,5962.0,14406.0,26,4339.423076923077
+362,2023-07-23,Sunday,Regular season,Washington Mystics,Phoenix Mercury,Washington,4200,0,,,,washington,4334.259259259259,6000.2,4200.0,27,4334.259259259259
+386,2023-08-04,Friday,Regular season,Washington Mystics,Los Angeles Sparks,Washington,3747,0,,,,washington,4329.464285714285,6115.4,4200.0,28,4329.464285714285
+392,2023-08-06,Sunday,Regular season,Washington Mystics,Los Angeles Sparks,Washington,4073,0,,,,washington,4309.379310344828,6024.8,3747.0,29,4309.379310344828
+406,2023-08-13,Sunday,Regular season,Washington Mystics,Chicago Sky,Washington,3796,0,,,,washington,4301.5,6125.2,4073.0,30,4301.5
+417,2023-08-20,Sunday,Regular season,Washington Mystics,Dallas Wings,Washington,4200,0,,,,washington,4285.193548387097,4003.2,3796.0,31,4285.193548387097
+422,2023-08-22,Tuesday,Regular season,Washington Mystics,Connecticut Sun,Washington,3058,0,,,,washington,4282.53125,4003.2,4200.0,32,4282.53125
+431,2023-08-26,Saturday,Regular season,Washington Mystics,Las Vegas Aces,Washington,4200,0,,,,washington,4245.424242424242,3774.8,3058.0,33,4245.424242424242
+439,2023-08-29,Tuesday,Regular season,Washington Mystics,Minnesota Lynx,Washington,3708,0,,,,washington,4244.088235294118,3865.4,4200.0,34,4244.088235294118
+459,2023-09-08,Friday,Regular season,Washington Mystics,Atlanta Dream,Washington,4210,0,,,,washington,4228.771428571428,3792.4,3708.0,35,4228.771428571428
+491,2024-05-14,Tuesday,Regular season,Washington Mystics,New York Liberty,Washington,4200,0,,,,washington,4228.25,3875.2,4210.0,36,4228.25
+504,2024-05-19,Sunday,Regular season,Washington Mystics,Seattle Storm,Washington,4200,0,,,,washington,4227.486486486487,3875.2,4200.0,37,4227.486486486487
+526,2024-05-29,Wednesday,Regular season,Washington Mystics,Atlanta Dream,Washington,4200,0,,,,washington,4226.763157894737,4103.6,4200.0,38,4226.763157894737
+544,2024-06-06,Thursday,Regular season,Washington Mystics,Chicago Sky,Washington,10000,0,,,,washington,4226.076923076923,4103.6,4200.0,39,4226.076923076923
+546,2024-06-07,Friday,Regular season,Washington Mystics,Indiana Fever,Washington,20333,1,11.333333333333334,35.333333333333336,2.0,washington,4370.425,5362.0,10000.0,40,4370.425
+564,2024-06-14,Friday,Regular season,Washington Mystics,Chicago Sky,Washington,4200,0,,,,washington,4759.756097560976,8586.6,20333.0,41,4759.756097560976
+581,2024-06-22,Saturday,Regular season,Washington Mystics,Dallas Wings,Washington,4200,0,,,,washington,4746.428571428572,8586.6,4200.0,42,4746.428571428572
+585,2024-06-23,Sunday,Regular season,Washington Mystics,Dallas Wings,Washington,4200,0,,,,washington,4733.720930232558,8586.6,4200.0,43,4733.720930232558
+589,2024-06-27,Thursday,Regular season,Washington Mystics,Connecticut Sun,Washington,4200,0,,,,washington,4721.590909090909,8586.6,4200.0,44,4721.590909090909
+594,2024-06-29,Saturday,Regular season,Washington Mystics,Las Vegas Aces,Washington,4200,0,,,,washington,4710.0,7426.6,4200.0,45,4710.0
+630,2024-07-14,Sunday,Regular season,Washington Mystics,Las Vegas Aces,Washington,4200,0,,,,washington,4698.913043478261,4200.0,4200.0,46,4698.913043478261
+633,2024-07-16,Tuesday,Regular season,Washington Mystics,Phoenix Mercury,Washington,12586,0,,,,washington,4688.297872340426,4200.0,4200.0,47,4688.297872340426
+645,2024-08-17,Saturday,Regular season,Washington Mystics,Minnesota Lynx,Washington,4200,0,,,,washington,4852.833333333333,5877.2,12586.0,48,4852.833333333333
+654,2024-08-20,Tuesday,Regular season,Washington Mystics,Seattle Storm,Washington,4200,0,,,,washington,4839.510204081633,5877.2,4200.0,49,4839.510204081633
+660,2024-08-23,Friday,Regular season,Washington Mystics,Los Angeles Sparks,Washington,4200,0,,,,washington,4826.72,5877.2,4200.0,50,4826.72
+679,2024-08-31,Saturday,Regular season,Washington Mystics,Connecticut Sun,Washington,4200,0,,,,washington,4814.431372549019,5877.2,4200.0,51,4814.431372549019
+697,2024-09-08,Sunday,Regular season,Washington Mystics,Minnesota Lynx,Washington,4200,0,,,,washington,4802.615384615385,5877.2,4200.0,52,4802.615384615385
+716,2024-09-15,Sunday,Regular season,Washington Mystics,Atlanta Dream,Washington,4200,0,,,,washington,4791.245283018868,4200.0,4200.0,53,4791.245283018868
+721,2024-09-17,Tuesday,Regular season,Washington Mystics,New York Liberty,Washington,4200,0,,,,washington,4780.2962962962965,4200.0,4200.0,54,4780.2962962962965
+727,2024-09-19,Thursday,Regular season,Washington Mystics,Indiana Fever,Washington,20711,1,23.0,36.0,3.0,washington,4769.745454545455,4200.0,4200.0,55,4769.745454545455
+754,2025-05-16,Friday,Regular season,Washington Mystics,Atlanta Dream,Washington,4200,0,,,,washington,5054.410714285715,7502.2,20711.0,56,5054.410714285715
+789,2025-05-30,Friday,Regular season,Washington Mystics,New York Liberty,Washington,4200,0,,,,washington,5039.421052631579,7502.2,4200.0,57,5039.421052631579
+801,2025-06-05,Thursday,Regular season,Washington Mystics,New York Liberty,Washington,4200,0,,,,washington,5024.948275862069,7502.2,4200.0,58,5024.948275862069
+808,2025-06-08,Sunday,Regular season,Washington Mystics,Connecticut Sun,Washington,4200,0,,,,washington,5010.966101694915,7502.2,4200.0,59,5010.966101694915
+822,2025-06-15,Sunday,Regular season,Washington Mystics,Atlanta Dream,Washington,4200,0,,,,washington,4997.45,7502.2,4200.0,60,4997.45
+839,2025-06-22,Sunday,Regular season,Washington Mystics,Dallas Wings,Washington,4200,0,,,,washington,4984.377049180328,4200.0,4200.0,61,4984.377049180328
+843,2025-06-24,Tuesday,Regular season,Washington Mystics,Minnesota Lynx,Washington,4200,0,,,,washington,4971.725806451613,4200.0,4200.0,62,4971.725806451613
+899,2025-07-22,Tuesday,Regular season,Washington Mystics,Los Angeles Sparks,Washington,4200,0,,,,washington,4959.476190476191,4200.0,4200.0,63,4959.476190476191
+913,2025-07-26,Saturday,Regular season,Washington Mystics,Seattle Storm,Washington,4200,0,,,,washington,4947.609375,4200.0,4200.0,64,4947.609375
+916,2025-07-27,Sunday,Regular season,Washington Mystics,Phoenix Mercury,Washington,4200,0,,,,washington,4936.107692307693,4200.0,4200.0,65,4936.107692307693
+921,2025-07-29,Tuesday,Regular season,Washington Mystics,Chicago Sky,Washington,4200,0,,,,washington,4924.954545454545,4200.0,4200.0,66,4924.954545454545
+926,2025-07-31,Thursday,Regular season,Washington Mystics,Golden State Valkyries,Washington,4200,0,,,,washington,4914.134328358209,4200.0,4200.0,67,4914.134328358209
+961,2025-08-13,Wednesday,Regular season,Washington Mystics,Golden State Valkyries,Washington,4200,0,,,,washington,4903.632352941177,4200.0,4200.0,68,4903.632352941177
+970,2025-08-17,Sunday,Regular season,Washington Mystics,Los Angeles Sparks,Washington,4200,0,,,,washington,4893.434782608696,4200.0,4200.0,69,4893.434782608696
+976,2025-08-19,Tuesday,Regular season,Washington Mystics,Connecticut Sun,Washington,4200,0,,,,washington,4883.528571428571,4200.0,4200.0,70,4883.528571428571
+989,2025-08-23,Saturday,Regular season,Washington Mystics,Las Vegas Aces,Washington,4200,0,,,,washington,4873.901408450704,4200.0,4200.0,71,4873.901408450704
+991,2025-08-24,Sunday,Regular season,Washington Mystics,Seattle Storm,Washington,4200,0,,,,washington,4864.541666666667,4200.0,4200.0,72,4864.541666666667
+1018,2025-09-04,Thursday,Regular season,Washington Mystics,Phoenix Mercury,Washington,4200,0,,,,washington,4855.438356164384,4200.0,4200.0,73,4855.438356164384
